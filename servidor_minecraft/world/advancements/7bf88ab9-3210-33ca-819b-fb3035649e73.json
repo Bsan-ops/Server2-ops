@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-07-12 03:08:11 +0000",
       "minecraft:cherry_grove": "2025-07-08 03:31:24 +0000",
       "minecraft:birch_forest": "2025-07-08 03:46:55 +0000",
       "minecraft:beach": "2025-07-08 04:25:08 +0000",
@@ -2729,6 +2730,12 @@
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2025-07-12 02:48:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-07-12 03:06:30 +0000"
     },
     "done": true
   },

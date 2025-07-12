@@ -6243,5 +6243,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-12 03:02:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
