@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-12 03:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-12 03:05:20 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-12 02:07:28 +0000"
@@ -176,6 +188,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-12 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
     },
     "done": true
   },
@@ -402,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-07-12 03:22:40 +0000"
@@ -480,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-07-12 02:07:28 +0000"
@@ -489,6 +519,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-12 02:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
     },
     "done": true
   },
@@ -540,6 +576,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-07-12 02:07:25 +0000"
@@ -585,6 +633,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-12 02:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-12 03:30:17 +0000"
     },
     "done": true
   },
@@ -804,6 +858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2025-07-12 02:07:49 +0000"
@@ -915,6 +975,18 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-12 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-12 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
     },
     "done": true
   },
@@ -1044,6 +1116,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-07-12 03:30:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2025-07-12 02:07:25 +0000"
@@ -1053,6 +1131,18 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-07-12 03:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-12 03:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
     },
     "done": true
   },
@@ -1404,6 +1494,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-12 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-12 03:30:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-07-12 02:07:49 +0000"
@@ -1434,6 +1536,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-07-12 03:36:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2025-07-12 02:07:49 +0000"
@@ -1457,7 +1565,9 @@
       "minecraft:deep_ocean": "2025-07-12 03:07:48 +0000",
       "minecraft:cherry_grove": "2025-07-12 02:03:39 +0000",
       "minecraft:sunflower_plains": "2025-07-12 02:53:20 +0000",
+      "minecraft:birch_forest": "2025-07-12 03:29:47 +0000",
       "minecraft:beach": "2025-07-12 02:18:55 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-12 03:30:49 +0000",
       "minecraft:river": "2025-07-12 02:14:40 +0000",
       "minecraft:cold_ocean": "2025-07-12 02:56:00 +0000",
       "minecraft:forest": "2025-07-12 02:05:47 +0000",
@@ -1481,6 +1591,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:25 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-07-12 03:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-12 02:07:49 +0000"
@@ -1501,6 +1623,12 @@
       "bread": "2025-07-12 03:26:14 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-12 03:30:16 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {

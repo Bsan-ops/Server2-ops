@@ -27,6 +27,7 @@
       "minecraft:beach": "2025-07-08 02:46:43 +0000",
       "minecraft:dark_forest": "2025-07-08 03:56:05 +0000",
       "minecraft:river": "2025-07-08 02:48:26 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-12 03:31:04 +0000",
       "minecraft:stony_shore": "2025-07-10 06:00:22 +0000",
       "minecraft:dripstone_caves": "2025-07-08 03:48:11 +0000",
       "minecraft:grove": "2025-07-10 04:54:04 +0000",
@@ -2840,9 +2841,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-12 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
     },
     "done": true
   },
@@ -2855,6 +2868,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-12 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
     },
     "done": true
   },
@@ -2882,9 +2901,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-12 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-12 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
     },
     "done": true
   },
@@ -2942,6 +2991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-07-12 03:07:29 +0000"
@@ -2978,9 +3033,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-07-12 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-12 03:30:44 +0000"
     },
     "done": true
   },
@@ -2996,6 +3063,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-07-12 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-07-12 03:21:12 +0000"
@@ -3005,6 +3084,12 @@
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_feather": "2025-07-12 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-12 03:30:44 +0000"
     },
     "done": true
   },
@@ -3035,6 +3120,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-12 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-12 03:36:50 +0000"
     },
     "done": true
   },

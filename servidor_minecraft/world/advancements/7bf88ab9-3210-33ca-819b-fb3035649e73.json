@@ -2058,7 +2058,8 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "creeper_head": "2025-07-08 05:11:24 +0000",
-      "drowned_head": "2025-07-08 05:24:02 +0000"
+      "drowned_head": "2025-07-08 05:24:02 +0000",
+      "zombie_head": "2025-07-12 03:32:42 +0000"
     },
     "done": false
   },
@@ -2735,6 +2736,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/sentry": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/floor_trap": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-12 03:12:44 +0000"
@@ -2744,6 +2757,18 @@
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-07-12 03:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-12 03:33:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/storage_module": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
     },
     "done": true
   },
@@ -2777,9 +2802,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/track_mine": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-12 03:25:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
     },
     "done": true
   },
@@ -2795,9 +2832,75 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/iron_platform": {
+    "criteria": {
+      "has_bars": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/security_camera": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/briefcase": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-07-12 03:12:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/mine": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
     },
     "done": true
   },
@@ -2813,15 +2916,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/speed_module": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-07-12 03:11:24 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
     "criteria": {
       "has_item": "2025-07-12 03:25:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
     },
     "done": true
   },
@@ -2843,15 +2988,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_shield": {
     "criteria": {
       "has_item": "2025-07-12 03:25:35 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-07-12 03:25:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
     },
     "done": true
   },
@@ -2900,6 +3069,18 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-12 03:12:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/harming_module": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/smart_module": {
+    "criteria": {
+      "has_iron": "2025-07-12 03:34:09 +0000"
     },
     "done": true
   },
