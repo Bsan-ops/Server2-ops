@@ -371,3 +371,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 02:08:22.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata was slain by Zombie
 [12Jul2025 02:08:24.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> onii chan
 [12Jul2025 02:08:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[12Jul2025 02:08:49.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata was slain by Zombie
+[12Jul2025 02:09:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
+[12Jul2025 02:09:43.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[12Jul2025 02:09:43.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[12Jul2025 02:09:50.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:53767] logged in with entity id 11571 at (-132.5, 105.0, 84.5)
+[12Jul2025 02:09:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[12Jul2025 02:09:50.980] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[12Jul2025 02:10:23.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Alex's Mobs]
+[12Jul2025 02:10:40.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-133, y=104, z=84}
+[12Jul2025 02:10:44.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[12Jul2025 02:10:44.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[12Jul2025 02:10:52.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43709] logged in with entity id 12033 at (-132.5, 105.0, 84.5)
+[12Jul2025 02:10:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[12Jul2025 02:10:52.291] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[12Jul2025 02:12:10.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[12Jul2025 02:12:12.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[12Jul2025 02:12:12.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[12Jul2025 02:12:20.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:55405] logged in with entity id 12991 at (-65.1713512153461, 65.0, 182.95160819892595)
+[12Jul2025 02:12:20.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[12Jul2025 02:12:20.104] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[12Jul2025 02:15:00.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[12Jul2025 02:15:00.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[12Jul2025 02:15:08.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:53805] logged in with entity id 14728 at (-15.3125, 62.073264324665075, 315.99057934671765)
+[12Jul2025 02:15:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[12Jul2025 02:15:08.550] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[12Jul2025 02:18:11.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> entras al dis o sos timido?
