@@ -1545,12 +1545,6 @@
     },
     "done": true
   },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-07-06 20:18:13 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:root": {
     "criteria": {
       "has_handle": "2025-07-06 20:33:08 +0000"
@@ -3715,12 +3709,6 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-08 08:09:21 +0000"
-    },
-    "done": true
-  },
-  "man:thetear": {
-    "criteria": {
-      "thetear_0": "2025-07-08 08:10:30 +0000"
     },
     "done": true
   },

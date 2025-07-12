@@ -320,3 +320,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 01:36:50.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3321, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
 [12Jul2025 01:37:12.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3358, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
 [12Jul2025 01:37:35.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3439, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
+[12Jul2025 01:40:13.150] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:cassette_recorder_block is
+[12Jul2025 01:40:13.151] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:managgresive is
+[12Jul2025 01:40:13.152] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:tearoftheman is
+[12Jul2025 01:40:13.152] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:cassette_recorder_block is
+[12Jul2025 01:40:13.152] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:cassette_recorder_block is
+[12Jul2025 01:40:13.153] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:cassette_recorder_block is
+[12Jul2025 01:40:13.166] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json - it doesn't exist anymore?
+[12Jul2025 01:40:13.168] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:thetear' in progress file ./world/advancements/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json - it doesn't exist anymore?
+[12Jul2025 01:40:13.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:35071] logged in with entity id 3780 at (278.5, 63.0, 355.5)
+[12Jul2025 01:40:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[12Jul2025 01:40:13.256] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[12Jul2025 01:47:29.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[12Jul2025 01:47:29.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
