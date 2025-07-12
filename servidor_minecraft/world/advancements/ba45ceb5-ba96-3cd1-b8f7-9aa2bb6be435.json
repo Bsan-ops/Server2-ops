@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-07-12 03:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-12 03:05:20 +0000"
@@ -1378,6 +1384,7 @@
       "minecraft:forest": "2025-07-12 02:05:47 +0000",
       "minecraft:deep_cold_ocean": "2025-07-12 02:59:03 +0000",
       "minecraft:ocean": "2025-07-12 02:55:32 +0000",
+      "minecraft:flower_forest": "2025-07-12 03:11:49 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-12 02:14:54 +0000",
       "minecraft:plains": "2025-07-12 02:03:18 +0000"
     },

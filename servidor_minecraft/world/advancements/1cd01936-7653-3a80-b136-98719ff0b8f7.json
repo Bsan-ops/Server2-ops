@@ -382,6 +382,7 @@
       "cooked_cod": "2025-07-05 06:37:45 +0000",
       "pumpkin_pie": "2025-07-09 05:46:25 +0000",
       "golden_apple": "2025-07-10 02:15:24 +0000",
+      "bread": "2025-07-12 03:14:30 +0000",
       "rotten_flesh": "2025-07-06 20:32:49 +0000",
       "melon_slice": "2025-07-08 04:46:25 +0000",
       "golden_carrot": "2025-07-07 03:40:22 +0000",
@@ -4258,6 +4259,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-07-12 02:52:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-07-12 03:15:19 +0000"
     },
     "done": true
   },
