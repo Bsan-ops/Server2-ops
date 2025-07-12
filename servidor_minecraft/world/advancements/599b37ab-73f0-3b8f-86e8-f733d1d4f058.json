@@ -611,6 +611,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-08 04:29:14 +0000",
       "minecraft:spider": "2025-07-08 03:58:50 +0000",
+      "minecraft:piglin_brute": "2025-07-12 03:21:59 +0000",
       "minecraft:creeper": "2025-07-08 04:59:06 +0000",
       "minecraft:wither_skeleton": "2025-07-08 05:10:39 +0000",
       "minecraft:zombie": "2025-07-08 03:57:52 +0000"
@@ -711,6 +712,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-08 03:58:54 +0000",
       "cooked_mutton": "2025-07-08 04:11:57 +0000",
+      "apple": "2025-07-12 03:23:07 +0000",
       "bread": "2025-07-08 04:52:35 +0000",
       "glow_berries": "2025-07-08 04:23:20 +0000"
     },
@@ -3273,6 +3275,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-12 03:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-12 03:11:55 +0000"
@@ -3303,6 +3311,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-12 03:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-07-12 03:15:34 +0000"
@@ -3321,6 +3335,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-12 03:21:47 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-12 03:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-12 03:21:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-07-12 03:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-12 03:21:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-12 03:11:55 +0000"
@@ -3330,6 +3374,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-12 03:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-12 03:22:13 +0000"
     },
     "done": true
   },
