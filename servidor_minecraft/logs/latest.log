@@ -397,3 +397,156 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 02:15:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
 [12Jul2025 02:15:08.550] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
 [12Jul2025 02:18:11.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> entras al dis o sos timido?
+[12Jul2025 02:19:23.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Sweet Dreams]
+[12Jul2025 02:19:35.714] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/1cd01936-7653-3a80-b136-98719ff0b8f7.json: Don't know what man:managgresive is
+[12Jul2025 02:19:35.733] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/1cd01936-7653-3a80-b136-98719ff0b8f7.json - it doesn't exist anymore?
+[12Jul2025 02:19:35.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:50661] logged in with entity id 18385 at (-1515.802070518133, 126.0, 1795.9981032866635)
+[12Jul2025 02:19:35.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[12Jul2025 02:19:35.761] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[12Jul2025 02:19:37.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[12Jul2025 02:21:05.045] [Worker-Main-65/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[12Jul2025 02:21:05.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron moved too quickly! 10.20875071389073,0.0,0.3297183881161345
+[12Jul2025 02:21:05.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[12Jul2025 02:22:48.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[12Jul2025 02:23:23.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps moved too quickly! -0.2694759070276973,-0.12026406704569581,10.0660111350536
+[12Jul2025 02:23:23.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[12Jul2025 02:24:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Fisticuffs]
+[12Jul2025 02:25:14.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24362, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[12Jul2025 02:25:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Fisticuffs]
+[12Jul2025 02:26:08.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8, y=79, z=-561} BlockPos{x=8, y=79, z=-560}
+[12Jul2025 02:26:55.502] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [6, 102], discarding
+[12Jul2025 02:26:55.503] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [6, 103], discarding
+[12Jul2025 02:26:55.505] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [6, 104], discarding
+[12Jul2025 02:26:55.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [5, 102], discarding
+[12Jul2025 02:26:55.589] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [5, 103], discarding
+[12Jul2025 02:26:55.591] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: man:house
+[12Jul2025 02:26:55.591] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [5, 104], discarding
+[12Jul2025 02:26:55.679] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [4, 102], discarding
+[12Jul2025 02:26:55.728] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [4, 103], discarding
+[12Jul2025 02:26:55.737] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [4, 104], discarding
+[12Jul2025 02:26:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Monster Hunter]
+[12Jul2025 02:26:58.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.29508985835445856
+[12Jul2025 02:26:58.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.6878171695539095
+[12Jul2025 02:27:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Mine? Mine? Mine?]
+[12Jul2025 02:28:01.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata was burnt to a crisp whilst fighting Zombie
+[12Jul2025 02:30:29.513] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-49, 61], discarding
+[12Jul2025 02:30:29.515] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-48, 61], discarding
+[12Jul2025 02:30:29.516] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-47, 61], discarding
+[12Jul2025 02:30:29.527] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-49, 62], discarding
+[12Jul2025 02:30:29.529] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-48, 62], discarding
+[12Jul2025 02:30:29.530] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: man:house
+[12Jul2025 02:30:29.531] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-47, 62], discarding
+[12Jul2025 02:30:29.584] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-49, 63], discarding
+[12Jul2025 02:30:29.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-48, 63], discarding
+[12Jul2025 02:30:29.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-47, 63], discarding
+[12Jul2025 02:30:59.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Who is Cutting Onions?]
+[12Jul2025 02:34:11.927] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [luckys_armory:luckys_armory,alexsmobs:main_channel,mantle:network,carryon:carryonpackets,tconstruct:network,ancore:ancore,citadel:main_channel] rejected their client side version number
+[12Jul2025 02:34:11.928] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Jul2025 02:34:11.977] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a1908ea[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:36133) lost connection: Connection closed - mismatched mod channel list
+[12Jul2025 02:36:08.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Isn't It Iron Pick]
+[12Jul2025 02:37:49.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.26884564676396394
+[12Jul2025 02:37:49.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7326269541804891
+[12Jul2025 02:37:49.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.8665848285995139
+[12Jul2025 02:37:49.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.8773891126514286
+[12Jul2025 02:37:49.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.9495461490040498
+[12Jul2025 02:38:40.341] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [luckys_armory:luckys_armory,alexsmobs:main_channel,mantle:network,carryon:carryonpackets,tconstruct:network,ancore:ancore,citadel:main_channel] rejected their client side version number
+[12Jul2025 02:38:40.342] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Jul2025 02:38:40.378] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@750f9d55[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:42579) lost connection: Connection closed - mismatched mod channel list
+[12Jul2025 02:38:52.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43466, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
+[12Jul2025 02:39:13.288] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [luckys_armory:luckys_armory,alexsmobs:main_channel,mantle:network,carryon:carryonpackets,tconstruct:network,ancore:ancore,citadel:main_channel] rejected their client side version number
+[12Jul2025 02:39:13.289] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Jul2025 02:39:13.297] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10d64e40[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:39287) lost connection: Connection closed - mismatched mod channel list
+[12Jul2025 02:39:36.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/44253, l='ServerLevel[world]', x=189.46, y=-256.00, z=405.90] died, message: 'Unemployed was killed'
+[12Jul2025 02:39:51.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/44623, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[12Jul2025 02:39:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[12Jul2025 02:41:37.692] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [luckys_armory:luckys_armory,alexsmobs:main_channel,mantle:network,carryon:carryonpackets,tconstruct:network,ancore:ancore,citadel:main_channel] rejected their client side version number
+[12Jul2025 02:41:37.693] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Jul2025 02:41:37.742] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e29777e[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:47679) lost connection: Connection closed - mismatched mod channel list
+[12Jul2025 02:43:00.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5920068809082863
+[12Jul2025 02:43:00.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6534908655697791
+[12Jul2025 02:43:00.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7066841862931028
+[12Jul2025 02:43:00.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7526001052394236
+[12Jul2025 02:43:19.078] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ancore:ancore] rejected their client side version number
+[12Jul2025 02:43:19.078] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Jul2025 02:43:19.102] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7139f1e6[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:60587) lost connection: Connection closed - mismatched mod channel list
+[12Jul2025 02:45:34.437] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16538922[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:53681) lost connection: Disconnected
+[12Jul2025 02:46:01.906] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ancore:ancore] rejected their client side version number
+[12Jul2025 02:46:01.907] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Jul2025 02:46:01.933] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6688fee9[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:49219) lost connection: Connection closed - mismatched mod channel list
+[12Jul2025 02:46:55.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2806625611800655
+[12Jul2025 02:46:55.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6721095909315409
+[12Jul2025 02:46:55.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.688268768502212
+[12Jul2025 02:46:55.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.9249156322192675
+[12Jul2025 02:48:05.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Take Aim, Chaps!]
+[12Jul2025 02:48:19.343] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/7bf88ab9-3210-33ca-819b-fb3035649e73.json - it doesn't exist anymore?
+[12Jul2025 02:48:19.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: albertano15[/127.53.149.168:46789] logged in with entity id 58058 at (110.69999998807907, -15.0, 189.30000001192093)
+[12Jul2025 02:48:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 joined the game
+[12Jul2025 02:48:19.413] [Server thread/INFO] [Jade/]: Syncing config to albertano15 (7bf88ab9-3210-33ca-819b-fb3035649e73)
+[12Jul2025 02:48:19.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: albertano15 lost connection: Disconnected
+[12Jul2025 02:48:19.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 left the game
+[12Jul2025 02:48:19.465] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jul2025 02:48:23.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: albertano15[/127.53.149.168:52091] logged in with entity id 58110 at (110.69999998807907, -15.0, 189.30000001192093)
+[12Jul2025 02:48:24.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 joined the game
+[12Jul2025 02:48:24.040] [Server thread/INFO] [Jade/]: Syncing config to albertano15 (7bf88ab9-3210-33ca-819b-fb3035649e73)
+[12Jul2025 02:48:43.599] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d561e59[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:47863) lost connection: Disconnected
+[12Jul2025 02:48:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> ahora si
+[12Jul2025 02:48:50.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
+[12Jul2025 02:49:28.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[12Jul2025 02:51:18.284] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/599b37ab-73f0-3b8f-86e8-f733d1d4f058.json - it doesn't exist anymore?
+[12Jul2025 02:51:18.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kcronoz[/127.159.126.52:46533] logged in with entity id 61960 at (1059.5264646564124, -54.0, 207.78282103871575)
+[12Jul2025 02:51:18.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz joined the game
+[12Jul2025 02:51:18.312] [Server thread/INFO] [Jade/]: Syncing config to Kcronoz (599b37ab-73f0-3b8f-86e8-f733d1d4f058)
+[12Jul2025 02:51:25.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[12Jul2025 02:52:04.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[12Jul2025 02:52:24.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4929ms or 98 ticks behind
+[12Jul2025 02:52:42.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kcronoz lost connection: Disconnected
+[12Jul2025 02:52:42.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz left the game
+[12Jul2025 02:52:43.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3846ms or 76 ticks behind
+[12Jul2025 02:52:48.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kcronoz[/127.159.126.52:37977] logged in with entity id 65062 at (1065.02619097359, -46.0, 212.2830477797623)
+[12Jul2025 02:52:48.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz joined the game
+[12Jul2025 02:52:48.699] [Server thread/INFO] [Jade/]: Syncing config to Kcronoz (599b37ab-73f0-3b8f-86e8-f733d1d4f058)
+[12Jul2025 02:53:27.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[12Jul2025 02:54:22.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -10.135878234000756,0.0,-0.5588581499439442
+[12Jul2025 02:54:22.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -10.524963061249082,0.0,-0.5087408855149533
+[12Jul2025 02:54:22.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -10.914263330258336,0.0,-0.4553096285178526
+[12Jul2025 02:54:22.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -11.303732582105795,0.0,-0.398779535261383
+[12Jul2025 02:54:23.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[12Jul2025 02:54:37.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> QUE CORDENADA ANDAN DAMAGE
+[12Jul2025 02:55:31.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: albertano15 lost connection: Disconnected
+[12Jul2025 02:55:31.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 left the game
+[12Jul2025 02:55:57.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.9377299407068449
+[12Jul2025 02:55:57.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.9377299407068449
+[12Jul2025 02:55:57.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.5710732232003011
+[12Jul2025 02:55:57.901] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a6196d5[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:40191) lost connection: Disconnected
+[12Jul2025 02:56:31.056] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@198511d3[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:46015) lost connection: Disconnected
+[12Jul2025 02:57:07.210] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6213ed05[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:34227) lost connection: Disconnected
+[12Jul2025 02:57:29.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[12Jul2025 02:57:46.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[12Jul2025 02:57:51.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.6555252889477288
+[12Jul2025 02:57:51.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.7098019004370144
+[12Jul2025 02:57:51.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.3260005879503751
+[12Jul2025 02:57:51.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.748219120552676
+[12Jul2025 02:57:51.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5390868045246862
+[12Jul2025 02:57:51.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.8212107686981653
+[12Jul2025 02:57:51.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.7666071503404055
+[12Jul2025 02:57:51.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.925317266654929
+[12Jul2025 02:57:51.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.0068580527561153
+[12Jul2025 02:57:51.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.37024896493539927
+[12Jul2025 02:57:51.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5050820148367166
+[12Jul2025 02:57:51.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5310576846245567
+[12Jul2025 02:57:51.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.673205798167146
+[12Jul2025 02:57:51.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.4575411119731143
+[12Jul2025 02:57:52.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.28834147917564223
+[12Jul2025 02:57:52.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.4922267833026126
+[12Jul2025 02:57:52.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Diamonds!]
+[12Jul2025 02:58:08.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3259ms or 65 ticks behind
+[12Jul2025 02:58:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> no usen x raid
+[12Jul2025 02:58:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> yo soy legal
+[12Jul2025 02:58:28.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> eso es pa gays
+[12Jul2025 02:58:29.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> xD en el server se ve
+[12Jul2025 02:59:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> solo por casulidad
+[12Jul2025 02:59:24.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: albertano15[/127.53.149.168:46281] logged in with entity id 74476 at (146.66865712289768, -42.0, 171.26220678094037)
+[12Jul2025 02:59:24.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 joined the game
+[12Jul2025 02:59:24.955] [Server thread/INFO] [Jade/]: Syncing config to albertano15 (7bf88ab9-3210-33ca-819b-fb3035649e73)
+[12Jul2025 02:59:26.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[12Jul2025 02:59:31.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind

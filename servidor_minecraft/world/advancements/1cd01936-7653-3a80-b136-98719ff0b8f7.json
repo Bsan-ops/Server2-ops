@@ -30,9 +30,11 @@
       "minecraft:deep_cold_ocean": "2025-07-10 01:20:15 +0000",
       "minecraft:ocean": "2025-07-07 02:08:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-10 01:22:19 +0000",
+      "minecraft:flower_forest": "2025-07-12 02:48:10 +0000",
       "minecraft:frozen_peaks": "2025-07-05 06:30:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-07 02:15:05 +0000",
       "minecraft:deep_dark": "2025-07-07 03:58:52 +0000",
+      "minecraft:meadow": "2025-07-12 02:50:34 +0000",
       "minecraft:savanna": "2025-07-05 06:41:28 +0000",
       "minecraft:plains": "2025-07-05 06:37:03 +0000"
     },
@@ -2211,12 +2213,6 @@
     },
     "done": true
   },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-07-06 20:15:30 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-07-06 20:25:47 +0000"
@@ -4238,6 +4234,30 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-07-10 04:23:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-07-12 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-12 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:cestus": {
+    "criteria": {
+      "has_cestus": "2025-07-12 02:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-12 02:52:50 +0000"
     },
     "done": true
   },
