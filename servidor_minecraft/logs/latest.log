@@ -817,3 +817,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 07:11:24.519] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
 [13Jul2025 07:11:24.520] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
 [13Jul2025 07:11:24.520] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 07:15:02.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[13Jul2025 07:15:19.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[13Jul2025 07:15:37.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
+[13Jul2025 07:16:30.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2809ms or 56 ticks behind
+[13Jul2025 07:16:31.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:18:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:20:33.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Husk
+[13Jul2025 07:20:38.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[13Jul2025 07:20:40.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:20:57.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle moved too quickly! 9.258160051142113,0.7477966597462711,3.8486671092919096
+[13Jul2025 07:20:59.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5966ms or 119 ticks behind
+[13Jul2025 07:21:16.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:21:40.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle moved too quickly! 3.7864271163825833,0.0,9.400179698195188
+[13Jul2025 07:21:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> 1106 62 -2172
+[13Jul2025 07:21:40.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4448ms or 88 ticks behind
+[13Jul2025 07:21:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:21:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> me tpa santy
+[13Jul2025 07:22:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> 1106 62 -2172
+[13Jul2025 07:22:09.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to 1106.500000, 62.000000, -2171.500000]
+[13Jul2025 07:22:25.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Husk
+[13Jul2025 07:22:31.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to 1106.500000, 62.000000, -2171.500000]
+[13Jul2025 07:22:48.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:23:11.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:23:30.998] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 07:23:30.998] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 07:23:30.998] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 07:23:30.998] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 07:24:19.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:19.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:19.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:19.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:19.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:19.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:19.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:20.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:20.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:20.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:20.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2412, y=97, z=2916} BlockPos{x=-2413, y=97, z=2915}
+[13Jul2025 07:24:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:24:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:25:07.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jul2025 07:25:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jul2025 07:25:07.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Server closed
+[13Jul2025 07:25:07.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[13Jul2025 07:25:07.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky lost connection: Server closed
+[13Jul2025 07:25:07.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky left the game
+[13Jul2025 07:25:07.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
