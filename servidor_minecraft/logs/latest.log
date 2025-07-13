@@ -1,35 +1,35 @@
-[12Jul2025 01:18:17.408] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[12Jul2025 01:18:17.411] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[12Jul2025 01:18:21.472] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[12Jul2025 01:18:21.482] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[12Jul2025 01:18:21.483] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Server2-ops/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23130!/
-[12Jul2025 01:18:21.490] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Server2-ops/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
-[12Jul2025 01:18:21.492] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[12Jul2025 01:18:21.652] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server2-ops/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[12Jul2025 01:18:21.664] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[12Jul2025 01:18:22.122] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[12Jul2025 01:18:22.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Jul2025 01:18:22.124] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Jul2025 01:18:22.125] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Jul2025 01:18:22.421] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[12Jul2025 01:18:22.422] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[12Jul2025 01:18:23.201] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[12Jul2025 01:18:23.206] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[12Jul2025 01:18:23.985] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[12Jul2025 01:18:25.016] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[12Jul2025 01:18:25.103] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[12Jul2025 01:18:25.105] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[12Jul2025 01:18:25.282] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Jul2025 01:18:26.738] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[12Jul2025 01:18:26.739] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[12Jul2025 01:18:26.739] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[12Jul2025 01:18:26.743] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[12Jul2025 01:18:26.743] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[12Jul2025 01:18:26.744] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[12Jul2025 01:18:26.745] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[12Jul2025 01:18:26.745] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[12Jul2025 01:18:26.952] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[12Jul2025 01:18:27.373] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[13Jul2025 04:48:43.815] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[13Jul2025 04:48:43.821] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[13Jul2025 04:48:46.936] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Jul2025 04:48:46.946] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[13Jul2025 04:48:46.947] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Server2-ops/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23130!/
+[13Jul2025 04:48:46.953] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Server2-ops/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[13Jul2025 04:48:46.955] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[13Jul2025 04:48:47.104] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server2-ops/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[13Jul2025 04:48:47.113] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[13Jul2025 04:48:47.432] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 04:48:47.433] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 04:48:47.434] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 04:48:47.435] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 04:48:47.677] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[13Jul2025 04:48:47.678] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[13Jul2025 04:48:48.330] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[13Jul2025 04:48:48.337] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[13Jul2025 04:48:49.017] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[13Jul2025 04:48:49.957] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Jul2025 04:48:50.060] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[13Jul2025 04:48:50.062] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13Jul2025 04:48:50.233] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Jul2025 04:48:51.760] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[13Jul2025 04:48:51.761] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[13Jul2025 04:48:51.761] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[13Jul2025 04:48:51.766] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[13Jul2025 04:48:51.766] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[13Jul2025 04:48:51.767] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[13Jul2025 04:48:51.768] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[13Jul2025 04:48:51.769] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[13Jul2025 04:48:51.917] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[13Jul2025 04:48:52.357] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
@@ -59,196 +59,87 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[12Jul2025 01:18:33.951] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[12Jul2025 01:18:34.335] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[12Jul2025 01:18:34.789] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[12Jul2025 01:18:34.789] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[12Jul2025 01:18:34.801] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[12Jul2025 01:18:35.017] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[12Jul2025 01:18:35.018] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[12Jul2025 01:18:38.898] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[12Jul2025 01:18:38.899] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[12Jul2025 01:18:38.901] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[12Jul2025 01:18:39.055] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[12Jul2025 01:18:39.088] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[12Jul2025 01:18:39.157] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[12Jul2025 01:18:39.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[12Jul2025 01:18:39.815] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[12Jul2025 01:18:39.815] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[12Jul2025 01:18:39.818] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[12Jul2025 01:18:39.819] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[12Jul2025 01:18:39.887] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[12Jul2025 01:18:39.909] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[12Jul2025 01:18:39.914] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[12Jul2025 01:18:39.916] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[12Jul2025 01:18:39.918] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[12Jul2025 01:18:40.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.24 Target: 1.20.1-1.0.32
-[12Jul2025 01:18:40.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[12Jul2025 01:18:40.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[12Jul2025 01:18:40.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[12Jul2025 01:18:40.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[12Jul2025 01:18:40.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Jul2025 01:18:40.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[12Jul2025 01:18:42.768] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Jul2025 01:18:42.844] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-man (version 1.4 -> MISSING)
-Things may not work well.
-[12Jul2025 01:18:42.993] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
-	man:cassette_recorder_block: 1011
-
-[12Jul2025 01:18:42.994] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:enchantment
-	man:fog_protection: 43
-	man:fogspeed: 42
-
-[12Jul2025 01:18:42.995] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
-	man:managgresive: 165
-	man:manfromthefog: 164
-	man:manfromthefogback: 166
-	man:mftfhang: 167
-
-[12Jul2025 01:18:42.996] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
-	man:cassette_1safetyinstructions: 1372
-	man:cassette_recorder_block: 1373
-	man:manfromthefog_spawn_egg: 1369
-	man:manfromthefogback_spawn_egg: 1371
-	man:mftfhang_spawn_egg: 1374
-	man:tearoftheman: 1370
-
-[12Jul2025 01:18:42.997] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:point_of_interest_type
-	man:cultist: 20
-
-[12Jul2025 01:18:42.998] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
-	man:forest_ambient: 1672
-	man:jumpscare: 1668
-	man:long_riser: 1674
-	man:long_whisper: 1676
-	man:look: 1667
-	man:loop: 1669
-	man:ritual: 1680
-	man:ritual_enter: 1675
-	man:safety_instructions: 1679
-	man:scream_loop: 1665
-	man:short_whisper_1: 1677
-	man:short_whisper_2: 1678
-	man:spawn_1: 1662
-	man:spawn_2: 1663
-	man:spawn_3: 1664
-	man:spawn_4: 1670
-	man:spawn_5: 1671
-	man:vanish: 1666
-	man:white_noise_passby: 1673
-
-[12Jul2025 01:18:43.003] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:villager_profession
-	man:cultist: 15
-
-[12Jul2025 01:18:43.006] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
-
-There are 34 missing entries in this save.
-If you continue the missing entries will get removed.
-A world backup will be automatically created in your saves directory.
-
-
-[12Jul2025 01:18:43.007] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
-    man:forest_ambient
-    man:jumpscare
-    man:long_riser
-    man:long_whisper
-    man:look
-    man:loop
-    man:ritual
-    man:ritual_enter
-    man:safety_instructions
-    man:scream_loop
-    man:short_whisper_1
-    man:short_whisper_2
-    man:spawn_1
-    man:spawn_2
-    man:spawn_3
-    man:spawn_4
-    man:spawn_5
-    man:vanish
-    man:white_noise_passby
-
-Missing minecraft:villager_profession:
-    man:cultist
-
-Missing minecraft:item:
-    man:cassette_1safetyinstructions
-    man:cassette_recorder_block
-    man:manfromthefog_spawn_egg
-    man:manfromthefogback_spawn_egg
-    man:mftfhang_spawn_egg
-    man:tearoftheman
-
-Missing minecraft:block:
-    man:cassette_recorder_block
-
-Missing minecraft:point_of_interest_type:
-    man:cultist
-
-Missing minecraft:enchantment:
-    man:fog_protection
-    man:fogspeed
-
-Missing minecraft:entity_type:
-    man:managgresive
-    man:manfromthefog
-    man:manfromthefogback
-    man:mftfhang
-
-
-[12Jul2025 01:18:43.009] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
-[12Jul2025 01:18:44.463] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
-[12Jul2025 01:18:44.463] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
-[12Jul2025 01:18:44.575] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:man
-[12Jul2025 01:18:45.655] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[12Jul2025 01:18:45.685] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[12Jul2025 01:18:46.440] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[12Jul2025 01:18:46.459] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[12Jul2025 01:18:46.495] [Worker-Main-2/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 11.070491 ms
-[12Jul2025 01:18:46.538] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[12Jul2025 01:18:46.691] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[12Jul2025 01:18:46.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[12Jul2025 01:18:46.705] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[12Jul2025 01:18:46.705] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[12Jul2025 01:18:46.719] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[12Jul2025 01:18:46.719] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[12Jul2025 01:18:46.734] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[12Jul2025 01:18:46.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[12Jul2025 01:18:46.739] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[12Jul2025 01:18:46.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[12Jul2025 01:18:46.742] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[12Jul2025 01:18:46.743] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[12Jul2025 01:18:46.755] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[12Jul2025 01:18:46.755] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[12Jul2025 01:18:46.755] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[12Jul2025 01:18:46.755] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[12Jul2025 01:18:46.763] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[12Jul2025 01:18:46.763] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[12Jul2025 01:18:46.777] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[12Jul2025 01:18:46.778] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
-[12Jul2025 01:18:46.786] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[12Jul2025 01:18:46.786] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[12Jul2025 01:18:46.786] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[12Jul2025 01:18:46.787] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[12Jul2025 01:18:46.797] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[12Jul2025 01:18:46.798] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[12Jul2025 01:18:46.804] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[12Jul2025 01:18:46.804] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[12Jul2025 01:18:46.805] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[12Jul2025 01:18:46.805] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[12Jul2025 01:18:46.828] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[12Jul2025 01:18:46.829] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[12Jul2025 01:18:46.832] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[12Jul2025 01:18:46.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[12Jul2025 01:18:46.839] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[12Jul2025 01:18:46.839] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[12Jul2025 01:18:46.843] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[12Jul2025 01:18:46.843] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[12Jul2025 01:18:46.844] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[12Jul2025 01:18:46.844] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
-[12Jul2025 01:18:46.853] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
-[12Jul2025 01:18:46.855] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[13Jul2025 04:48:58.890] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[13Jul2025 04:48:59.102] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[13Jul2025 04:48:59.493] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[13Jul2025 04:48:59.494] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[13Jul2025 04:48:59.497] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[13Jul2025 04:48:59.728] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Jul2025 04:48:59.729] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Jul2025 04:49:03.897] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[13Jul2025 04:49:03.899] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[13Jul2025 04:49:03.901] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[13Jul2025 04:49:04.063] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[13Jul2025 04:49:04.089] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[13Jul2025 04:49:04.161] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[13Jul2025 04:49:04.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[13Jul2025 04:49:04.815] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[13Jul2025 04:49:04.818] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[13Jul2025 04:49:04.821] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[13Jul2025 04:49:04.821] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[13Jul2025 04:49:04.934] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[13Jul2025 04:49:04.954] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[13Jul2025 04:49:04.958] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[13Jul2025 04:49:04.960] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[13Jul2025 04:49:04.961] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[13Jul2025 04:49:05.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.24 Target: 1.20.1-1.0.32
+[13Jul2025 04:49:05.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[13Jul2025 04:49:05.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[13Jul2025 04:49:05.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[13Jul2025 04:49:05.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[13Jul2025 04:49:05.411] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Jul2025 04:49:05.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[13Jul2025 04:49:07.553] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Jul2025 04:49:09.208] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
+[13Jul2025 04:49:09.208] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
+[13Jul2025 04:49:10.355] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[13Jul2025 04:49:10.383] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[13Jul2025 04:49:11.196] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[13Jul2025 04:49:11.211] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[13Jul2025 04:49:11.264] [Worker-Main-2/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 17.321804 ms
+[13Jul2025 04:49:11.308] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[13Jul2025 04:49:11.457] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[13Jul2025 04:49:11.457] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[13Jul2025 04:49:11.471] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[13Jul2025 04:49:11.471] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[13Jul2025 04:49:11.488] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[13Jul2025 04:49:11.489] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[13Jul2025 04:49:11.509] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[13Jul2025 04:49:11.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[13Jul2025 04:49:11.516] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[13Jul2025 04:49:11.516] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[13Jul2025 04:49:11.519] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[13Jul2025 04:49:11.519] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[13Jul2025 04:49:11.531] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[13Jul2025 04:49:11.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[13Jul2025 04:49:11.531] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[13Jul2025 04:49:11.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[13Jul2025 04:49:11.538] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[13Jul2025 04:49:11.539] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[13Jul2025 04:49:11.555] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[13Jul2025 04:49:11.555] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
+[13Jul2025 04:49:11.565] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[13Jul2025 04:49:11.565] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[13Jul2025 04:49:11.566] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[13Jul2025 04:49:11.566] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[13Jul2025 04:49:11.578] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[13Jul2025 04:49:11.578] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[13Jul2025 04:49:11.583] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[13Jul2025 04:49:11.583] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[13Jul2025 04:49:11.584] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[13Jul2025 04:49:11.584] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[13Jul2025 04:49:11.605] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[13Jul2025 04:49:11.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[13Jul2025 04:49:11.608] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[13Jul2025 04:49:11.609] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[13Jul2025 04:49:11.615] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[13Jul2025 04:49:11.615] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[13Jul2025 04:49:11.621] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[13Jul2025 04:49:11.621] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[13Jul2025 04:49:11.621] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[13Jul2025 04:49:11.621] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
+[13Jul2025 04:49:11.633] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
+[13Jul2025 04:49:11.634] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -264,624 +155,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[12Jul2025 01:18:46.898] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[12Jul2025 01:18:46.953] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[12Jul2025 01:18:46.982] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[12Jul2025 01:18:46.993] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[12Jul2025 01:18:47.046] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3375 advancements
-[12Jul2025 01:18:47.052] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 1.572922 ms
-[12Jul2025 01:18:47.118] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 152 dynamic modifiers and 4 modifier redirects in 61.26564 ms
-[12Jul2025 01:18:47.125] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 42 modifier tags for 140 modifiers in 7.777953 ms
-[12Jul2025 01:18:47.126] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 1.055074 ms
-[12Jul2025 01:18:47.135] [main/INFO] [tconstruct/]: Loaded 43 spilling fluids in 3.529561 ms
-[12Jul2025 01:18:47.150] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 52 materials in 4.878997 ms
-[12Jul2025 01:18:47.152] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 9 material tags for 39 materials in 2.177302 ms
-[12Jul2025 01:18:47.161] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 383 stats loaded for 65 materials in 8.488127 ms
-[12Jul2025 01:18:47.174] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 202 traits loaded for 65 materials in 13.121443 ms
-[12Jul2025 01:18:47.185] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 10.157869 ms
-[12Jul2025 01:18:47.189] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 3.789326 ms
-[12Jul2025 01:18:48.586] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 4.962811ms
-[12Jul2025 01:18:48.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[12Jul2025 01:18:48.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Jul2025 01:18:48.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Jul2025 01:18:48.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Jul2025 01:18:48.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Jul2025 01:18:48.861] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Jul2025 01:18:49.015] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12Jul2025 01:18:49.016] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[12Jul2025 01:18:49.016] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12Jul2025 01:18:49.016] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[12Jul2025 01:18:49.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Jul2025 01:18:52.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Jul2025 01:18:57.605] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.606] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.607] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.608] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.608] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.608] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.609] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.609] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.610] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.610] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.611] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:57.825] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jul2025 01:18:58.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[12Jul2025 01:18:58.812] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6487 ms
-[12Jul2025 01:18:58.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.782s)! For help, type "help"
-[12Jul2025 01:18:58.887] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Jul2025 01:19:19.150] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[12Jul2025 01:19:19.178] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/22592360-5cd4-3e8f-9fc0-96977e63922e.json: Don't know what man:managgresive is
-[12Jul2025 01:19:19.283] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/22592360-5cd4-3e8f-9fc0-96977e63922e.json - it doesn't exist anymore?
-[12Jul2025 01:19:19.288] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:thetear' in progress file ./world/advancements/22592360-5cd4-3e8f-9fc0-96977e63922e.json - it doesn't exist anymore?
-[12Jul2025 01:19:19.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:40869] logged in with entity id 116 at (282.23750001192093, 74.0, 355.1564694923808)
-[12Jul2025 01:19:19.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
-[12Jul2025 01:19:19.524] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
-[12Jul2025 01:19:22.032] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
-[12Jul2025 01:36:50.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3321, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
-[12Jul2025 01:37:12.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3358, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
-[12Jul2025 01:37:35.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3439, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
-[12Jul2025 01:40:13.150] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:cassette_recorder_block is
-[12Jul2025 01:40:13.151] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:managgresive is
-[12Jul2025 01:40:13.152] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:tearoftheman is
-[12Jul2025 01:40:13.152] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:cassette_recorder_block is
-[12Jul2025 01:40:13.152] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:cassette_recorder_block is
-[12Jul2025 01:40:13.153] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json: Don't know what man:cassette_recorder_block is
-[12Jul2025 01:40:13.166] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json - it doesn't exist anymore?
-[12Jul2025 01:40:13.168] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:thetear' in progress file ./world/advancements/d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8.json - it doesn't exist anymore?
-[12Jul2025 01:40:13.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:35071] logged in with entity id 3780 at (278.5, 63.0, 355.5)
-[12Jul2025 01:40:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[12Jul2025 01:40:13.256] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[12Jul2025 01:47:29.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[12Jul2025 01:47:29.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[12Jul2025 01:48:47.871] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
-[12Jul2025 01:49:37.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5042, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
-[12Jul2025 01:51:34.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5282, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
-[12Jul2025 01:52:17.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5365, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
-[12Jul2025 01:59:01.903] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/903c2398-d1ce-3306-8154-61a0ecf60720.json: Don't know what man:managgresive is
-[12Jul2025 01:59:01.916] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/903c2398-d1ce-3306-8154-61a0ecf60720.json - it doesn't exist anymore?
-[12Jul2025 01:59:01.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:37919] logged in with entity id 6206 at (289.94471368044265, 70.0, 354.9714191144387)
-[12Jul2025 01:59:01.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
-[12Jul2025 01:59:02.017] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
-[12Jul2025 02:02:01.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:34785] logged in with entity id 6914 at (276.6508421259881, 64.0, 356.3203319599728)
-[12Jul2025 02:02:01.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[12Jul2025 02:02:01.842] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[12Jul2025 02:03:09.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7174, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
-[12Jul2025 02:03:17.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: corbata[/127.166.177.210:53387] logged in with entity id 7200 at (-137.5, 104.0, 84.5)
-[12Jul2025 02:03:17.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata joined the game
-[12Jul2025 02:03:17.721] [Server thread/INFO] [Jade/]: Syncing config to corbata (ba45ceb5-ba96-3cd1-b8f7-9aa2bb6be435)
-[12Jul2025 02:03:28.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> mis cosas bichito
-[12Jul2025 02:03:30.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> cofre de abajo en la entrada
-[12Jul2025 02:03:36.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> d1
-[12Jul2025 02:03:38.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> y deja de entrar asi
-[12Jul2025 02:03:40.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7415, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
-[12Jul2025 02:03:52.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-135, y=105, z=82}
-[12Jul2025 02:04:30.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata was shot by Skeleton
-[12Jul2025 02:05:01.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8319, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
-[12Jul2025 02:05:03.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=108, z=68} BlockPos{x=-129, y=105, z=96}
-[12Jul2025 02:06:36.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata was slain by Zombie
-[12Jul2025 02:07:28.810] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20ddba78[id=<null>,name=Riuksaky,properties={},legacy=false] (/127.71.165.236:35427) lost connection: Disconnected
-[12Jul2025 02:07:31.561] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37cb1df2[id=<null>,name=Riuksaky,properties={},legacy=false] (/127.71.165.236:48891) lost connection: Disconnected
-[12Jul2025 02:07:49.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Stone Age]
-[12Jul2025 02:07:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Getting an Upgrade]
-[12Jul2025 02:08:00.107] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ada5ce0-2dd0-38eb-a8e8-5ba8471bc9b1.json: Don't know what man:managgresive is
-[12Jul2025 02:08:00.110] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/9ada5ce0-2dd0-38eb-a8e8-5ba8471bc9b1.json - it doesn't exist anymore?
-[12Jul2025 02:08:00.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Riuksaky[/127.71.165.236:59201] logged in with entity id 10007 at (818.5, 76.0, 99.5)
-[12Jul2025 02:08:00.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky joined the game
-[12Jul2025 02:08:00.138] [Server thread/INFO] [Jade/]: Syncing config to Riuksaky (9ada5ce0-2dd0-38eb-a8e8-5ba8471bc9b1)
-[12Jul2025 02:08:22.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata was slain by Zombie
-[12Jul2025 02:08:24.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> onii chan
-[12Jul2025 02:08:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
-[12Jul2025 02:08:49.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata was slain by Zombie
-[12Jul2025 02:09:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
-[12Jul2025 02:09:43.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[12Jul2025 02:09:43.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[12Jul2025 02:09:50.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:53767] logged in with entity id 11571 at (-132.5, 105.0, 84.5)
-[12Jul2025 02:09:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[12Jul2025 02:09:50.980] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[12Jul2025 02:10:23.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Alex's Mobs]
-[12Jul2025 02:10:40.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-133, y=104, z=84}
-[12Jul2025 02:10:44.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[12Jul2025 02:10:44.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[12Jul2025 02:10:52.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43709] logged in with entity id 12033 at (-132.5, 105.0, 84.5)
-[12Jul2025 02:10:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[12Jul2025 02:10:52.291] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[12Jul2025 02:12:10.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
-[12Jul2025 02:12:12.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[12Jul2025 02:12:12.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[12Jul2025 02:12:20.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:55405] logged in with entity id 12991 at (-65.1713512153461, 65.0, 182.95160819892595)
-[12Jul2025 02:12:20.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[12Jul2025 02:12:20.104] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[12Jul2025 02:15:00.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
-[12Jul2025 02:15:00.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[12Jul2025 02:15:08.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:53805] logged in with entity id 14728 at (-15.3125, 62.073264324665075, 315.99057934671765)
-[12Jul2025 02:15:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[12Jul2025 02:15:08.550] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[12Jul2025 02:18:11.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> entras al dis o sos timido?
-[12Jul2025 02:19:23.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Sweet Dreams]
-[12Jul2025 02:19:35.714] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/1cd01936-7653-3a80-b136-98719ff0b8f7.json: Don't know what man:managgresive is
-[12Jul2025 02:19:35.733] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/1cd01936-7653-3a80-b136-98719ff0b8f7.json - it doesn't exist anymore?
-[12Jul2025 02:19:35.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:50661] logged in with entity id 18385 at (-1515.802070518133, 126.0, 1795.9981032866635)
-[12Jul2025 02:19:35.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[12Jul2025 02:19:35.761] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[12Jul2025 02:19:37.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[12Jul2025 02:21:05.045] [Worker-Main-65/INFO] [citadel/]: vanilla surface rule behavior unchanged
-[12Jul2025 02:21:05.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron moved too quickly! 10.20875071389073,0.0,0.3297183881161345
-[12Jul2025 02:21:05.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
-[12Jul2025 02:22:48.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
-[12Jul2025 02:23:23.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps moved too quickly! -0.2694759070276973,-0.12026406704569581,10.0660111350536
-[12Jul2025 02:23:23.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[12Jul2025 02:24:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Fisticuffs]
-[12Jul2025 02:25:14.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24362, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
-[12Jul2025 02:25:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Fisticuffs]
-[12Jul2025 02:26:08.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8, y=79, z=-561} BlockPos{x=8, y=79, z=-560}
-[12Jul2025 02:26:55.502] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [6, 102], discarding
-[12Jul2025 02:26:55.503] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [6, 103], discarding
-[12Jul2025 02:26:55.505] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [6, 104], discarding
-[12Jul2025 02:26:55.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [5, 102], discarding
-[12Jul2025 02:26:55.589] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [5, 103], discarding
-[12Jul2025 02:26:55.591] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: man:house
-[12Jul2025 02:26:55.591] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [5, 104], discarding
-[12Jul2025 02:26:55.679] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [4, 102], discarding
-[12Jul2025 02:26:55.728] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [4, 103], discarding
-[12Jul2025 02:26:55.737] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [4, 104], discarding
-[12Jul2025 02:26:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Monster Hunter]
-[12Jul2025 02:26:58.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.29508985835445856
-[12Jul2025 02:26:58.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BozzNofps) moved wrongly! 0.6878171695539095
-[12Jul2025 02:27:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Mine? Mine? Mine?]
-[12Jul2025 02:28:01.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata was burnt to a crisp whilst fighting Zombie
-[12Jul2025 02:30:29.513] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-49, 61], discarding
-[12Jul2025 02:30:29.515] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-48, 61], discarding
-[12Jul2025 02:30:29.516] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-47, 61], discarding
-[12Jul2025 02:30:29.527] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-49, 62], discarding
-[12Jul2025 02:30:29.529] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-48, 62], discarding
-[12Jul2025 02:30:29.530] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: man:house
-[12Jul2025 02:30:29.531] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-47, 62], discarding
-[12Jul2025 02:30:29.584] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-49, 63], discarding
-[12Jul2025 02:30:29.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-48, 63], discarding
-[12Jul2025 02:30:29.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [-47, 63], discarding
-[12Jul2025 02:30:59.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Who is Cutting Onions?]
-[12Jul2025 02:34:11.927] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [luckys_armory:luckys_armory,alexsmobs:main_channel,mantle:network,carryon:carryonpackets,tconstruct:network,ancore:ancore,citadel:main_channel] rejected their client side version number
-[12Jul2025 02:34:11.928] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[12Jul2025 02:34:11.977] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a1908ea[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:36133) lost connection: Connection closed - mismatched mod channel list
-[12Jul2025 02:36:08.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Isn't It Iron Pick]
-[12Jul2025 02:37:49.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.26884564676396394
-[12Jul2025 02:37:49.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7326269541804891
-[12Jul2025 02:37:49.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.8665848285995139
-[12Jul2025 02:37:49.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.8773891126514286
-[12Jul2025 02:37:49.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.9495461490040498
-[12Jul2025 02:38:40.341] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [luckys_armory:luckys_armory,alexsmobs:main_channel,mantle:network,carryon:carryonpackets,tconstruct:network,ancore:ancore,citadel:main_channel] rejected their client side version number
-[12Jul2025 02:38:40.342] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[12Jul2025 02:38:40.378] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@750f9d55[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:42579) lost connection: Connection closed - mismatched mod channel list
-[12Jul2025 02:38:52.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43466, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
-[12Jul2025 02:39:13.288] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [luckys_armory:luckys_armory,alexsmobs:main_channel,mantle:network,carryon:carryonpackets,tconstruct:network,ancore:ancore,citadel:main_channel] rejected their client side version number
-[12Jul2025 02:39:13.289] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[12Jul2025 02:39:13.297] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10d64e40[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:39287) lost connection: Connection closed - mismatched mod channel list
-[12Jul2025 02:39:36.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/44253, l='ServerLevel[world]', x=189.46, y=-256.00, z=405.90] died, message: 'Unemployed was killed'
-[12Jul2025 02:39:51.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/44623, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
-[12Jul2025 02:39:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
-[12Jul2025 02:41:37.692] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [luckys_armory:luckys_armory,alexsmobs:main_channel,mantle:network,carryon:carryonpackets,tconstruct:network,ancore:ancore,citadel:main_channel] rejected their client side version number
-[12Jul2025 02:41:37.693] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[12Jul2025 02:41:37.742] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e29777e[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:47679) lost connection: Connection closed - mismatched mod channel list
-[12Jul2025 02:43:00.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5920068809082863
-[12Jul2025 02:43:00.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6534908655697791
-[12Jul2025 02:43:00.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7066841862931028
-[12Jul2025 02:43:00.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.7526001052394236
-[12Jul2025 02:43:19.078] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ancore:ancore] rejected their client side version number
-[12Jul2025 02:43:19.078] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[12Jul2025 02:43:19.102] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7139f1e6[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:60587) lost connection: Connection closed - mismatched mod channel list
-[12Jul2025 02:45:34.437] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16538922[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:53681) lost connection: Disconnected
-[12Jul2025 02:46:01.906] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ancore:ancore] rejected their client side version number
-[12Jul2025 02:46:01.907] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[12Jul2025 02:46:01.933] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6688fee9[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:49219) lost connection: Connection closed - mismatched mod channel list
-[12Jul2025 02:46:55.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.2806625611800655
-[12Jul2025 02:46:55.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6721095909315409
-[12Jul2025 02:46:55.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.688268768502212
-[12Jul2025 02:46:55.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.9249156322192675
-[12Jul2025 02:48:05.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Take Aim, Chaps!]
-[12Jul2025 02:48:19.343] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/7bf88ab9-3210-33ca-819b-fb3035649e73.json - it doesn't exist anymore?
-[12Jul2025 02:48:19.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: albertano15[/127.53.149.168:46789] logged in with entity id 58058 at (110.69999998807907, -15.0, 189.30000001192093)
-[12Jul2025 02:48:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 joined the game
-[12Jul2025 02:48:19.413] [Server thread/INFO] [Jade/]: Syncing config to albertano15 (7bf88ab9-3210-33ca-819b-fb3035649e73)
-[12Jul2025 02:48:19.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: albertano15 lost connection: Disconnected
-[12Jul2025 02:48:19.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 left the game
-[12Jul2025 02:48:19.465] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[12Jul2025 02:48:23.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: albertano15[/127.53.149.168:52091] logged in with entity id 58110 at (110.69999998807907, -15.0, 189.30000001192093)
-[12Jul2025 02:48:24.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 joined the game
-[12Jul2025 02:48:24.040] [Server thread/INFO] [Jade/]: Syncing config to albertano15 (7bf88ab9-3210-33ca-819b-fb3035649e73)
-[12Jul2025 02:48:43.599] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d561e59[id=<null>,name=Kcronoz,properties={},legacy=false] (/127.159.126.52:47863) lost connection: Disconnected
-[12Jul2025 02:48:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> ahora si
-[12Jul2025 02:48:50.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
-[12Jul2025 02:49:28.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
-[12Jul2025 02:51:18.284] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/599b37ab-73f0-3b8f-86e8-f733d1d4f058.json - it doesn't exist anymore?
-[12Jul2025 02:51:18.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kcronoz[/127.159.126.52:46533] logged in with entity id 61960 at (1059.5264646564124, -54.0, 207.78282103871575)
-[12Jul2025 02:51:18.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz joined the game
-[12Jul2025 02:51:18.312] [Server thread/INFO] [Jade/]: Syncing config to Kcronoz (599b37ab-73f0-3b8f-86e8-f733d1d4f058)
-[12Jul2025 02:51:25.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[12Jul2025 02:52:04.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[12Jul2025 02:52:24.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4929ms or 98 ticks behind
-[12Jul2025 02:52:42.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kcronoz lost connection: Disconnected
-[12Jul2025 02:52:42.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz left the game
-[12Jul2025 02:52:43.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3846ms or 76 ticks behind
-[12Jul2025 02:52:48.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kcronoz[/127.159.126.52:37977] logged in with entity id 65062 at (1065.02619097359, -46.0, 212.2830477797623)
-[12Jul2025 02:52:48.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz joined the game
-[12Jul2025 02:52:48.699] [Server thread/INFO] [Jade/]: Syncing config to Kcronoz (599b37ab-73f0-3b8f-86e8-f733d1d4f058)
-[12Jul2025 02:53:27.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[12Jul2025 02:54:22.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -10.135878234000756,0.0,-0.5588581499439442
-[12Jul2025 02:54:22.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -10.524963061249082,0.0,-0.5087408855149533
-[12Jul2025 02:54:22.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -10.914263330258336,0.0,-0.4553096285178526
-[12Jul2025 02:54:22.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -11.303732582105795,0.0,-0.398779535261383
-[12Jul2025 02:54:23.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[12Jul2025 02:54:37.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> QUE CORDENADA ANDAN DAMAGE
-[12Jul2025 02:55:31.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: albertano15 lost connection: Disconnected
-[12Jul2025 02:55:31.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 left the game
-[12Jul2025 02:55:57.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.9377299407068449
-[12Jul2025 02:55:57.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.9377299407068449
-[12Jul2025 02:55:57.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.5710732232003011
-[12Jul2025 02:55:57.901] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a6196d5[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:40191) lost connection: Disconnected
-[12Jul2025 02:56:31.056] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@198511d3[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:46015) lost connection: Disconnected
-[12Jul2025 02:57:07.210] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6213ed05[id=<null>,name=albertano15,properties={},legacy=false] (/127.53.149.168:34227) lost connection: Disconnected
-[12Jul2025 02:57:29.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[12Jul2025 02:57:46.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
-[12Jul2025 02:57:51.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.6555252889477288
-[12Jul2025 02:57:51.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.7098019004370144
-[12Jul2025 02:57:51.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.3260005879503751
-[12Jul2025 02:57:51.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.748219120552676
-[12Jul2025 02:57:51.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5390868045246862
-[12Jul2025 02:57:51.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.8212107686981653
-[12Jul2025 02:57:51.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.7666071503404055
-[12Jul2025 02:57:51.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.925317266654929
-[12Jul2025 02:57:51.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.0068580527561153
-[12Jul2025 02:57:51.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.37024896493539927
-[12Jul2025 02:57:51.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5050820148367166
-[12Jul2025 02:57:51.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5310576846245567
-[12Jul2025 02:57:51.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.673205798167146
-[12Jul2025 02:57:51.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.4575411119731143
-[12Jul2025 02:57:52.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.28834147917564223
-[12Jul2025 02:57:52.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.4922267833026126
-[12Jul2025 02:57:52.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Diamonds!]
-[12Jul2025 02:58:08.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3259ms or 65 ticks behind
-[12Jul2025 02:58:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> no usen x raid
-[12Jul2025 02:58:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> yo soy legal
-[12Jul2025 02:58:28.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> eso es pa gays
-[12Jul2025 02:58:29.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> xD en el server se ve
-[12Jul2025 02:59:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> solo por casulidad
-[12Jul2025 02:59:24.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: albertano15[/127.53.149.168:46281] logged in with entity id 74476 at (146.66865712289768, -42.0, 171.26220678094037)
-[12Jul2025 02:59:24.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 joined the game
-[12Jul2025 02:59:24.955] [Server thread/INFO] [Jade/]: Syncing config to albertano15 (7bf88ab9-3210-33ca-819b-fb3035649e73)
-[12Jul2025 02:59:26.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
-[12Jul2025 02:59:31.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[12Jul2025 02:59:41.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> saquearon la ancien?
-[12Jul2025 02:59:48.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[12Jul2025 02:59:50.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> nop
-[12Jul2025 02:59:52.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> si
-[12Jul2025 02:59:53.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> asd
-[12Jul2025 03:00:01.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> si o no
-[12Jul2025 03:00:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> si
-[12Jul2025 03:00:09.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5115ms or 102 ticks behind
-[12Jul2025 03:00:16.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> ni hicimosdrake
-[12Jul2025 03:00:27.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3607ms or 72 ticks behind
-[12Jul2025 03:00:31.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> todavia no fuimos al drake
-[12Jul2025 03:00:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> no se puede ir al end todavia
-[12Jul2025 03:00:40.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> solo al nether
-[12Jul2025 03:00:51.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8847ms or 176 ticks behind
-[12Jul2025 03:01:19.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[12Jul2025 03:01:36.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
-[12Jul2025 03:01:53.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[12Jul2025 03:02:14.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5581ms or 111 ticks behind
-[12Jul2025 03:02:29.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> yo todabia no vi un warden
-[12Jul2025 03:02:38.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> si quieres ven
-[12Jul2025 03:02:40.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[12Jul2025 03:02:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> invoque como 20
-[12Jul2025 03:02:57.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[12Jul2025 03:03:15.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2995ms or 59 ticks behind
-[12Jul2025 03:03:32.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
-[12Jul2025 03:03:49.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[12Jul2025 03:04:40.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[12Jul2025 03:04:59.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4340ms or 86 ticks behind
-[12Jul2025 03:05:09.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.2855008441958091
-[12Jul2025 03:05:09.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.5567275864538601
-[12Jul2025 03:05:09.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.8008316480195674
-[12Jul2025 03:05:09.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.927453089848612
-[12Jul2025 03:05:10.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 1.0497888849494927
-[12Jul2025 03:05:10.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 1.2277407316885416
-[12Jul2025 03:05:14.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> Riuksaky
-[12Jul2025 03:05:18.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> sigue ese mod del
-[12Jul2025 03:05:20.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> si bb
-[12Jul2025 03:05:24.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3485ms or 69 ticks behind
-[12Jul2025 03:05:24.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> del negro alto
-[12Jul2025 03:05:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
-[12Jul2025 03:05:26.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> me dio un cagaso
-[12Jul2025 03:05:29.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> no ya no
-[12Jul2025 03:05:30.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> sacaron
-[12Jul2025 03:05:32.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> si
-[12Jul2025 03:05:36.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> me acba de salir
-[12Jul2025 03:05:37.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
-[12Jul2025 03:05:41.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
-[12Jul2025 03:05:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> y borralo de la carpeta de mods
-[12Jul2025 03:05:44.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> por eso me sali
-[12Jul2025 03:05:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> como
-[12Jul2025 03:05:46.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> esta el de las cuevas no mas
-[12Jul2025 03:05:47.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> me dio un cagaso
-[12Jul2025 03:05:50.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> a
-[12Jul2025 03:05:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> el de las cuevas
-[12Jul2025 03:05:57.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> si pue me salio el de la cueva
-[12Jul2025 03:05:58.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.6598636571873158
-[12Jul2025 03:05:58.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
-[12Jul2025 03:05:58.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.5012579460883444
-[12Jul2025 03:05:59.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.3636249795720232
-[12Jul2025 03:05:59.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.29292046316356846
-[12Jul2025 03:05:59.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.2668768210253347
-[12Jul2025 03:05:59.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.4162529483920707
-[12Jul2025 03:05:59.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.29832733988973814
-[12Jul2025 03:05:59.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.3368806945985625
-[12Jul2025 03:06:00.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> ese negro alto
-[12Jul2025 03:06:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
-[12Jul2025 03:06:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> ese si sale
-[12Jul2025 03:06:04.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> ese si esta
-[12Jul2025 03:06:14.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> es el sale en la superficie sacamos
-[12Jul2025 03:06:16.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
-[12Jul2025 03:06:33.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
-[12Jul2025 03:06:38.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz was obliterated by a sonically-charged shriek
-[12Jul2025 03:06:52.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[12Jul2025 03:07:14.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron was slain by Husk
-[12Jul2025 03:07:35.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.315832736954917
-[12Jul2025 03:07:35.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.37777444635128177
-[12Jul2025 03:07:35.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.4335219833311612
-[12Jul2025 03:07:37.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kcronoz lost connection: Disconnected
-[12Jul2025 03:07:37.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz left the game
-[12Jul2025 03:07:43.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kcronoz[/127.159.126.52:42205] logged in with entity id 84873 at (-64.42837165656194, 112.0, 121.91170787032368)
-[12Jul2025 03:07:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz joined the game
-[12Jul2025 03:07:43.854] [Server thread/INFO] [Jade/]: Syncing config to Kcronoz (599b37ab-73f0-3b8f-86e8-f733d1d4f058)
-[12Jul2025 03:07:44.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> alguien me puede tepear ?
-[12Jul2025 03:07:54.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> a donde
-[12Jul2025 03:07:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> me quede sin madera para otro pico y no encuentro la salida
-[12Jul2025 03:07:57.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
-[12Jul2025 03:07:57.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[12Jul2025 03:08:03.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> con nosotros?
-[12Jul2025 03:08:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> dale
-[12Jul2025 03:08:06.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> se
-[12Jul2025 03:08:10.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported albertano15 to Riuksaky]
-[12Jul2025 03:08:15.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
-[12Jul2025 03:08:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> a
-[12Jul2025 03:08:31.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> donde estamos xd
-[12Jul2025 03:08:34.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4096ms or 81 ticks behind
-[12Jul2025 03:08:41.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> falta tu compa
-[12Jul2025 03:08:45.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> si
-[12Jul2025 03:08:47.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> cronos?
-[12Jul2025 03:08:47.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> treelo
-[12Jul2025 03:08:49.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> traelo
-[12Jul2025 03:08:50.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> aca
-[12Jul2025 03:08:53.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4612ms or 92 ticks behind
-[12Jul2025 03:08:54.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
-[12Jul2025 03:08:59.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Kcronoz to albertano15]
-[12Jul2025 03:09:07.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> nooooooo
-[12Jul2025 03:09:10.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> mis cosas
-[12Jul2025 03:09:11.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
-[12Jul2025 03:09:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> jsjssj
-[12Jul2025 03:09:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> despues buscas
-[12Jul2025 03:09:19.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[12Jul2025 03:09:21.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Smoke On The Water]
-[12Jul2025 03:09:22.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Smoke On The Water]
-[12Jul2025 03:09:36.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
-[12Jul2025 03:09:54.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3168ms or 63 ticks behind
-[12Jul2025 03:10:01.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kcronoz) moved wrongly! 0.5202327787548029
-[12Jul2025 03:10:03.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kcronoz) moved wrongly! 0.32447294973974294
-[12Jul2025 03:10:03.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kcronoz) moved wrongly! 0.690716268639278
-[12Jul2025 03:10:03.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kcronoz) moved wrongly! 0.27418800911277685
-[12Jul2025 03:10:10.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> estamos llendo a no donde
-[12Jul2025 03:10:17.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7231ms or 144 ticks behind
-[12Jul2025 03:10:20.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> a por mis cosas
-[12Jul2025 03:10:21.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
-[12Jul2025 03:10:36.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
-[12Jul2025 03:10:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> vengan
-[12Jul2025 03:10:50.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> ahora vamos vro
-[12Jul2025 03:10:53.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> luego me haces tp
-[12Jul2025 03:10:54.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
-[12Jul2025 03:10:58.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> voy a intentar ponerme un poco mas cheto
-[12Jul2025 03:11:13.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4521ms or 90 ticks behind
-[12Jul2025 03:11:16.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -8.336070255623554,0.0,-6.218453628640361
-[12Jul2025 03:11:16.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 4.417802351168575,0.0,-9.38949247802941
-[12Jul2025 03:11:36.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7443ms or 148 ticks behind
-[12Jul2025 03:11:55.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
-[12Jul2025 03:11:57.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [Cover Me with Diamonds]
-[12Jul2025 03:12:14.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3884ms or 77 ticks behind
-[12Jul2025 03:12:33.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4514ms or 90 ticks behind
-[12Jul2025 03:12:51.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2967ms or 59 ticks behind
-[12Jul2025 03:13:10.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.676911194735112,0.0,2.989696913309672
-[12Jul2025 03:13:13.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7150ms or 143 ticks behind
-[12Jul2025 03:13:31.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
-[12Jul2025 03:13:52.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
-[12Jul2025 03:14:09.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> me puedes tepear ami con Kcronoz porfa
-[12Jul2025 03:14:09.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[12Jul2025 03:14:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> a donde
-[12Jul2025 03:14:25.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> yo a el
-[12Jul2025 03:14:31.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> 1800 -1800
-[12Jul2025 03:14:35.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[12Jul2025 03:14:36.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported albertano15 to Kcronoz]
-[12Jul2025 03:14:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [Sneak 100]
-[12Jul2025 03:14:52.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2465ms or 49 ticks behind
-[12Jul2025 03:15:12.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
-[12Jul2025 03:15:47.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
-[12Jul2025 03:15:55.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> gracias
-[12Jul2025 03:16:05.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
-[12Jul2025 03:16:23.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3179ms or 63 ticks behind
-[12Jul2025 03:16:43.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4715ms or 94 ticks behind
-[12Jul2025 03:17:00.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
-[12Jul2025 03:17:21.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6104ms or 122 ticks behind
-[12Jul2025 03:18:10.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[12Jul2025 03:19:40.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> una ultima petecion xd
-[12Jul2025 03:19:45.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> diga
-[12Jul2025 03:19:47.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> transportarnos
-[12Jul2025 03:19:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> hacia ti
-[12Jul2025 03:19:50.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> diga
-[12Jul2025 03:19:54.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> a Kcronoz y a mi
-[12Jul2025 03:19:54.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> a ti
-[12Jul2025 03:19:58.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> a agus?
-[12Jul2025 03:20:00.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> tengo meyo
-[12Jul2025 03:20:01.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> se
-[12Jul2025 03:20:12.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported albertano15 to agustinnfes2]
-[12Jul2025 03:20:21.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> falta el otro
-[12Jul2025 03:20:23.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Kcronoz to agustinnfes2]
-[12Jul2025 03:20:25.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> falta patroclo
-[12Jul2025 03:20:27.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <albertano15> xd
-[12Jul2025 03:20:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> pongan cama para respawn
-[12Jul2025 03:20:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Piglin Brute
-[12Jul2025 03:21:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> duerman en las camas
-[12Jul2025 03:21:36.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
-[12Jul2025 03:22:01.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Blunt-force Trauma]
-[12Jul2025 03:22:02.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: corbata has made the advancement [Tip of the Spear]
-[12Jul2025 03:22:13.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [Ice Bucket Challenge]
-[12Jul2025 03:22:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Going Clubbing]
-[12Jul2025 03:23:29.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> levanten campamento
-[12Jul2025 03:23:51.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> canal de exploracion
-[12Jul2025 03:24:06.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kcronoz> porclamo este pueblo como mio
-[12Jul2025 03:24:09.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> entren a la llamada
-[12Jul2025 03:25:20.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [Ice Bucket Challenge]
-[12Jul2025 03:25:23.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> busquen mazzmorra y el que encuentra vamos alla
-[12Jul2025 03:25:31.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> ven
-[12Jul2025 03:25:34.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> estas solo
-[12Jul2025 03:25:37.529] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
-[12Jul2025 03:25:37.531] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
-[12Jul2025 03:25:37.531] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
-[12Jul2025 03:25:37.531] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
-[12Jul2025 03:25:37.531] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
-[12Jul2025 03:25:37.538] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
-[12Jul2025 03:25:37.539] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
-[12Jul2025 03:25:37.568] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
-[12Jul2025 03:25:37.568] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
-[12Jul2025 03:25:37.568] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
-[12Jul2025 03:25:37.569] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
-[12Jul2025 03:25:37.569] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
-[12Jul2025 03:25:37.569] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
-[12Jul2025 03:25:37.570] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
-[12Jul2025 03:25:37.578] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
-[12Jul2025 03:25:37.578] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
-[12Jul2025 03:25:37.578] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
-[12Jul2025 03:26:35.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[12Jul2025 03:26:44.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron moved too quickly! -9.868619627488272,1.0,1.600712147302147
-[12Jul2025 03:26:44.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 moved too quickly! -2.6410378156338083,0.8800391385729398,-9.657792964897453
-[12Jul2025 03:26:44.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky moved too quickly! 6.914665490374773,-4.214187079638755,-6.13855199816453
-[12Jul2025 03:26:54.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
-[12Jul2025 03:26:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [Enchanter]
-[12Jul2025 03:27:47.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
-[12Jul2025 03:27:58.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> estanos en
-[12Jul2025 03:28:11.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> 2028 -2300
-[12Jul2025 03:28:24.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
-[12Jul2025 03:29:01.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[12Jul2025 03:29:19.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
-[12Jul2025 03:29:34.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.3698304529470988
-[12Jul2025 03:29:34.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.6754276593526356
-[12Jul2025 03:29:34.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved wrongly! 0.9810248657536249
-[12Jul2025 03:29:35.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.846471167646769,0.0,6.777571875286867
-[12Jul2025 03:29:35.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.846471167646769,0.0,6.777571875286867
-[12Jul2025 03:29:35.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.846471167646769,0.0,6.777571875286867
-[12Jul2025 03:29:35.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.846471167646769,0.0,6.777571875286867
-[12Jul2025 03:29:35.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.60502907011346,0.0,6.592560224305544
-[12Jul2025 03:29:35.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.958376405688341,0.0,6.578251861564695
-[12Jul2025 03:29:35.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.926991762521084,0.0,6.381001338913393
-[12Jul2025 03:29:35.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.867143429001544,0.0,6.178954378945491
-[12Jul2025 03:29:35.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.781485970822132,0.0,5.972839826939435
-[12Jul2025 03:29:35.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of corbata) moved too quickly! 8.672428900457362,0.0,5.763290617608163
-[12Jul2025 03:29:36.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz has made the advancement [The Parrots and the Bats]
-[12Jul2025 03:29:37.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
-[12Jul2025 03:30:57.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[12Jul2025 03:31:07.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.7636342838632117
-[12Jul2025 03:31:07.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.1454514186361848
-[12Jul2025 03:31:07.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.5048167177410505
-[12Jul2025 03:31:08.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.7780718188669198
-[12Jul2025 03:31:08.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 2.1598889424162735
-[12Jul2025 03:31:18.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5295ms or 105 ticks behind
-[12Jul2025 03:31:38.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5817ms or 116 ticks behind
-[12Jul2025 03:31:57.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
-[12Jul2025 03:32:25.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> 1756 -3000
-[12Jul2025 03:32:55.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[12Jul2025 03:33:02.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.33713720500009003
-[12Jul2025 03:33:02.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5671743404889185
-[12Jul2025 03:33:02.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.7805853556808415
-[12Jul2025 03:33:02.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.9709776011998201
-[12Jul2025 03:33:02.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.41448108512554427
-[12Jul2025 03:33:02.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5325399277753604
-[12Jul2025 03:33:10.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 has made the advancement [Take Aim]
-[12Jul2025 03:33:15.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4891ms or 97 ticks behind
-[12Jul2025 03:33:32.519] [Worker-Main-126/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[12Jul2025 03:33:32.804] [Worker-Main-126/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[12Jul2025 03:33:33.762] [Worker-Main-95/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
-[12Jul2025 03:33:33.941] [Worker-Main-102/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
-[12Jul2025 03:33:33.964] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
-[12Jul2025 03:33:33.965] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
-[12Jul2025 03:33:33.965] [Worker-Main-102/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
-[12Jul2025 03:33:33.981] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
-[12Jul2025 03:33:33.982] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
-[12Jul2025 03:33:33.982] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
-[12Jul2025 03:33:34.121] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
-[12Jul2025 03:33:34.121] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
-[12Jul2025 03:33:34.219] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
-[12Jul2025 03:33:34.220] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
-[12Jul2025 03:33:34.246] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-751}
-[12Jul2025 03:33:34.247] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-55, z=-752}
-[12Jul2025 03:33:34.247] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
-[12Jul2025 03:33:34.256] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
-[12Jul2025 03:33:34.257] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
-[12Jul2025 03:33:34.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.46410547299183236
-[12Jul2025 03:33:34.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.6432864701255312
-[12Jul2025 03:33:34.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.8770571167615344
-[12Jul2025 03:33:34.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.0874506931604628
-[12Jul2025 03:33:34.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.2768049069031804
-[12Jul2025 03:33:34.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.4472236947572128
-[12Jul2025 03:33:34.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.6006005997624015
-[12Jul2025 03:33:34.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.7386398106104934
-[12Jul2025 03:33:34.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.8628750970824512
-[12Jul2025 03:33:34.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.9746868519455347
-[12Jul2025 03:33:34.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.35126440204430764
-[12Jul2025 03:33:34.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.27522609239895246
-[12Jul2025 03:33:34.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.33464743377044215
-[12Jul2025 03:33:34.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.3881266395878811
-[12Jul2025 03:33:34.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.43625792354851
-[12Jul2025 03:33:34.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.479576077965703
-[12Jul2025 03:33:34.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.518562415908491
-[12Jul2025 03:33:34.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5536501191272691
-[12Jul2025 03:33:34.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5852290511875253
-[12Jul2025 03:33:34.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.6136500892889671
-[12Jul2025 03:33:34.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.6392290229027822
-[12Jul2025 03:33:34.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.662250062545354
-[12Jul2025 03:33:34.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.6829689976748341
-[12Jul2025 03:33:34.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.7016160387970558
-[12Jul2025 03:33:38.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8179ms or 163 ticks behind
-[12Jul2025 03:34:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
-[12Jul2025 03:34:28.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[12Jul2025 03:36:17.496] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
-[12Jul2025 03:36:17.554] [Worker-Main-115/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
-[12Jul2025 03:36:17.560] [Worker-Main-115/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-53, z=-786}
-[12Jul2025 03:36:17.560] [Worker-Main-115/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-787}
-[12Jul2025 03:36:17.560] [Worker-Main-115/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-785}
-[12Jul2025 03:36:17.741] [Worker-Main-120/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
-[12Jul2025 03:36:17.752] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
-[12Jul2025 03:36:17.753] [Worker-Main-120/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
-[12Jul2025 03:36:17.753] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
-[12Jul2025 03:36:17.798] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
-[12Jul2025 03:36:17.799] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
-[12Jul2025 03:36:17.799] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
-[12Jul2025 03:36:17.799] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
-[12Jul2025 03:36:17.800] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
-[12Jul2025 03:36:17.803] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
-[12Jul2025 03:36:17.803] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
-[12Jul2025 03:36:17.810] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
-[12Jul2025 03:40:39.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[12Jul2025 03:40:47.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[12Jul2025 03:40:47.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[12Jul2025 03:40:47.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Server closed
-[12Jul2025 03:40:47.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
-[12Jul2025 03:40:47.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Server closed
-[12Jul2025 03:40:47.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[12Jul2025 03:40:47.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: albertano15 lost connection: Server closed
-[12Jul2025 03:40:47.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 left the game
-[12Jul2025 03:40:47.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kcronoz lost connection: Server closed
-[12Jul2025 03:40:47.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kcronoz left the game
-[12Jul2025 03:40:47.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[12Jul2025 03:40:48.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12Jul2025 03:40:55.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12Jul2025 03:40:55.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12Jul2025 03:40:55.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12Jul2025 03:40:55.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12Jul2025 03:40:55.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12Jul2025 03:40:55.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jul2025 04:49:11.667] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[13Jul2025 04:49:11.718] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[13Jul2025 04:49:11.741] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[13Jul2025 04:49:11.748] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[13Jul2025 04:49:11.787] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3375 advancements
+[13Jul2025 04:49:11.792] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 1.461509 ms
+[13Jul2025 04:49:11.843] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 152 dynamic modifiers and 4 modifier redirects in 48.8502 ms
+[13Jul2025 04:49:11.850] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 42 modifier tags for 140 modifiers in 7.300861 ms
+[13Jul2025 04:49:11.851] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 1.14099 ms
+[13Jul2025 04:49:11.862] [main/INFO] [tconstruct/]: Loaded 43 spilling fluids in 3.944404 ms
+[13Jul2025 04:49:11.879] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 52 materials in 5.247798 ms
+[13Jul2025 04:49:11.881] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 9 material tags for 39 materials in 2.224603 ms
+[13Jul2025 04:49:11.889] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 383 stats loaded for 65 materials in 7.988625 ms
+[13Jul2025 04:49:11.899] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 202 traits loaded for 65 materials in 9.648243 ms
+[13Jul2025 04:49:11.908] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 8.551996 ms
+[13Jul2025 04:49:11.913] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 4.340073 ms
+[13Jul2025 04:49:13.362] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 4.921278ms
+[13Jul2025 04:49:13.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Jul2025 04:49:13.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Jul2025 04:49:13.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Jul2025 04:49:13.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Jul2025 04:49:13.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Jul2025 04:49:13.611] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Jul2025 04:49:13.704] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Jul2025 04:49:13.704] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Jul2025 04:49:13.705] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Jul2025 04:49:13.705] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Jul2025 04:49:13.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Jul2025 04:49:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Jul2025 04:49:21.543] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.579] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.615] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.665] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.711] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.728] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.741] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.756] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:21.912] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 04:49:22.411] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[13Jul2025 04:49:22.880] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5969 ms
+[13Jul2025 04:49:22.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.160s)! For help, type "help"
+[13Jul2025 04:49:22.928] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
