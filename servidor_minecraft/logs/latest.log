@@ -241,3 +241,215 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 05:41:32.024] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
 [13Jul2025 05:41:32.024] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
 [13Jul2025 05:41:32.024] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 05:42:20.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Riuksaky[/127.71.165.236:48995] logged in with entity id 14329 at (1056.512499988079, 78.5625, -4736.463111734553)
+[13Jul2025 05:42:20.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky joined the game
+[13Jul2025 05:42:20.796] [Server thread/INFO] [Jade/]: Syncing config to Riuksaky (9ada5ce0-2dd0-38eb-a8e8-5ba8471bc9b1)
+[13Jul2025 05:43:13.005] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[13Jul2025 05:43:13.007] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[13Jul2025 05:43:18.767] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[13Jul2025 05:43:18.768] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[13Jul2025 05:43:18.768] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[13Jul2025 05:43:18.768] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[13Jul2025 05:43:18.769] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[13Jul2025 05:47:51.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [Acquire Hardware]
+[13Jul2025 05:48:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [Suit Up]
+[13Jul2025 05:48:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [Sweet Dreams]
+[13Jul2025 05:48:56.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yarielle> zzzzzzz
+[13Jul2025 05:49:04.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> xD
+[13Jul2025 05:49:09.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yarielle> :v
+[13Jul2025 05:49:47.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> zZzZzZz
+[13Jul2025 05:50:22.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16969, l='ServerLevel[world]', x=-1816.57, y=112.00, z=2056.38] died, message: 'Unemployed was slain by Zombie'
+[13Jul2025 05:50:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> avisen si duermen
+[13Jul2025 05:50:31.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yarielle> ya estoy mimiendo
+[13Jul2025 05:50:34.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> tengo cama
+[13Jul2025 05:53:13.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11525ms or 230 ticks behind
+[13Jul2025 05:53:32.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [Isn't It Iron Pick]
+[13Jul2025 05:53:40.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [Smash And Bash!]
+[13Jul2025 06:01:46.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> zzz?
+[13Jul2025 06:01:55.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> dale
+[13Jul2025 06:04:13.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> santy
+[13Jul2025 06:04:23.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> wep
+[13Jul2025 06:04:33.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> como se activa el menu donde estan todos los crafteos
+[13Jul2025 06:04:57.207] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:04:57.221] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:04:58.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> deberia aparecer activado por defecto
+[13Jul2025 06:04:59.836] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:05:07.000] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[13Jul2025 06:05:15.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> me sale el del minecraft normal
+[13Jul2025 06:05:23.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> por ahi tenes muy grande la interfas y no hay espacio
+[13Jul2025 06:05:36.445] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:05:36.461] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:05:36.462] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:05:39.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> listo xd
+[13Jul2025 06:05:41.069] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:06:49.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Chompy]
+[13Jul2025 06:06:59.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Crocodile
+[13Jul2025 06:08:01.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> santy me tiras tp hasta unas coord?
+[13Jul2025 06:08:08.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> daleu
+[13Jul2025 06:08:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> 1000 62 4039
+[13Jul2025 06:08:32.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to 1000.500000, 62.000000, 4039.500000]
+[13Jul2025 06:08:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> me voy a hacer un cafe, ahora vuelvo
+[13Jul2025 06:09:16.289] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 06:09:16.290] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 06:09:16.290] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 06:09:16.290] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 06:09:16.297] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 06:09:16.298] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 06:09:16.298] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 06:09:16.546] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 06:09:16.547] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 06:09:16.549] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 06:09:16.549] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jul2025 06:09:16.580] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 06:09:16.582] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 06:09:16.583] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 06:09:16.584] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 06:09:16.598] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 06:09:16.599] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 06:09:16.600] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 06:09:16.600] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 06:09:16.605] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 06:09:16.606] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 06:09:16.607] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 06:09:16.607] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jul2025 06:09:16.616] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 06:09:16.617] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 06:09:16.617] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 06:09:16.618] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 06:09:16.837] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 06:09:16.843] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 06:09:16.844] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 06:09:16.844] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 06:09:16.845] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jul2025 06:09:18.515] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 06:09:18.516] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 06:09:18.516] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 06:09:18.516] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 06:09:19.404] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[13Jul2025 06:09:19.405] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[13Jul2025 06:09:19.425] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[13Jul2025 06:09:19.427] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[13Jul2025 06:09:19.427] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[13Jul2025 06:09:19.475] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[13Jul2025 06:09:19.476] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[13Jul2025 06:09:21.882] [Worker-Main-45/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[13Jul2025 06:09:21.913] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[13Jul2025 06:09:21.914] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[13Jul2025 06:09:45.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle moved too quickly! -6.616314851758034,-0.2712241076924897,7.640152032031665
+[13Jul2025 06:09:45.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky moved too quickly! 3.0288645961883276,0.41999998688697815,-9.846651409698552
+[13Jul2025 06:09:46.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[13Jul2025 06:10:06.437] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:10:06.438] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:10:06.439] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:10:25.042] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 06:10:25.042] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 06:10:25.043] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 06:10:25.044] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 06:10:32.060] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jul2025 06:10:32.060] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 06:10:32.061] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 06:10:32.061] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 06:10:33.585] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 06:10:33.585] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 06:10:33.585] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 06:10:33.586] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 06:10:36.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[13Jul2025 06:13:46.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35473, l='ServerLevel[world]', x=-2796.30, y=67.00, z=2032.30] died, message: 'Unemployed was slain by Zombie'
+[13Jul2025 06:14:02.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: albertano15[/127.53.149.168:41485] logged in with entity id 37684 at (1813.7872017600953, 87.0, -1911.4266405025219)
+[13Jul2025 06:14:02.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: albertano15 joined the game
+[13Jul2025 06:14:02.360] [Server thread/INFO] [Jade/]: Syncing config to albertano15 (7bf88ab9-3210-33ca-819b-fb3035649e73)
+[13Jul2025 06:14:22.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36225, l='ServerLevel[world]', x=-2866.48, y=106.00, z=1973.47] died, message: 'Unemployed froze to death'
+[13Jul2025 06:14:56.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2413ms or 48 ticks behind
+[13Jul2025 06:15:06.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35474, l='ServerLevel[world]', x=-2769.38, y=104.00, z=1992.47] died, message: 'Unemployed was slain by Zombie'
+[13Jul2025 06:15:50.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> zzz?
+[13Jul2025 06:16:09.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35675, l='ServerLevel[world]', x=944.81, y=69.02, z=3469.34] died, message: 'Unemployed was slain by Zombie'
+[13Jul2025 06:16:56.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36226, l='ServerLevel[world]', x=-2866.44, y=106.00, z=1973.64] died, message: 'Unemployed froze to death'
+[13Jul2025 06:17:17.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> estoy
+[13Jul2025 06:20:21.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35702, l='ServerLevel[world]', x=-2802.06, y=106.00, z=1990.94] died, message: 'Unemployed was slain by Zombie'
+[13Jul2025 06:21:38.000] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35751, l='ServerLevel[world]', x=-2771.53, y=110.00, z=1984.70] died, message: 'Unemployed froze to death'
+[13Jul2025 06:23:09.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [Take Aim]
+[13Jul2025 06:23:40.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35876, l='ServerLevel[world]', x=-2835.51, y=105.39, z=2000.30] died, message: 'Unemployed froze to death'
+[13Jul2025 06:24:15.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36008, l='ServerLevel[world]', x=-2845.50, y=104.04, z=1978.30] died, message: 'Unemployed froze to death'
+[13Jul2025 06:26:16.106] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35877, l='ServerLevel[world]', x=-2836.70, y=105.00, z=1989.50] died, message: 'Unemployed froze to death'
+[13Jul2025 06:26:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [An Assassin's Need]
+[13Jul2025 06:26:42.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [Burying the Hatchet]
+[13Jul2025 06:26:47.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 3.4777205768643853,0.0,-9.795005865206804
+[13Jul2025 06:27:25.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36006, l='ServerLevel[world]', x=-2882.47, y=124.00, z=1960.45] died, message: 'Unemployed froze to death'
+[13Jul2025 06:28:15.147] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
+[13Jul2025 06:28:15.148] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
+[13Jul2025 06:28:27.036] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35875, l='ServerLevel[world]', x=-2837.58, y=105.00, z=1991.45] died, message: 'Unemployed was slain by Zombie'
+[13Jul2025 06:28:48.259] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35874, l='ServerLevel[world]', x=-2875.60, y=116.00, z=1965.62] died, message: 'Unemployed froze to death'
+[13Jul2025 06:28:56.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has reached the goal [Earthslime Island]
+[13Jul2025 06:32:29.912] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/37804, l='ServerLevel[world]', x=1786.27, y=73.94, z=-1954.99] died, message: 'Butcher was slain by Zombie'
+[13Jul2025 06:33:01.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [Hammer Time!]
+[13Jul2025 06:33:04.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [...And My Axe!]
+[13Jul2025 06:33:12.494] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [84, 63], discarding
+[13Jul2025 06:33:12.496] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [84, 64], discarding
+[13Jul2025 06:33:12.496] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [84, 65], discarding
+[13Jul2025 06:33:12.541] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [85, 63], discarding
+[13Jul2025 06:33:12.552] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [85, 64], discarding
+[13Jul2025 06:33:12.553] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [85, 65], discarding
+[13Jul2025 06:33:12.567] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [86, 63], discarding
+[13Jul2025 06:33:12.569] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [86, 64], discarding
+[13Jul2025 06:33:12.570] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: man:house
+[13Jul2025 06:33:12.570] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [86, 65], discarding
+[13Jul2025 06:33:39.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> santy estas?
+[13Jul2025 06:33:45.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> diga
+[13Jul2025 06:33:50.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> day=
+[13Jul2025 06:34:00.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[13Jul2025 06:34:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was blown up by Creeper
+[13Jul2025 06:35:38.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> 1021 62 966 plis
+[13Jul2025 06:35:45.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> santy xc
+[13Jul2025 06:35:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yarielle> que pto, camine
+[13Jul2025 06:35:56.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to 1021.500000, 62.000000, 966.500000]
+[13Jul2025 06:36:01.452] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [84, 63], discarding
+[13Jul2025 06:36:01.453] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [85, 63], discarding
+[13Jul2025 06:36:01.556] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [86, 63], discarding
+[13Jul2025 06:36:01.561] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [84, 64], discarding
+[13Jul2025 06:36:01.563] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [85, 64], discarding
+[13Jul2025 06:36:01.564] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [86, 64], discarding
+[13Jul2025 06:36:01.570] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [84, 65], discarding
+[13Jul2025 06:36:01.571] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [85, 65], discarding
+[13Jul2025 06:36:01.572] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: man:house
+[13Jul2025 06:36:01.572] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [86, 65], discarding
+[13Jul2025 06:38:41.261] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[13Jul2025 06:38:41.262] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[13Jul2025 06:38:41.262] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[13Jul2025 06:38:41.263] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[13Jul2025 06:38:41.263] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[13Jul2025 06:38:41.264] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[13Jul2025 06:38:41.265] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[13Jul2025 06:38:41.747] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[13Jul2025 06:38:41.747] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[13Jul2025 06:38:41.748] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[13Jul2025 06:38:41.748] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[13Jul2025 06:38:42.824] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[13Jul2025 06:38:42.824] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[13Jul2025 06:38:42.825] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[13Jul2025 06:38:42.825] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[13Jul2025 06:38:42.825] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[13Jul2025 06:38:42.844] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[13Jul2025 06:38:42.845] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[13Jul2025 06:38:42.845] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[13Jul2025 06:38:42.845] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[13Jul2025 06:39:46.553] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[13Jul2025 06:39:46.553] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[13Jul2025 06:39:46.553] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[13Jul2025 06:39:46.554] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[13Jul2025 06:39:46.554] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[13Jul2025 06:39:46.554] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[13Jul2025 06:39:46.554] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[13Jul2025 06:39:46.584] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[13Jul2025 06:39:46.585] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[13Jul2025 06:39:46.585] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[13Jul2025 06:39:46.587] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[13Jul2025 06:39:46.587] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[13Jul2025 06:39:51.440] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[13Jul2025 06:39:51.440] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[13Jul2025 06:39:51.441] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[13Jul2025 06:39:51.472] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[13Jul2025 06:39:51.473] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[13Jul2025 06:39:51.474] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[13Jul2025 06:39:51.474] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[13Jul2025 06:39:51.474] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[13Jul2025 06:41:10.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
