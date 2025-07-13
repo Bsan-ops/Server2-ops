@@ -6516,12 +6516,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-07-12 05:16:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-12 04:25:53 +0000"
@@ -6540,15 +6534,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-12 04:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-07-12 05:16:28 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_backpack": "2025-07-12 04:53:35 +0000"
+      "has_snowball": "2025-07-12 05:16:28 +0000"
     },
     "done": true
   },
