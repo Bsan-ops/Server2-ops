@@ -211,3 +211,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 05:01:09.275] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
 [13Jul2025 05:02:18.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
 [13Jul2025 05:02:18.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[13Jul2025 05:13:10.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.71.165.236:57641] logged in with entity id 1005 at (-134.5, 106.0, 83.5)
+[13Jul2025 05:13:10.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
+[13Jul2025 05:13:10.721] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
+[13Jul2025 05:13:42.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-131, y=107, z=96}
+[13Jul2025 05:13:46.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-130, y=107, z=96}
+[13Jul2025 05:13:46.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-131, y=107, z=96}
+[13Jul2025 05:16:34.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:37583] logged in with entity id 2447 at (1058.699999988079, 78.0, -4734.300000011921)
+[13Jul2025 05:16:34.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[13Jul2025 05:16:34.126] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[13Jul2025 05:19:48.461] [Worker-Main-44/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[13Jul2025 05:19:50.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle moved too quickly! -0.9269980911109315,0.0,10.021254540268842
+[13Jul2025 05:19:50.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2773ms or 55 ticks behind
