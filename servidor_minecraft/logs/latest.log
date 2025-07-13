@@ -199,3 +199,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 04:49:22.880] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5969 ms
 [13Jul2025 04:49:22.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.160s)! For help, type "help"
 [13Jul2025 04:49:22.928] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Jul2025 04:59:35.932] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[13Jul2025 04:59:36.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:35463] logged in with entity id 113 at (1265.699999988079, 64.0, -4244.300000011921)
+[13Jul2025 04:59:36.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[13Jul2025 04:59:36.744] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[13Jul2025 04:59:41.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5127ms or 102 ticks behind
+[13Jul2025 05:00:44.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[13Jul2025 05:00:44.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[13Jul2025 05:01:09.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:34509] logged in with entity id 570 at (1265.300000011921, 64.0, -4244.718665788945)
+[13Jul2025 05:01:09.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[13Jul2025 05:01:09.275] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[13Jul2025 05:02:18.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[13Jul2025 05:02:18.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
