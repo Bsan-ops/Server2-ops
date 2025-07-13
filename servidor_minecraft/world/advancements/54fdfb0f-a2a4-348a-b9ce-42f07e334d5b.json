@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-13 06:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 06:26:30 +0000"
@@ -230,6 +236,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-07-13 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-13 06:46:58 +0000"
     },
     "done": true
   },
@@ -492,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-13 07:00:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-07-13 05:23:11 +0000"
@@ -567,6 +585,12 @@
   "spartanweaponry:throwing_knife": {
     "criteria": {
       "has_throwing_knife": "2025-07-13 06:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-13 07:00:50 +0000"
     },
     "done": true
   },
@@ -699,6 +723,12 @@
   "spartanweaponry:recipes/golden_longsword": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 06:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-13 07:00:50 +0000"
     },
     "done": true
   },
@@ -1452,6 +1482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-13 07:00:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-07-13 05:47:51 +0000"
@@ -1770,6 +1806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-13 07:00:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_battleaxe": {
     "criteria": {
       "has_wood": "2025-07-13 05:23:06 +0000"
@@ -1980,6 +2022,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-13 06:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-07-13 05:23:11 +0000"
@@ -2052,6 +2100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-13 07:00:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_feather": "2025-07-13 05:25:45 +0000"
@@ -2070,9 +2124,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-13 07:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 05:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-13 07:00:50 +0000"
     },
     "done": true
   },
@@ -2188,9 +2254,11 @@
       "minecraft:birch_forest": "2025-07-13 05:16:06 +0000",
       "minecraft:beach": "2025-07-13 05:17:44 +0000",
       "minecraft:river": "2025-07-13 05:14:51 +0000",
+      "minecraft:snowy_plains": "2025-07-13 06:43:44 +0000",
       "minecraft:stony_shore": "2025-07-13 05:23:23 +0000",
       "minecraft:snowy_taiga": "2025-07-13 06:39:06 +0000",
       "minecraft:grove": "2025-07-13 06:26:13 +0000",
+      "minecraft:jagged_peaks": "2025-07-13 07:07:21 +0000",
       "minecraft:cold_ocean": "2025-07-13 06:33:13 +0000",
       "minecraft:forest": "2025-07-13 05:13:59 +0000",
       "minecraft:ice_spikes": "2025-07-13 06:04:09 +0000",
@@ -2283,6 +2351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-13 07:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-13 05:23:09 +0000"
@@ -2298,6 +2372,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 05:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-13 06:46:58 +0000"
     },
     "done": true
   },

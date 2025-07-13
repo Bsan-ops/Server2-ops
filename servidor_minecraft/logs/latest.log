@@ -453,3 +453,367 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 06:39:51.474] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
 [13Jul2025 06:39:51.474] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
 [13Jul2025 06:41:10.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 06:42:55.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[13Jul2025 06:43:13.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
+[13Jul2025 06:43:27.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.06838532098254291,0.0,-10.39469704585531
+[13Jul2025 06:43:27.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.10518968906944792,0.0,-10.790394813609623
+[13Jul2025 06:43:27.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.15179282431859065,0.0,-11.184183263524119
+[13Jul2025 06:43:27.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.2085420310149857,0.0,-11.575751582979024
+[13Jul2025 06:43:27.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.2756012830398049,0.0,-11.96483022184259
+[13Jul2025 06:43:27.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.3529839756504316,0.0,-12.351194917156022
+[13Jul2025 06:43:27.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps moved too quickly! 5.497047643597625,1.495200877005928,8.267812886429056
+[13Jul2025 06:43:27.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.4405888673250047,0.0,-12.734664164896344
+[13Jul2025 06:43:27.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.5382180738756688,0.0,-13.1151012211958
+[13Jul2025 06:43:27.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.6456064488174889,0.0,-13.492407137831265
+[13Jul2025 06:43:27.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.7624306416307718,0.0,-13.866522041603275
+[13Jul2025 06:43:27.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 0.8883302626368277,0.0,-14.237417717609105
+[13Jul2025 06:43:27.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.0229165620403364,0.0,-14.605095698835271
+[13Jul2025 06:43:27.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.1657832380624313,0.0,-14.969582879482914
+[13Jul2025 06:43:27.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.316515853199462,0.0,-15.330926915034865
+[13Jul2025 06:43:27.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.4746968387464676,0.0,-15.689193699092016
+[13Jul2025 06:43:27.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.6399129884152899,0.0,-16.044462566779657
+[13Jul2025 06:43:27.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.811755711270962,0.0,-16.39682602347807
+[13Jul2025 06:43:27.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.989824310387803,0.0,-16.746387131395863
+[13Jul2025 06:43:27.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 2.1737319008339,0.0,-17.09325469134376
+[13Jul2025 06:43:27.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 2.3631074911281758,0.0,-17.437540929163447
+[13Jul2025 06:43:27.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 3.5544913062367414,0.0,-9.45819587832625
+[13Jul2025 06:43:27.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 3.7730510641067667,0.0,-9.787686862269197
+[13Jul2025 06:43:27.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 3.994680294567388,0.0,-10.1155132659527
+[13Jul2025 06:43:27.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.219149957282298,0.0,-10.441779318330532
+[13Jul2025 06:43:27.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.446247782263754,0.0,-10.766583441093417
+[13Jul2025 06:43:27.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.675776631953113,0.0,-11.090018870373456
+[13Jul2025 06:43:27.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.90755003382219,0.0,-11.412176626541168
+[13Jul2025 06:43:27.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.141397107861849,0.0,-11.73314094692114
+[13Jul2025 06:43:27.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.3771550748051595,0.0,-12.052994829325712
+[13Jul2025 06:43:27.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2406, y=94, z=2935} BlockPos{x=-2406, y=93, z=2935}
+[13Jul2025 06:43:29.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2406, y=95, z=2935} BlockPos{x=-2406, y=93, z=2935}
+[13Jul2025 06:43:29.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.39098489729281,0.0,12.04664739985867
+[13Jul2025 06:43:29.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2406, y=95, z=2935} BlockPos{x=-2406, y=93, z=2935}
+[13Jul2025 06:43:29.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.614674412105387,0.0,12.371815337343605
+[13Jul2025 06:43:29.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.40489689751189,0.0,12.040068423341495
+[13Jul2025 06:43:31.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2407, y=95, z=2935} BlockPos{x=-2406, y=96, z=2935}
+[13Jul2025 06:43:35.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6652ms or 133 ticks behind
+[13Jul2025 06:43:44.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2391, y=95, z=2935} BlockPos{x=-2390, y=96, z=2935}
+[13Jul2025 06:43:55.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.346213131606874,0.0,-4.1758684707718885
+[13Jul2025 06:43:55.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.666769326809344,0.0,-4.408856117970231
+[13Jul2025 06:43:55.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.98519721376465,0.0,-4.6450846912744055
+[13Jul2025 06:43:55.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 10.30161784523375,0.0,-4.884333234521023
+[13Jul2025 06:43:55.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 10.616150066795171,0.0,-5.126391158092019
+[13Jul2025 06:43:55.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 10.928910845596192,0.0,-5.371057300979601
+[13Jul2025 06:43:55.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 11.240010395526951,0.0,-5.618144745361633
+[13Jul2025 06:43:55.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 11.549555475150555,0.0,-5.867476600177156
+[13Jul2025 06:43:55.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 11.857647205626336,0.0,-6.118887872512005
+[13Jul2025 06:43:55.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 12.164381666115332,0.0,-6.372224315036306
+[13Jul2025 06:43:55.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 12.469850431508121,0.0,-6.627341379385825
+[13Jul2025 06:43:55.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 12.774141047065996,0.0,-6.884103264891337
+[13Jul2025 06:43:55.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 13.077334851620435,0.0,-7.142384886205605
+[13Jul2025 06:43:55.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 13.379510217095685,0.0,-7.40206799848977
+[13Jul2025 06:43:55.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 13.680740256122363,0.0,-7.663043337132763
+[13Jul2025 06:43:55.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 13.981093351692834,0.0,-7.925209730903816
+[13Jul2025 06:43:55.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3724ms or 74 ticks behind
+[13Jul2025 06:43:58.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.132658859087769,0.0,-4.872132226532358
+[13Jul2025 06:43:58.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.194437620295275,0.0,-5.091665146664923
+[13Jul2025 06:43:58.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.194437620295275,0.0,-5.314116197115936
+[13Jul2025 06:43:58.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.194437620295275,0.0,-5.539340462293694
+[13Jul2025 06:43:58.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.194437620295275,0.0,-5.767192054489101
+[13Jul2025 06:43:58.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.225445437310327,0.0,-5.997527342193848
+[13Jul2025 06:43:58.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.284272888001396,0.0,-6.230204826925956
+[13Jul2025 06:43:58.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.368060011934404,0.0,-6.465085030509613
+[13Jul2025 06:43:58.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.474239906075127,0.0,-6.702033334744328
+[13Jul2025 06:43:58.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.600509493546951,0.0,-6.940919555011874
+[13Jul2025 06:43:58.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.744803206202505,0.0,-7.181617550934675
+[13Jul2025 06:43:58.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.905266825344142,0.0,-7.4240078059089
+[13Jul2025 06:43:58.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 10.080236382164458,0.0,-7.667976790804346
+[13Jul2025 06:43:59.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 2.2400263909627256
+[13Jul2025 06:43:59.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.9894378505487111
+[13Jul2025 06:43:59.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.7395323663819227
+[13Jul2025 06:43:59.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.4902203539631955
+[13Jul2025 06:43:59.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.2414212002839804
+[13Jul2025 06:44:06.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> day okis
+[13Jul2025 06:44:07.787] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[13Jul2025 06:44:07.788] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[13Jul2025 06:44:07.789] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[13Jul2025 06:44:07.789] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[13Jul2025 06:44:07.790] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[13Jul2025 06:44:07.790] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[13Jul2025 06:44:11.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[13Jul2025 06:44:55.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2249, y=96, z=2937} BlockPos{x=-2247, y=95, z=2937}
+[13Jul2025 06:44:55.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2249, y=95, z=2937} BlockPos{x=-2248, y=95, z=2937}
+[13Jul2025 06:44:59.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5167600870659044
+[13Jul2025 06:44:59.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.6230112076332261
+[13Jul2025 06:44:59.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.6981137318953188
+[13Jul2025 06:44:59.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.8052333697410177
+[13Jul2025 06:44:59.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.9552650118462225
+[13Jul2025 06:44:59.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.117133323186863
+[13Jul2025 06:45:06.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2238, y=97, z=2937} BlockPos{x=-2237, y=98, z=2937}
+[13Jul2025 06:45:06.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2238, y=97, z=2937} BlockPos{x=-2237, y=98, z=2937}
+[13Jul2025 06:45:06.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2236, y=97, z=2937} BlockPos{x=-2237, y=98, z=2937}
+[13Jul2025 06:45:08.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -7.040316461002021,0.0,-7.334263108064306
+[13Jul2025 06:45:08.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -7.325599249711786,0.0,-7.580929832313814
+[13Jul2025 06:45:08.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[13Jul2025 06:46:18.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
+[13Jul2025 06:48:00.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.5234106388757027,1.3505996321327984E-10,-9.904963887056283
+[13Jul2025 06:48:00.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.5352476782688882,1.3505996321327984E-10,-9.98191413444124
+[13Jul2025 06:48:00.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.5519825796550322,1.3505996321327984E-10,-10.090704333821577
+[13Jul2025 06:48:00.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.573125556718196,1.3505996321327984E-10,-10.228150489238715
+[13Jul2025 06:48:00.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.5982358017854494,1.3505996321327984E-10,-10.391387004405715
+[13Jul2025 06:48:00.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.6269165879618868,1.3505996321327984E-10,-10.577834842732727
+[13Jul2025 06:48:00.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.6588108610515064,1.3505996321327984E-10,-10.785172871350369
+[13Jul2025 06:48:00.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.693597272286297,1.3505996321327984E-10,-11.011312070731492
+[13Jul2025 06:48:00.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.7309866077828246,1.3505996321327984E-10,-11.25437232335139
+[13Jul2025 06:48:00.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.7700278368479303,1.3505996321327984E-10,-11.512761614582587
+[13Jul2025 06:48:00.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.8092382578413435,1.3505996321327984E-10,-11.785104031382161
+[13Jul2025 06:48:00.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.8467162997303603,1.3505996321327984E-10,-12.07015227409488
+[13Jul2025 06:48:00.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.8809335633827686,1.3505996321327984E-10,-12.366692719515186
+[13Jul2025 06:48:00.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.91068611112064,1.3505996321327984E-10,-12.673565511394372
+[13Jul2025 06:48:00.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.9350411965731382,1.3505996321327984E-10,-12.98967760902974
+[13Jul2025 06:48:00.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.9532996900750277,1.3505996321327984E-10,-13.314010593362354
+[13Jul2025 06:48:00.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.9649615328544314,1.3505996321327984E-10,-13.64562474575996
+[13Jul2025 06:48:00.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.9696904151530816,1.3505996321327984E-10,-13.983659597128963
+[13Jul2025 06:48:00.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.9672855914525371,1.3505996321327984E-10,-14.327332473787237
+[13Jul2025 06:48:00.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.9576564375765884,1.3505996321327984E-10,-14.675935337281544
+[13Jul2025 06:48:00.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.9408070711172059,1.3505996321327984E-10,-15.02883191414594
+[13Jul2025 06:48:00.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.9168149935799192,1.3505996321327984E-10,-15.385452572036002
+[13Jul2025 06:48:00.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.8858157114168534,1.3505996321327984E-10,-15.745289417677668
+[13Jul2025 06:48:00.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.8479926859054103,1.3505996321327984E-10,-16.107892030306857
+[13Jul2025 06:48:00.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 1.8035646325995458,1.3505996321327984E-10,-16.472862124199537
+[13Jul2025 06:48:00.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4503ms or 90 ticks behind
+[13Jul2025 06:50:42.211] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[13Jul2025 06:50:42.230] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[13Jul2025 06:50:42.231] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[13Jul2025 06:50:50.131] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[13Jul2025 06:50:50.178] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[13Jul2025 06:53:23.822] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[13Jul2025 06:53:23.830] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[13Jul2025 06:53:23.830] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[13Jul2025 06:53:23.830] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[13Jul2025 06:53:23.851] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[13Jul2025 06:53:23.851] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[13Jul2025 06:54:02.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was shot by Skeleton
+[13Jul2025 06:54:10.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[13Jul2025 06:54:30.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -6.4052320474136195,-1.9231679985046384,7.524046769784945
+[13Jul2025 06:54:30.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -6.553553514062742,-1.9231679985046384,7.799319022967211
+[13Jul2025 06:54:30.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -6.7026915927915525,-1.9231679985046384,8.095687068028383
+[13Jul2025 06:54:30.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -6.8522666243627555,-2.0,8.403343050718831
+[13Jul2025 06:54:30.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -6.939278663930054,-2.150621457167645,8.582871169121972
+[13Jul2025 06:54:30.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -7.023853425430389,-2.37211030894224,8.757881885791903
+[13Jul2025 06:54:30.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[13Jul2025 06:54:31.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.34607897208593386
+[13Jul2025 06:54:31.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.34607897208593386
+[13Jul2025 06:54:31.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.34607897208593386
+[13Jul2025 06:54:31.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.34607897208593386
+[13Jul2025 06:54:31.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.34607897208593386
+[13Jul2025 06:54:31.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.34607897208593386
+[13Jul2025 06:54:31.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.25895407407165294
+[13Jul2025 06:54:54.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> 1185 71 -4221
+[13Jul2025 06:54:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> plis
+[13Jul2025 06:55:03.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> :c
+[13Jul2025 06:55:10.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to 1185.500000, 71.000000, -4220.500000]
+[13Jul2025 06:55:24.396] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:55:28.323] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[13Jul2025 06:55:28.656] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:55:33.077] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Jul2025 06:55:43.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.39305311588808484
+[13Jul2025 06:55:43.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.6791389519889394
+[13Jul2025 06:55:43.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9954176802424753
+[13Jul2025 06:55:43.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.1134803342683195
+[13Jul2025 06:56:33.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.029908049598816,-2.261507790682643,-0.6063054323458346
+[13Jul2025 06:56:33.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.368488825399254,-2.261507790682643,-0.6630205126903093
+[13Jul2025 06:56:33.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.712001790008117,-2.261507790682643,-0.7204961254710724
+[13Jul2025 06:56:33.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.058153870510978,-2.261507790682643,-0.77837868399547
+[13Jul2025 06:56:33.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.40571808931054,-2.261507790682643,-0.8364789910738182
+[13Jul2025 06:56:33.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.75503171910782,-2.261507790682643,-0.8878722446625034
+[13Jul2025 06:56:33.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -12.105877776857596,-2.3383397921780045,-0.9301067283940938
+[13Jul2025 06:56:33.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -12.310005935044273,-2.4889612493456497,-0.9541350433946718
+[13Jul2025 06:56:33.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -12.508444859562132,-2.7104501011202444,-0.9769929801504986
+[13Jul2025 06:56:33.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -12.701810125347947,-3.0,-0.9988071735569974
+[13Jul2025 06:56:33.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -12.890650702146104,-3.261507790682643,-1.0196905566190253
+[13Jul2025 06:56:33.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -13.223033000482928,-3.261507790682643,-1.0526092054251421
+[13Jul2025 06:56:33.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -13.5648584084297,-3.261507790682643,-1.0845181653294276
+[13Jul2025 06:56:33.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -13.911736636053547,-3.261507790682643,-1.1158868608326884
+[13Jul2025 06:56:33.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky moved too quickly! -9.367676358689096,-3.1158406381575787,2.7437321429288204
+[13Jul2025 06:56:33.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -14.261390331233088,-3.261507790682643,-1.1461173582838455
+[13Jul2025 06:56:33.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -14.612529123764716,-3.261507790682643,-1.1757388286505375
+[13Jul2025 06:56:33.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -14.9649833140586,-3.261507790682643,-1.194697252693004
+[13Jul2025 06:56:33.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -15.318141347468782,-3.261507790682643,-1.2079500932450173
+[13Jul2025 06:56:33.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[13Jul2025 06:56:33.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.6255777799003681
+[13Jul2025 06:56:33.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9793466844105296
+[13Jul2025 06:56:33.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.3332295236398295
+[13Jul2025 06:56:33.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.687179605911524
+[13Jul2025 06:56:34.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.7420589779649163
+[13Jul2025 06:56:34.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.7420589779649163
+[13Jul2025 06:56:34.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.7420589779649163
+[13Jul2025 06:56:34.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.7420589779649163
+[13Jul2025 06:56:34.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.54207218544434
+[13Jul2025 06:56:34.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.1992199140199773
+[13Jul2025 06:56:34.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.851262454603102
+[13Jul2025 06:56:34.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.5005733108780532
+[13Jul2025 06:56:37.857] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jul2025 06:56:37.890] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jul2025 06:56:38.044] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jul2025 06:56:38.085] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jul2025 06:56:38.113] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jul2025 06:56:38.114] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jul2025 06:56:38.138] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jul2025 06:56:38.150] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jul2025 06:58:17.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1959, y=108, z=2933} BlockPos{x=-1957, y=105, z=2933}
+[13Jul2025 06:58:17.773] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 06:58:17.773] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 06:58:17.773] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 06:58:17.773] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 06:58:19.601] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jul2025 06:58:19.602] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 06:58:19.602] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 06:58:19.602] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 06:58:20.525] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 06:58:20.526] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 06:58:20.526] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 06:58:20.526] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 06:59:23.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[13Jul2025 06:59:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [Not Today, Thank You]
+[13Jul2025 07:01:21.676] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 07:01:21.677] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 07:01:21.677] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 07:01:21.677] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 07:01:26.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2049, y=102, z=2931} BlockPos{x=-2045, y=102, z=2931}
+[13Jul2025 07:01:31.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[13Jul2025 07:01:34.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2065, y=107, z=2931} BlockPos{x=-2064, y=106, z=2931}
+[13Jul2025 07:02:40.359] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jul2025 07:02:40.360] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 07:02:40.360] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 07:02:40.360] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 07:03:11.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps moved too quickly! -8.762648252837153,1.541924101326714,-4.978807772878099
+[13Jul2025 07:03:11.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky moved too quickly! 5.888706746354956,-0.23163096524646676,8.127561109773978
+[13Jul2025 07:03:40.158] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[13Jul2025 07:03:40.158] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[13Jul2025 07:04:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> de dia?
+[13Jul2025 07:04:21.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> okis
+[13Jul2025 07:04:26.380] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[13Jul2025 07:04:26.397] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[13Jul2025 07:04:26.397] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[13Jul2025 07:04:39.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:04:52.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[13Jul2025 07:05:54.958] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[13Jul2025 07:05:54.984] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[13Jul2025 07:05:54.984] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[13Jul2025 07:05:54.993] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[13Jul2025 07:05:58.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[13Jul2025 07:06:24.893] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[13Jul2025 07:06:24.894] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[13Jul2025 07:06:24.901] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[13Jul2025 07:06:24.901] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[13Jul2025 07:07:01.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.076683235759447,1.0,1.8364221688716498
+[13Jul2025 07:07:01.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.428510309451667,1.0,1.8758618749761808
+[13Jul2025 07:07:01.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.780348782207284,1.0,1.9152015319914426
+[13Jul2025 07:07:01.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 11.132193354374522,1.0,1.9544876547333843
+[13Jul2025 07:07:01.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 11.484041190215294,1.0,1.9937451323530695
+[13Jul2025 07:07:01.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 11.835890772382754,1.0,2.0329872825395796
+[13Jul2025 07:07:01.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 12.187741288974848,1.0,2.0722212313212367
+[13Jul2025 07:07:01.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 12.539592305558926,1.0,2.111450791695461
+[13Jul2025 07:07:01.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 12.891443589678602,1.0,2.150678003919893
+[13Jul2025 07:07:01.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 13.243295016951379,1.0,2.189903959696494
+[13Jul2025 07:07:01.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 13.43156370052452,1.0,2.2108929865516984
+[13Jul2025 07:07:01.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 13.532302519431823,1.0,2.2221237963458407
+[13Jul2025 07:07:01.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 13.586205852913736,1.0,2.2281331787480667
+[13Jul2025 07:07:01.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle moved too quickly! 6.150494253440229,0.49971160108003687,8.086800796945681
+[13Jul2025 07:07:01.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[13Jul2025 07:07:10.968] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 07:07:10.968] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 07:07:10.968] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 07:07:10.968] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 07:07:11.443] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 07:07:11.443] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 07:07:11.443] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 07:07:11.443] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 07:07:25.273] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 07:07:25.275] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 07:07:25.276] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 07:07:25.277] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 07:07:48.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 8.161213851092043,0.0,-5.959187775360078
+[13Jul2025 07:07:48.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[13Jul2025 07:08:11.908] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 07:08:11.909] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 07:08:11.909] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 07:08:11.909] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 07:08:12.044] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 07:08:12.044] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 07:08:12.045] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 07:08:12.045] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jul2025 07:08:12.077] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 07:08:12.078] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 07:08:12.078] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 07:08:12.079] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jul2025 07:08:12.084] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 07:08:12.084] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 07:08:12.084] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 07:08:12.084] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 07:08:12.090] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 07:08:12.490] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 07:08:12.490] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 07:08:12.491] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 07:08:12.491] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 07:08:12.580] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 07:08:12.581] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 07:08:12.581] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 07:08:12.597] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jul2025 07:08:12.597] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 07:08:12.597] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 07:08:12.597] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jul2025 07:08:12.601] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jul2025 07:08:12.601] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jul2025 07:08:12.601] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jul2025 07:08:12.602] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jul2025 07:08:12.679] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 07:08:12.682] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 07:08:12.682] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 07:08:12.683] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 07:09:02.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Tusklin
+[13Jul2025 07:10:51.329] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jul2025 07:10:51.330] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jul2025 07:10:51.330] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jul2025 07:10:51.330] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jul2025 07:10:51.455] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[13Jul2025 07:10:51.455] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[13Jul2025 07:10:51.472] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[13Jul2025 07:10:51.473] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[13Jul2025 07:10:51.473] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[13Jul2025 07:10:51.473] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[13Jul2025 07:10:51.473] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[13Jul2025 07:11:07.775] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[13Jul2025 07:11:07.775] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[13Jul2025 07:11:07.816] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[13Jul2025 07:11:24.519] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jul2025 07:11:24.520] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jul2025 07:11:24.520] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
