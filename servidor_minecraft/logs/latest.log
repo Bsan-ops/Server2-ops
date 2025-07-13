@@ -205,3 +205,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 23:23:52.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:42699] logged in with entity id 114 at (277.05209103934703, 74.0, 356.37529589330006)
 [13Jul2025 23:23:52.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
 [13Jul2025 23:23:52.248] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[13Jul2025 23:26:25.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Gave 1009 experience points to BozzNofps]
+[13Jul2025 23:26:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Gave 500 experience points to BozzNofps]
+[13Jul2025 23:26:58.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Gave 500 experience points to BozzNofps]
+[13Jul2025 23:31:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Gave 1009 experience points to BozzNofps]
+[13Jul2025 23:31:44.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Gave 1009 experience points to BozzNofps]
