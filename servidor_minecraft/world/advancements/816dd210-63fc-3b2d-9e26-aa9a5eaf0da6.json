@@ -4488,6 +4488,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-07-14 01:41:25 +0000",
       "earth": "2025-07-09 04:33:09 +0000"
     },
     "done": false
@@ -6175,15 +6176,45 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-07-14 01:41:25 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-07-14 01:00:42 +0000"
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-07-14 01:39:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-07-14 01:19:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-07-14 01:41:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-07-14 01:41:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-07-14 01:41:25 +0000"
     },
     "done": true
   },

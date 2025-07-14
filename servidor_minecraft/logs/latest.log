@@ -365,3 +365,32 @@
 [14Jul2025 01:25:27.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2840ms or 56 ticks behind
 [14Jul2025 01:33:07.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
 [14Jul2025 01:33:07.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[14Jul2025 01:39:58.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has reached the goal [Skyslime Island]
+[14Jul2025 01:43:49.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:38719] logged in with entity id 74012 at (-5350.342875713672, 72.0, 3076.929651186778)
+[14Jul2025 01:43:49.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
+[14Jul2025 01:43:49.207] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
+[14Jul2025 01:44:19.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
+[14Jul2025 01:44:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
+[14Jul2025 01:44:49.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:33111] logged in with entity id 74917 at (-5350.342875713672, 72.0, 3076.929651186778)
+[14Jul2025 01:44:49.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
+[14Jul2025 01:44:49.806] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
+[14Jul2025 01:45:19.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
+[14Jul2025 01:45:19.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
+[14Jul2025 01:46:11.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@209f0d32[id=<null>,name=Yarielle,properties={},legacy=false] (/127.91.164.43:40013) lost connection: Disconnected
+[14Jul2025 01:46:48.380] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3486215[id=<null>,name=Yarielle,properties={},legacy=false] (/127.91.164.43:48871) lost connection: Disconnected
+[14Jul2025 01:47:01.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:46431] logged in with entity id 76935 at (-5350.342875713672, 72.0, 3076.929651186778)
+[14Jul2025 01:47:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
+[14Jul2025 01:47:01.804] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
+[14Jul2025 01:47:31.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
+[14Jul2025 01:47:31.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
+[14Jul2025 01:48:28.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:35675] logged in with entity id 78909 at (-5350.342875713672, 72.0, 3076.929651186778)
+[14Jul2025 01:48:28.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
+[14Jul2025 01:48:28.306] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
+[14Jul2025 01:48:58.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
+[14Jul2025 01:48:58.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
+[14Jul2025 01:49:05.169] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79509, l='ServerLevel[world]', x=189.32, y=-256.00, z=406.00] died, message: 'Unemployed was killed'
+[14Jul2025 01:49:18.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79547, l='ServerLevel[world]', x=189.62, y=-256.00, z=405.99] died, message: 'Unemployed was killed'
+[14Jul2025 01:49:38.827] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3155a13[id=<null>,name=Yarielle,properties={},legacy=false] (/127.91.164.43:53699) lost connection: Disconnected
+[14Jul2025 01:49:52.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:41487] logged in with entity id 79643 at (-5350.342875713672, 72.0, 3076.929651186778)
+[14Jul2025 01:49:52.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
+[14Jul2025 01:49:52.305] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
