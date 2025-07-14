@@ -6594,5 +6594,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed": "2025-07-14 23:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-07-14 23:26:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
