@@ -443,3 +443,11 @@
 [14Jul2025 01:59:42.586] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
 [14Jul2025 02:00:12.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
 [14Jul2025 02:00:12.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
+[14Jul2025 02:04:58.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:47903] logged in with entity id 83412 at (-3751.0335558170464, 72.41999998688698, 3007.5500331902963)
+[14Jul2025 02:04:58.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
+[14Jul2025 02:04:58.285] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
+[14Jul2025 02:05:28.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
+[14Jul2025 02:05:28.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
+[14Jul2025 02:05:47.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:48389] logged in with entity id 83748 at (-3755.1610869220112, 71.23152379758702, 3005.454029396289)
+[14Jul2025 02:05:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
+[14Jul2025 02:05:47.037] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
