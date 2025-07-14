@@ -6552,5 +6552,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-14 00:52:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "gilded": "2025-07-14 00:29:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-14 00:52:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -13,3 +13,131 @@
 [14Jul2025 00:26:47.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:52561] logged in with entity id 22908 at (1055.8061860948649, 78.0, -4735.699999988079)
 [14Jul2025 00:26:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
 [14Jul2025 00:26:47.925] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[14Jul2025 00:30:10.515] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[14Jul2025 00:30:10.516] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[14Jul2025 00:30:12.125] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[14Jul2025 00:30:12.567] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[14Jul2025 00:30:12.568] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[14Jul2025 00:30:12.571] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[14Jul2025 00:30:12.572] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[14Jul2025 00:30:12.572] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[14Jul2025 00:30:12.585] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[14Jul2025 00:30:46.215] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[14Jul2025 00:30:46.216] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[14Jul2025 00:30:46.217] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[14Jul2025 00:30:46.217] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[14Jul2025 00:30:47.190] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[14Jul2025 00:30:47.191] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[14Jul2025 00:30:47.191] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[14Jul2025 00:30:47.191] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[14Jul2025 00:30:48.708] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[14Jul2025 00:30:48.709] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[14Jul2025 00:30:48.709] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[14Jul2025 00:30:48.709] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[14Jul2025 00:30:50.881] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[14Jul2025 00:30:50.881] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[14Jul2025 00:30:50.882] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[14Jul2025 00:30:50.882] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[14Jul2025 00:30:50.882] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[14Jul2025 00:30:51.151] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[14Jul2025 00:30:51.151] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[14Jul2025 00:30:51.151] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[14Jul2025 00:30:51.151] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[14Jul2025 00:31:02.209] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[14Jul2025 00:31:02.212] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[14Jul2025 00:31:02.212] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[14Jul2025 00:31:02.213] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[14Jul2025 00:31:05.188] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[14Jul2025 00:31:05.189] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[14Jul2025 00:31:05.189] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[14Jul2025 00:31:05.189] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[14Jul2025 00:31:08.193] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[14Jul2025 00:31:08.193] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[14Jul2025 00:31:08.194] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[14Jul2025 00:31:08.524] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[14Jul2025 00:31:08.525] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[14Jul2025 00:31:08.526] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[14Jul2025 00:31:11.245] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[14Jul2025 00:31:11.245] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[14Jul2025 00:31:11.246] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[14Jul2025 00:31:11.246] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[14Jul2025 00:31:18.637] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[14Jul2025 00:31:18.638] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[14Jul2025 00:31:18.638] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[14Jul2025 00:31:51.890] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/816dd210-63fc-3b2d-9e26-aa9a5eaf0da6.json: Don't know what man:managgresive is
+[14Jul2025 00:31:51.901] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/816dd210-63fc-3b2d-9e26-aa9a5eaf0da6.json - it doesn't exist anymore?
+[14Jul2025 00:31:51.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.204.29.74:52727] logged in with entity id 26449 at (288.69999998807907, 70.0, 359.69999998807907)
+[14Jul2025 00:31:51.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
+[14Jul2025 00:31:51.979] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
+[14Jul2025 00:32:47.045] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[14Jul2025 00:32:47.045] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[14Jul2025 00:32:47.046] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[14Jul2025 00:32:47.046] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[14Jul2025 00:32:52.358] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[14Jul2025 00:32:52.358] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[14Jul2025 00:32:52.358] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[14Jul2025 00:32:52.358] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[14Jul2025 00:32:54.032] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[14Jul2025 00:32:54.033] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[14Jul2025 00:32:54.033] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[14Jul2025 00:32:54.033] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[14Jul2025 00:34:03.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[14Jul2025 00:34:03.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[14Jul2025 00:34:26.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:46449] logged in with entity id 28417 at (1427.1115100556578, 62.073264324665075, -5280.381051363868)
+[14Jul2025 00:34:26.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[14Jul2025 00:34:27.433] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[14Jul2025 00:35:26.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[14Jul2025 00:35:26.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[14Jul2025 00:36:25.184] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66794068[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:43955) lost connection: Disconnected
+[14Jul2025 00:37:27.579] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ac4d592[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:33781) lost connection: Disconnected
+[14Jul2025 00:37:34.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30063, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[14Jul2025 00:37:35.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:38817] logged in with entity id 30076 at (1408.740555049272, 62.073264324665075, -5435.457636697048)
+[14Jul2025 00:37:35.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[14Jul2025 00:37:36.200] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[14Jul2025 00:37:57.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6607411706563653
+[14Jul2025 00:37:57.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.1270819446044698
+[14Jul2025 00:37:57.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.4709199468816223
+[14Jul2025 00:37:57.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.7799984946159384
+[14Jul2025 00:37:57.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 2.0529400178684227
+[14Jul2025 00:38:22.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Disconnected
+[14Jul2025 00:38:22.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[14Jul2025 00:40:04.182] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a8f4588[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:48815) lost connection: Disconnected
+[14Jul2025 00:41:13.581] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c34baa6[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:48505) lost connection: Disconnected
+[14Jul2025 00:41:28.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31387, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
+[14Jul2025 00:41:50.629] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b093594[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:33183) lost connection: Disconnected
+[14Jul2025 00:42:19.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31679, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
+[14Jul2025 00:42:28.648] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c7cdcae[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:51227) lost connection: Disconnected
+[14Jul2025 00:43:01.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c5d17c[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:58789) lost connection: Disconnected
+[14Jul2025 00:43:41.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3417c788[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:34081) lost connection: Disconnected
+[14Jul2025 00:43:42.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
+[14Jul2025 00:43:42.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
+[14Jul2025 00:43:42.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
+[14Jul2025 00:43:42.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
+[14Jul2025 00:43:42.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
+[14Jul2025 00:43:42.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
+[14Jul2025 00:43:42.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
+[14Jul2025 00:43:42.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.6049940781667829
+[14Jul2025 00:44:14.436] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b778d24[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:42483) lost connection: Disconnected
+[14Jul2025 00:44:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Enchanter]
+[14Jul2025 00:45:13.887] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@718af443[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:53967) lost connection: Disconnected
+[14Jul2025 00:45:45.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[14Jul2025 00:45:45.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[14Jul2025 00:45:52.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16c92c3d[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:56919) lost connection: Disconnected
+[14Jul2025 00:46:20.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:44877] logged in with entity id 34310 at (76.69999998807907, 70.875, 43.94019762169606)
+[14Jul2025 00:46:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[14Jul2025 00:46:20.190] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[14Jul2025 00:49:14.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:55015] logged in with entity id 36270 at (1405.422483778351, 62.073264324665075, -5550.471395839006)
+[14Jul2025 00:49:14.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[14Jul2025 00:49:15.400] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[14Jul2025 00:49:45.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[14Jul2025 00:49:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[14Jul2025 00:50:53.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:47713] logged in with entity id 37702 at (1403.6529786120866, 62.073264324665075, -5503.589624479382)
+[14Jul2025 00:50:53.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[14Jul2025 00:50:54.256] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[14Jul2025 00:52:01.800] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-412}
+[14Jul2025 00:52:01.801] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-416}
+[14Jul2025 00:52:44.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [What a Deal!]
+[14Jul2025 00:53:20.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to balda]
+[14Jul2025 00:54:18.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [The Lighthouse]
+[14Jul2025 00:54:18.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [The Lighthouse]
+[14Jul2025 00:55:58.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43198, l='ServerLevel[world]', x=188.71, y=-256.00, z=405.99] died, message: 'Unemployed was killed'

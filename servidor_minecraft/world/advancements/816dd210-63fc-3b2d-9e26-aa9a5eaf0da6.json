@@ -43,12 +43,6 @@
     },
     "done": false
   },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-07-06 20:00:40 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-07-06 20:01:59 +0000"
@@ -6148,12 +6142,6 @@
     },
     "done": false
   },
-  "tconstruct:tools/make_part": {
-    "criteria": {
-      "crafted_part": "2025-07-10 05:32:12 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/misc/smeltery/red_sand_cast": {
     "criteria": {
       "has_casting": "2025-07-10 05:13:14 +0000"
@@ -6169,6 +6157,12 @@
   "tconstruct:smeltery/sand_casting": {
     "criteria": {
       "crafted_cast": "2025-07-10 05:31:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-07-10 05:32:12 +0000"
     },
     "done": true
   },

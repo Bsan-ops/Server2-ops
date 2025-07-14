@@ -6839,5 +6839,17 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-14 00:44:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-14 00:54:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
