@@ -213,3 +213,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jul2025 22:49:30.075] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a02221b[id=<null>,name=xXCaptainJhonaXx,properties={},legacy=false] (/127.204.29.74:46083) lost connection: Connection closed - mismatched mod channel list
 [14Jul2025 22:50:39.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3481, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
 [14Jul2025 22:52:31.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3710, l='ServerLevel[world]', x=258.20, y=-256.00, z=359.50] died, message: 'Unemployed was killed'
+[14Jul2025 22:53:12.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.123.158.181:40599] logged in with entity id 3800 at (309.65630274833177, 64.0, 355.513921119809)
+[14Jul2025 22:53:12.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[14Jul2025 22:53:12.980] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[14Jul2025 22:53:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> wololo
+[14Jul2025 22:53:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> wololola
+[14Jul2025 22:53:54.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3977, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
+[14Jul2025 22:53:57.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> ds?
+[14Jul2025 22:54:02.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> bueno
+[14Jul2025 22:55:23.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4145, l='ServerLevel[world]', x=283.16, y=-256.00, z=367.16] died, message: 'Unemployed was killed'
+[14Jul2025 22:55:49.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4214, l='ServerLevel[world]', x=258.87, y=-256.00, z=359.41] died, message: 'Unemployed was killed'
+[14Jul2025 22:56:00.817] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ancore:ancore] rejected their client side version number
+[14Jul2025 22:56:00.818] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[14Jul2025 22:56:00.823] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28874183[id=<null>,name=xXCaptainJhonaXx,properties={},legacy=false] (/127.204.29.74:60185) lost connection: Connection closed - mismatched mod channel list
