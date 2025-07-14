@@ -1,3 +1,15 @@
 [14Jul2025 00:02:21.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14085, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
 [14Jul2025 00:02:27.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14134, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
 [14Jul2025 00:05:04.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15980, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
+[14Jul2025 00:19:22.270] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20389, l='ServerLevel[world]', x=189.62, y=-256.00, z=405.99] died, message: 'Unemployed was killed'
+[14Jul2025 00:20:17.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20728, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[14Jul2025 00:21:27.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21270, l='ServerLevel[world]', x=189.45, y=-256.00, z=405.90] died, message: 'Unemployed was killed'
+[14Jul2025 00:26:04.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:35121] logged in with entity id 22472 at (1055.8061860948649, 78.0, -4735.699999988079)
+[14Jul2025 00:26:04.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[14Jul2025 00:26:04.935] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[14Jul2025 00:26:34.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Disconnected
+[14Jul2025 00:26:34.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[14Jul2025 00:26:35.050] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2025 00:26:47.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:52561] logged in with entity id 22908 at (1055.8061860948649, 78.0, -4735.699999988079)
+[14Jul2025 00:26:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[14Jul2025 00:26:47.925] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
