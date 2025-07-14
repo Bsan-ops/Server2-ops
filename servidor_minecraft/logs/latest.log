@@ -1,544 +1,207 @@
-[14Jul2025 00:02:21.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14085, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
-[14Jul2025 00:02:27.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14134, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
-[14Jul2025 00:05:04.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15980, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
-[14Jul2025 00:19:22.270] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20389, l='ServerLevel[world]', x=189.62, y=-256.00, z=405.99] died, message: 'Unemployed was killed'
-[14Jul2025 00:20:17.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20728, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
-[14Jul2025 00:21:27.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21270, l='ServerLevel[world]', x=189.45, y=-256.00, z=405.90] died, message: 'Unemployed was killed'
-[14Jul2025 00:26:04.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:35121] logged in with entity id 22472 at (1055.8061860948649, 78.0, -4735.699999988079)
-[14Jul2025 00:26:04.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[14Jul2025 00:26:04.935] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[14Jul2025 00:26:34.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Disconnected
-[14Jul2025 00:26:34.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
-[14Jul2025 00:26:35.050] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[14Jul2025 00:26:47.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:52561] logged in with entity id 22908 at (1055.8061860948649, 78.0, -4735.699999988079)
-[14Jul2025 00:26:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[14Jul2025 00:26:47.925] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[14Jul2025 00:30:10.515] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[14Jul2025 00:30:10.516] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[14Jul2025 00:30:12.125] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
-[14Jul2025 00:30:12.567] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[14Jul2025 00:30:12.568] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[14Jul2025 00:30:12.571] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[14Jul2025 00:30:12.572] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[14Jul2025 00:30:12.572] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[14Jul2025 00:30:12.585] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
-[14Jul2025 00:30:46.215] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[14Jul2025 00:30:46.216] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[14Jul2025 00:30:46.217] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[14Jul2025 00:30:46.217] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[14Jul2025 00:30:47.190] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[14Jul2025 00:30:47.191] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 00:30:47.191] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 00:30:47.191] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 00:30:48.708] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[14Jul2025 00:30:48.709] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[14Jul2025 00:30:48.709] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[14Jul2025 00:30:48.709] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[14Jul2025 00:30:50.881] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[14Jul2025 00:30:50.881] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[14Jul2025 00:30:50.882] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[14Jul2025 00:30:50.882] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[14Jul2025 00:30:50.882] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[14Jul2025 00:30:51.151] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[14Jul2025 00:30:51.151] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[14Jul2025 00:30:51.151] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[14Jul2025 00:30:51.151] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[14Jul2025 00:31:02.209] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[14Jul2025 00:31:02.212] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[14Jul2025 00:31:02.212] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[14Jul2025 00:31:02.213] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[14Jul2025 00:31:05.188] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[14Jul2025 00:31:05.189] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 00:31:05.189] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 00:31:05.189] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 00:31:08.193] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 00:31:08.193] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 00:31:08.194] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 00:31:08.524] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 00:31:08.525] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 00:31:08.526] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 00:31:11.245] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[14Jul2025 00:31:11.245] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[14Jul2025 00:31:11.246] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[14Jul2025 00:31:11.246] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[14Jul2025 00:31:18.637] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 00:31:18.638] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 00:31:18.638] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 00:31:51.890] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/816dd210-63fc-3b2d-9e26-aa9a5eaf0da6.json: Don't know what man:managgresive is
-[14Jul2025 00:31:51.901] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/816dd210-63fc-3b2d-9e26-aa9a5eaf0da6.json - it doesn't exist anymore?
-[14Jul2025 00:31:51.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.204.29.74:52727] logged in with entity id 26449 at (288.69999998807907, 70.0, 359.69999998807907)
-[14Jul2025 00:31:51.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
-[14Jul2025 00:31:51.979] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
-[14Jul2025 00:32:47.045] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[14Jul2025 00:32:47.045] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 00:32:47.046] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 00:32:47.046] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 00:32:52.358] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[14Jul2025 00:32:52.358] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[14Jul2025 00:32:52.358] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[14Jul2025 00:32:52.358] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[14Jul2025 00:32:54.032] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[14Jul2025 00:32:54.033] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[14Jul2025 00:32:54.033] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[14Jul2025 00:32:54.033] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[14Jul2025 00:34:03.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
-[14Jul2025 00:34:03.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
-[14Jul2025 00:34:26.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:46449] logged in with entity id 28417 at (1427.1115100556578, 62.073264324665075, -5280.381051363868)
-[14Jul2025 00:34:26.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[14Jul2025 00:34:27.433] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[14Jul2025 00:35:26.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
-[14Jul2025 00:35:26.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
-[14Jul2025 00:36:25.184] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66794068[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:43955) lost connection: Disconnected
-[14Jul2025 00:37:27.579] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ac4d592[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:33781) lost connection: Disconnected
-[14Jul2025 00:37:34.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30063, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
-[14Jul2025 00:37:35.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:38817] logged in with entity id 30076 at (1408.740555049272, 62.073264324665075, -5435.457636697048)
-[14Jul2025 00:37:35.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[14Jul2025 00:37:36.200] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[14Jul2025 00:37:57.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6607411706563653
-[14Jul2025 00:37:57.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.1270819446044698
-[14Jul2025 00:37:57.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.4709199468816223
-[14Jul2025 00:37:57.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.7799984946159384
-[14Jul2025 00:37:57.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 2.0529400178684227
-[14Jul2025 00:38:22.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Disconnected
-[14Jul2025 00:38:22.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
-[14Jul2025 00:40:04.182] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a8f4588[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:48815) lost connection: Disconnected
-[14Jul2025 00:41:13.581] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c34baa6[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:48505) lost connection: Disconnected
-[14Jul2025 00:41:28.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31387, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
-[14Jul2025 00:41:50.629] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b093594[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:33183) lost connection: Disconnected
-[14Jul2025 00:42:19.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31679, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
-[14Jul2025 00:42:28.648] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c7cdcae[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:51227) lost connection: Disconnected
-[14Jul2025 00:43:01.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c5d17c[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:58789) lost connection: Disconnected
-[14Jul2025 00:43:41.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3417c788[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:34081) lost connection: Disconnected
-[14Jul2025 00:43:42.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
-[14Jul2025 00:43:42.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
-[14Jul2025 00:43:42.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
-[14Jul2025 00:43:42.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
-[14Jul2025 00:43:42.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
-[14Jul2025 00:43:42.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
-[14Jul2025 00:43:42.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.60986328125
-[14Jul2025 00:43:42.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.6049940781667829
-[14Jul2025 00:44:14.436] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b778d24[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:42483) lost connection: Disconnected
-[14Jul2025 00:44:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Enchanter]
-[14Jul2025 00:45:13.887] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@718af443[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:53967) lost connection: Disconnected
-[14Jul2025 00:45:45.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
-[14Jul2025 00:45:45.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
-[14Jul2025 00:45:52.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16c92c3d[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:56919) lost connection: Disconnected
-[14Jul2025 00:46:20.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:44877] logged in with entity id 34310 at (76.69999998807907, 70.875, 43.94019762169606)
-[14Jul2025 00:46:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
-[14Jul2025 00:46:20.190] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
-[14Jul2025 00:49:14.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:55015] logged in with entity id 36270 at (1405.422483778351, 62.073264324665075, -5550.471395839006)
-[14Jul2025 00:49:14.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[14Jul2025 00:49:15.400] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[14Jul2025 00:49:45.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
-[14Jul2025 00:49:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
-[14Jul2025 00:50:53.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:47713] logged in with entity id 37702 at (1403.6529786120866, 62.073264324665075, -5503.589624479382)
-[14Jul2025 00:50:53.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[14Jul2025 00:50:54.256] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[14Jul2025 00:52:01.800] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-412}
-[14Jul2025 00:52:01.801] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-416}
-[14Jul2025 00:52:44.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [What a Deal!]
-[14Jul2025 00:53:20.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to balda]
-[14Jul2025 00:54:18.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [The Lighthouse]
-[14Jul2025 00:54:18.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [The Lighthouse]
-[14Jul2025 00:55:58.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43198, l='ServerLevel[world]', x=188.71, y=-256.00, z=405.99] died, message: 'Unemployed was killed'
-[14Jul2025 00:57:58.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6852ms or 137 ticks behind
-[14Jul2025 00:57:58.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 1.7950758085852385,0.0,-10.173163017064184
-[14Jul2025 00:57:58.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 1.8640566249280255,0.0,-10.5642258657507
-[14Jul2025 00:57:58.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 1.9330873829577513,0.0,-10.955574358841886
-[14Jul2025 00:57:58.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.002163088504517,0.0,-11.347179931890423
-[14Jul2025 00:57:58.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.071279246815493,0.0,-11.739016876894482
-[14Jul2025 00:57:58.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.140431812613315,0.0,-12.13106205665298
-[14Jul2025 00:57:58.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.2096171451485134,0.0,-12.523294647685503
-[14Jul2025 00:57:58.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.2788319677464415,0.0,-12.915695908860187
-[14Jul2025 00:57:58.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.348073331400201,0.0,-13.308248973158783
-[14Jul2025 00:57:58.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.4173385820035946,0.0,-13.70093866026528
-[14Jul2025 00:57:58.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.486625330861102,0.0,-14.093751307895644
-[14Jul2025 00:57:58.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.555931428146664,0.0,-14.486674619994545
-[14Jul2025 00:57:58.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.625254939017168,0.0,-14.879697530112509
-[14Jul2025 00:57:58.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.6945941221135854,0.0,-15.272810078445247
-[14Jul2025 00:57:58.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.7639474102130634,0.0,-15.666003301169127
-[14Jul2025 00:57:58.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.8333133928149437,0.0,-16.05926913084315
-[14Jul2025 00:57:58.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.9026908004685765,0.0,-16.452600306770535
-[14Jul2025 00:57:58.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 1.8012955165464746,0.0,-10.212213973558278
-[14Jul2025 00:57:58.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 1.8707398966350866,0.0,-10.605928202251647
-[14Jul2025 00:57:58.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 1.9401878620250272,0.0,-10.999662937285763
-[14Jul2025 00:57:58.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.009639054185982,0.0,-11.393416128026075
-[14Jul2025 00:57:58.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.0790931504408263,0.0,-11.787185928901494
-[14Jul2025 00:57:58.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.148549860380058,0.0,-12.180970678898149
-[14Jul2025 00:57:58.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.2180089226352493,0.0,-12.57476888310353
-[14Jul2025 00:57:58.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.287470101974691,0.0,-12.96857919609647
-[14Jul2025 00:57:58.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.3569331866899574,0.0,-13.362400406997892
-[14Jul2025 00:57:58.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.426397986243387,0.0,-13.756231426016711
-[14Jul2025 00:57:58.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.495864329151118,0.0,-14.150071272340938
-[14Jul2025 00:57:58.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.5653320610776973,0.0,-14.543919063239855
-[14Jul2025 00:57:58.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.6348010431212288,0.0,-14.937774004255772
-[14Jul2025 00:57:58.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.7042711502699603,0.0,-15.331635380376838
-[14Jul2025 00:57:58.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.7737422700132583,0.0,-15.72550254809235
-[14Jul2025 00:57:58.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.8432143010917343,0.0,-16.119374928242763
-[14Jul2025 00:57:58.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.912687152371859,0.0,-16.51325199958444
-[14Jul2025 00:57:58.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.982160741833468,0.0,-16.907133292998168
-[14Jul2025 00:57:58.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.0516349956583326,0.0,-17.30101838627661
-[14Jul2025 00:57:58.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.121109847410139,0.0,-17.69490689943322
-[14Jul2025 00:57:58.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.1905852372962045,0.0,-18.088798490480116
-[14Jul2025 00:57:58.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.2600611115030915,0.0,-18.482692851628173
-[14Jul2025 00:57:58.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.3295374215986158,0.0,-18.876589705867218
-[14Jul2025 00:57:58.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.399014123993993,0.0,-19.27048880388807
-[14Jul2025 00:57:58.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.4684911794591926,0.0,-19.664389921312534
-[14Jul2025 00:57:58.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.537968552687289,0.0,-20.058292856200183
-[14Jul2025 00:57:58.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.6074462119019017,0.0,-20.452197426804645
-[14Jul2025 00:57:58.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.6769241285044245,0.0,-20.84610346955421
-[14Jul2025 00:57:58.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.7464022767560436,0.0,-21.240010837234337
-[14Jul2025 00:57:58.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.8158806334918154,0.0,-21.633919397351917
-[14Jul2025 00:57:58.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.885359177863279,0.0,-22.027829030663185
-[14Jul2025 00:57:58.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.9548378911069904,0.0,-22.42173962984876
-[14Jul2025 00:57:58.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.024316756335679,0.0,-22.815651098321183
-[14Jul2025 00:57:58.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.3619406382247234,0.0,-13.391040819463171
-[14Jul2025 00:57:58.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.4314197633476624,0.0,-13.784953774416039
-[14Jul2025 00:57:58.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.5008989992675197,0.0,-14.178867363078979
-[14Jul2025 00:57:58.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.570378334904717,0.0,-14.572781522080959
-[14Jul2025 00:57:58.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.639857760287555,0.0,-14.96669619438805
-[14Jul2025 00:57:58.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.7093372664413664,0.0,-15.360611328669734
-[14Jul2025 00:57:58.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.778816845289157,0.0,-15.75452687872854
-[14Jul2025 00:57:58.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.8482964895614487,0.0,-16.14844280298675
-[14Jul2025 00:57:58.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.9177761927157917,0.0,-16.542359064024424
-[14Jul2025 00:57:58.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 2.9872559488640036,0.0,-16.9362756281636
-[14Jul2025 00:57:58.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.056735752706686,0.0,-17.330192465094115
-[14Jul2025 00:57:58.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.126215599474449,0.0,-17.72410954753684
-[14Jul2025 00:57:58.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.1956954848747046,0.0,-18.118026850940538
-[14Jul2025 00:57:58.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.2651754050442605,0.0,-18.511944353209117
-[14Jul2025 00:57:58.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.3346553565061186,0.0,-18.905862034456078
-[14Jul2025 00:57:58.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.4041353361310485,0.0,-19.29977987678356
-[14Jul2025 00:57:58.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.4736153411028,0.0,-19.693697864083532
-[14Jul2025 00:57:58.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.543095368886611,0.0,-20.087615981858733
-[14Jul2025 00:57:58.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.6125754172013558,0.0,-20.481534217061636
-[14Jul2025 00:57:58.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.682055483993963,0.0,-20.875452557949473
-[14Jul2025 00:57:58.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.7515355674165676,0.0,-21.269370993953743
-[14Jul2025 00:57:58.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.821015665806158,0.0,-21.66328951556281
-[14Jul2025 00:57:58.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.8904957776661604,0.0,-22.057208114216166
-[14Jul2025 00:57:58.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 3.9599759016493863,0.0,-22.4511267822094
-[14Jul2025 00:57:58.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.029456036543593,0.0,-22.84504551260852
-[14Jul2025 00:57:58.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.098936181257727,0.0,-23.23896429917295
-[14Jul2025 00:57:58.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.168416334809649,0.0,-23.632883136286154
-[14Jul2025 00:57:58.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.2378964963156704,0.0,-24.02680201889322
-[14Jul2025 00:57:58.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.307376664980438,0.0,-24.420720942444802
-[14Jul2025 00:57:58.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.376856840087953,0.0,-24.814639902846437
-[14Jul2025 00:57:58.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.446337020994065,0.0,-25.20855889641311
-[14Jul2025 00:57:58.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.515817207118857,0.0,-25.602477919828317
-[14Jul2025 00:57:58.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.585297397940394,0.0,-25.996396970107213
-[14Jul2025 00:57:58.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.654777592989035,0.0,-26.390316044563406
-[14Jul2025 00:57:58.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.724257791842092,0.0,-26.784235140779174
-[14Jul2025 00:57:58.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.793737994119169,0.0,-27.17815425657858
-[14Jul2025 00:57:58.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.863218199477842,0.0,-27.572073390003254
-[14Jul2025 00:57:58.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 4.932698407609905,0.0,-27.965992539290653
-[14Jul2025 00:57:58.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.0021786182380765,0.0,-28.359911702854504
-[14Jul2025 00:57:58.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.0716588311127,0.0,-28.753830879267184
-[14Jul2025 00:57:58.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.14113904600913,0.0,-29.147750067243777
-[14Jul2025 00:57:58.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.210619262725231,0.0,-29.541669265627917
-[14Jul2025 00:57:58.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.280099481078992,0.0,-29.93558847337883
-[14Jul2025 00:57:58.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.349579700906702,0.0,-30.329507689559847
-[14Jul2025 00:57:58.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.41905992206091,0.0,-30.723426913327984
-[14Jul2025 00:57:58.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.488540144408944,0.0,-31.117346143924493
-[14Jul2025 00:57:58.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.558020367831432,0.0,-31.511265380666543
-[14Jul2025 00:57:58.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.627500592221054,0.0,-31.9051846229396
-[14Jul2025 00:57:58.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.696980817480949,0.0,-32.29910387019055
-[14Jul2025 00:57:58.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.766461043524146,0.0,-32.693023121921584
-[14Jul2025 00:57:58.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.835941270272315,0.0,-33.08694237768472
-[14Jul2025 00:57:58.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.90542149765497,0.0,-33.48086163707674
-[14Jul2025 00:57:58.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 5.9749017256086745,0.0,-33.87478089973476
-[14Jul2025 00:57:58.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 6.044381954076243,0.0,-34.26870016533218
-[14Jul2025 00:57:58.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 6.11386218300629,0.0,-34.66261943357503
-[14Jul2025 00:57:58.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 6.183342412352658,0.0,-35.0565387041988
-[14Jul2025 00:57:58.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 6.252822642073625,0.0,-35.450457976965396
-[14Jul2025 00:57:58.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 6.322302872131786,0.0,-35.84437725166052
-[14Jul2025 00:57:58.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 6.391783102493491,0.0,-36.238296528091325
-[14Jul2025 00:59:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Skeleton
-[14Jul2025 00:59:43.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
-[14Jul2025 00:59:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
-[14Jul2025 00:59:57.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:51147] logged in with entity id 47487 at (-130.5, 103.0, 88.5)
-[14Jul2025 00:59:57.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[14Jul2025 00:59:57.766] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[14Jul2025 01:00:15.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
-[14Jul2025 01:00:27.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
-[14Jul2025 01:00:27.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
-[14Jul2025 01:00:35.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:39237] logged in with entity id 48384 at (1165.0529139430314, 67.0, -5616.373442522355)
-[14Jul2025 01:00:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[14Jul2025 01:00:36.026] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[14Jul2025 01:00:42.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Smoke On The Water]
-[14Jul2025 01:01:24.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 10.25278783799672,0.0,0.7687133257884398
-[14Jul2025 01:01:24.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 10.64146048604971,0.0,0.8544607218743749
-[14Jul2025 01:02:00.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.26713843310790253
-[14Jul2025 01:02:00.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.4410158490674121
-[14Jul2025 01:02:00.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.455228716288957
-[14Jul2025 01:02:00.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 1.6486130925882208
-[14Jul2025 01:02:00.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 1.2905204352011879
-[14Jul2025 01:02:00.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 1.5392532829851007
-[14Jul2025 01:02:00.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 1.5392532829851007
-[14Jul2025 01:02:00.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 1.18204984072986
-[14Jul2025 01:02:00.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.5898499721336066
-[14Jul2025 01:02:00.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 1.3022194015891273
-[14Jul2025 01:02:00.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.9481353454063992
-[14Jul2025 01:02:00.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.34103241899151726
-[14Jul2025 01:02:09.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/40093, l='ServerLevel[world]', x=1147.46, y=70.00, z=-5658.64] died, message: 'Farmer was slain by Zombie'
-[14Jul2025 01:02:36.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50669, l='ServerLevel[world]', x=189.52, y=-256.00, z=405.94] died, message: 'Unemployed was killed'
-[14Jul2025 01:06:54.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> 1239 114 -1029
-[14Jul2025 01:08:13.381] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[14Jul2025 01:08:13.381] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[14Jul2025 01:08:13.381] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[14Jul2025 01:08:13.382] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[14Jul2025 01:08:13.382] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[14Jul2025 01:08:13.388] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
-[14Jul2025 01:08:13.388] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
-[14Jul2025 01:08:13.389] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
-[14Jul2025 01:08:13.389] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
-[14Jul2025 01:08:13.390] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
-[14Jul2025 01:08:13.390] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
-[14Jul2025 01:08:13.485] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[14Jul2025 01:08:13.486] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[14Jul2025 01:09:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 264.500000, 62.000000, 360.500000]
-[14Jul2025 01:09:29.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
-[14Jul2025 01:09:29.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
-[14Jul2025 01:10:10.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:56163] logged in with entity id 57391 at (264.5, 60.40739540236494, 360.5)
-[14Jul2025 01:10:10.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
-[14Jul2025 01:10:10.102] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
-[14Jul2025 01:10:40.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
-[14Jul2025 01:10:40.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
-[14Jul2025 01:11:37.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
-[14Jul2025 01:11:37.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
-[14Jul2025 01:11:47.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:52313] logged in with entity id 59310 at (264.5, 60.40739540236494, 360.5)
-[14Jul2025 01:11:47.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
-[14Jul2025 01:11:47.990] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
-[14Jul2025 01:11:59.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps drowned
-[14Jul2025 01:12:18.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
-[14Jul2025 01:12:18.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
-[14Jul2025 01:12:22.587] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ff5eee6[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:57881) lost connection: Disconnected
-[14Jul2025 01:12:30.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:34077] logged in with entity id 59803 at (1368.3287874172954, 62.073264324665075, -6052.502567767747)
-[14Jul2025 01:12:30.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
-[14Jul2025 01:12:30.656] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
-[14Jul2025 01:12:51.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:48753] logged in with entity id 60509 at (264.5, 60.40739540236494, 360.5)
-[14Jul2025 01:12:51.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
-[14Jul2025 01:12:51.862] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
-[14Jul2025 01:13:30.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
-[14Jul2025 01:13:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
-[14Jul2025 01:13:51.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
-[14Jul2025 01:13:51.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
-[14Jul2025 01:14:31.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:53619] logged in with entity id 61893 at (1230.3688018509592, 68.0, -4309.446941807317)
-[14Jul2025 01:14:31.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[14Jul2025 01:14:31.172] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[14Jul2025 01:14:34.642] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ccfb24a[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:56127) lost connection: Disconnected
-[14Jul2025 01:15:01.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
-[14Jul2025 01:15:01.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[14Jul2025 01:15:06.434] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f6d7147[id=<null>,name=balda,properties={},legacy=false] (/127.6.39.159:58113) lost connection: Disconnected
-[14Jul2025 01:15:24.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43021] logged in with entity id 62472 at (1230.3688018509592, 68.0, -4309.446941807317)
-[14Jul2025 01:15:24.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[14Jul2025 01:15:24.512] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[14Jul2025 01:15:54.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Vindicator
-[14Jul2025 01:15:54.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
-[14Jul2025 01:15:54.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[14Jul2025 01:16:12.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62928, l='ServerLevel[world]', x=189.45, y=-256.00, z=405.90] died, message: 'Unemployed was killed'
-[14Jul2025 01:16:43.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:52467] logged in with entity id 63127 at (1230.3688018509592, 68.0, -4309.446941807317)
-[14Jul2025 01:16:43.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[14Jul2025 01:16:43.675] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[14Jul2025 01:17:18.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/63651, l='ServerLevel[world]', x=188.82, y=-256.00, z=405.99] died, message: 'Unemployed was killed'
-[14Jul2025 01:17:28.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
-[14Jul2025 01:17:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[14Jul2025 01:17:36.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/63899, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
-[14Jul2025 01:18:13.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:35911] logged in with entity id 64386 at (1266.5, 71.0, -4297.5)
-[14Jul2025 01:18:13.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[14Jul2025 01:18:13.103] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[14Jul2025 01:18:19.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/64092, l='ServerLevel[world]', x=280.40, y=-256.00, z=353.98] died, message: 'Unemployed was killed'
-[14Jul2025 01:18:43.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
-[14Jul2025 01:18:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[14Jul2025 01:19:24.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:43801] logged in with entity id 65289 at (1266.5, 71.0, -4297.5)
-[14Jul2025 01:19:24.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[14Jul2025 01:19:24.411] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[14Jul2025 01:19:44.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> asd
-[14Jul2025 01:19:54.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
-[14Jul2025 01:19:54.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[14Jul2025 01:20:25.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:57751] logged in with entity id 66022 at (1266.5, 71.0, -4297.5)
-[14Jul2025 01:20:25.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
-[14Jul2025 01:20:25.862] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
-[14Jul2025 01:20:55.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
-[14Jul2025 01:20:55.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
-[14Jul2025 01:22:45.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/67145, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
-[14Jul2025 01:23:11.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/67408, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
-[14Jul2025 01:25:27.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ moved too quickly! 8.509535217378243,-2.0,-5.043792520904958
-[14Jul2025 01:25:27.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2840ms or 56 ticks behind
-[14Jul2025 01:33:07.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
-[14Jul2025 01:33:07.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
-[14Jul2025 01:39:58.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has reached the goal [Skyslime Island]
-[14Jul2025 01:43:49.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:38719] logged in with entity id 74012 at (-5350.342875713672, 72.0, 3076.929651186778)
-[14Jul2025 01:43:49.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:43:49.207] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:44:19.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:44:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:44:49.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:33111] logged in with entity id 74917 at (-5350.342875713672, 72.0, 3076.929651186778)
-[14Jul2025 01:44:49.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:44:49.806] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:45:19.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:45:19.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:46:11.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@209f0d32[id=<null>,name=Yarielle,properties={},legacy=false] (/127.91.164.43:40013) lost connection: Disconnected
-[14Jul2025 01:46:48.380] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3486215[id=<null>,name=Yarielle,properties={},legacy=false] (/127.91.164.43:48871) lost connection: Disconnected
-[14Jul2025 01:47:01.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:46431] logged in with entity id 76935 at (-5350.342875713672, 72.0, 3076.929651186778)
-[14Jul2025 01:47:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:47:01.804] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:47:31.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:47:31.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:48:28.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:35675] logged in with entity id 78909 at (-5350.342875713672, 72.0, 3076.929651186778)
-[14Jul2025 01:48:28.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:48:28.306] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:48:58.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:48:58.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:49:05.169] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79509, l='ServerLevel[world]', x=189.32, y=-256.00, z=406.00] died, message: 'Unemployed was killed'
-[14Jul2025 01:49:18.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79547, l='ServerLevel[world]', x=189.62, y=-256.00, z=405.99] died, message: 'Unemployed was killed'
-[14Jul2025 01:49:38.827] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3155a13[id=<null>,name=Yarielle,properties={},legacy=false] (/127.91.164.43:53699) lost connection: Disconnected
-[14Jul2025 01:49:52.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:41487] logged in with entity id 79643 at (-5350.342875713672, 72.0, 3076.929651186778)
-[14Jul2025 01:49:52.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:49:52.305] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:50:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yarielle> porque me expulsa
-[14Jul2025 01:50:22.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:50:22.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:50:35.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> ha de ser algun mod q esta haciendo conflicto
-[14Jul2025 01:51:25.377] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fc951e[id=<null>,name=Yarielle,properties={},legacy=false] (/127.91.164.43:32773) lost connection: Disconnected
-[14Jul2025 01:51:48.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:42409] logged in with entity id 80394 at (-5350.342875713672, 72.0, 3076.929651186778)
-[14Jul2025 01:51:48.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:51:48.610] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:51:51.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Zombie
-[14Jul2025 01:52:18.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:52:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:52:50.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Disconnected
-[14Jul2025 01:52:50.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
-[14Jul2025 01:53:02.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:41795] logged in with entity id 80856 at (-5350.342875713672, 72.0, 3076.929651186778)
-[14Jul2025 01:53:02.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:53:02.338] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:53:32.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:53:32.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:54:03.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:40835] logged in with entity id 81242 at (-3727.5, 75.0, 3009.5)
-[14Jul2025 01:54:03.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:54:03.287] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:54:33.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:54:33.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:55:05.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:40879] logged in with entity id 81584 at (-3727.5, 75.0, 3009.5)
-[14Jul2025 01:55:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:55:05.638] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:55:35.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:55:35.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:55:55.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:54197] logged in with entity id 81926 at (-3734.300000011921, 72.9375, 3017.246956972023)
-[14Jul2025 01:55:55.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:55:55.936] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:56:26.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:56:26.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:56:52.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:51151] logged in with entity id 82336 at (-3751.0335558170464, 72.41999998688698, 3007.5500331902963)
-[14Jul2025 01:56:52.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:56:52.588] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:57:22.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:57:22.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:57:50.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:52789] logged in with entity id 82705 at (-3751.0335558170464, 72.41999998688698, 3007.5500331902963)
-[14Jul2025 01:57:50.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:57:50.840] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 01:58:20.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 01:58:20.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 01:59:36.219] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e7dbb44[id=<null>,name=Yarielle,properties={},legacy=false] (/127.91.164.43:49125) lost connection: Disconnected
-[14Jul2025 01:59:42.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:39771] logged in with entity id 83073 at (-3751.0335558170464, 72.41999998688698, 3007.5500331902963)
-[14Jul2025 01:59:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 01:59:42.586] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 02:00:12.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 02:00:12.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 02:04:58.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:47903] logged in with entity id 83412 at (-3751.0335558170464, 72.41999998688698, 3007.5500331902963)
-[14Jul2025 02:04:58.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 02:04:58.285] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 02:05:28.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle lost connection: Timed out
-[14Jul2025 02:05:28.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle left the game
-[14Jul2025 02:05:47.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:48389] logged in with entity id 83748 at (-3755.1610869220112, 71.23152379758702, 3005.454029396289)
-[14Jul2025 02:05:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
-[14Jul2025 02:05:47.037] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
-[14Jul2025 02:10:54.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle moved too quickly! -10.272165356322148,0.0,-0.024215464645749307
-[14Jul2025 02:16:32.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [What Happens in Las Vegas...]
-[14Jul2025 02:21:32.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 0.7944977624410967
-[14Jul2025 02:21:32.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 1.191746643661645
-[14Jul2025 02:21:32.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 1.5888045963811237
-[14Jul2025 02:21:32.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 1.9806091261252732
-[14Jul2025 02:21:32.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 2.3778580073458215
-[14Jul2025 02:23:19.098] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
-[14Jul2025 02:23:19.099] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
-[14Jul2025 02:23:19.099] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
-[14Jul2025 02:23:19.099] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
-[14Jul2025 02:23:19.315] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
-[14Jul2025 02:23:19.316] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
-[14Jul2025 02:23:19.316] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
-[14Jul2025 02:23:19.316] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
-[14Jul2025 02:23:19.316] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
-[14Jul2025 02:23:21.948] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
-[14Jul2025 02:23:21.948] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
-[14Jul2025 02:23:21.948] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
-[14Jul2025 02:23:21.949] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
-[14Jul2025 02:23:21.949] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
-[14Jul2025 02:23:21.949] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
-[14Jul2025 02:23:21.949] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
-[14Jul2025 02:23:21.974] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
-[14Jul2025 02:23:21.975] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
-[14Jul2025 02:23:21.975] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
-[14Jul2025 02:23:21.975] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
-[14Jul2025 02:25:40.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [You Are A Pirate]
-[14Jul2025 02:25:56.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle moved too quickly! -7.128440971267992,0.0,-7.252912177065355
-[14Jul2025 02:26:48.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle moved too quickly! -9.512538349968963,-0.8787031594607981,-3.8346110636671256
-[14Jul2025 02:26:48.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
-[14Jul2025 02:27:29.055] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[14Jul2025 02:27:29.056] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[14Jul2025 02:27:29.056] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[14Jul2025 02:27:32.669] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
-[14Jul2025 02:27:32.669] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
-[14Jul2025 02:27:32.669] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
-[14Jul2025 02:28:42.189] [Worker-Main-115/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[14Jul2025 02:28:42.190] [Worker-Main-115/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 02:28:42.190] [Worker-Main-115/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 02:28:42.190] [Worker-Main-115/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 02:28:46.366] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[14Jul2025 02:28:46.376] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[14Jul2025 02:28:46.376] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[14Jul2025 02:28:46.376] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[14Jul2025 02:28:47.426] [Worker-Main-203/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[14Jul2025 02:28:47.426] [Worker-Main-203/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[14Jul2025 02:28:47.426] [Worker-Main-203/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[14Jul2025 02:28:47.426] [Worker-Main-203/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[14Jul2025 02:31:24.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [People Are Strange]
-[14Jul2025 02:38:54.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was slain by Vindicator
-[14Jul2025 02:43:42.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle was shot by Pillager
-[14Jul2025 03:06:10.951] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
-[14Jul2025 03:06:10.951] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
-[14Jul2025 03:06:24.952] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 03:06:24.952] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 03:06:24.953] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 03:06:24.964] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[14Jul2025 03:06:24.964] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[14Jul2025 03:06:24.964] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[14Jul2025 03:06:24.964] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[14Jul2025 03:06:24.974] [Worker-Main-201/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[14Jul2025 03:06:24.978] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[14Jul2025 03:06:24.978] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[14Jul2025 03:06:24.978] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[14Jul2025 03:06:24.978] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[14Jul2025 03:06:47.367] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 03:06:47.367] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 03:06:47.367] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 03:06:47.377] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[14Jul2025 03:06:47.377] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[14Jul2025 03:06:47.377] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[14Jul2025 03:06:47.377] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[14Jul2025 03:06:47.386] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[14Jul2025 03:06:47.386] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[14Jul2025 03:06:47.387] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[14Jul2025 03:06:47.387] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[14Jul2025 03:06:47.390] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[14Jul2025 03:06:47.390] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[14Jul2025 03:06:47.390] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[14Jul2025 03:06:47.390] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[14Jul2025 03:06:50.040] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[14Jul2025 03:06:50.040] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[14Jul2025 03:06:50.040] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[14Jul2025 03:06:50.040] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[14Jul2025 03:18:21.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 0.4968841756153779
-[14Jul2025 03:18:21.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 0.8683606441363736
-[14Jul2025 03:18:21.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 1.2626602137315786
-[14Jul2025 03:18:21.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 1.6569597833267835
-[14Jul2025 03:18:21.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 1.9562783111659883
-[14Jul2025 03:18:21.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 0.2755115876543641
+[14Jul2025 22:22:34.436] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[14Jul2025 22:22:34.440] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[14Jul2025 22:22:38.674] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Jul2025 22:22:38.684] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[14Jul2025 22:22:38.685] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Server2-ops/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23130!/
+[14Jul2025 22:22:38.690] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Server2-ops/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[14Jul2025 22:22:38.692] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[14Jul2025 22:22:38.821] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server2-ops/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[14Jul2025 22:22:38.829] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[14Jul2025 22:22:39.162] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jul2025 22:22:39.164] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jul2025 22:22:39.165] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jul2025 22:22:39.167] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jul2025 22:22:39.522] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14Jul2025 22:22:39.523] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[14Jul2025 22:22:40.277] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[14Jul2025 22:22:40.283] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[14Jul2025 22:22:40.922] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[14Jul2025 22:22:41.913] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Jul2025 22:22:41.988] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[14Jul2025 22:22:41.990] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[14Jul2025 22:22:42.176] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Jul2025 22:22:43.523] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[14Jul2025 22:22:43.524] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[14Jul2025 22:22:43.525] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[14Jul2025 22:22:43.531] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[14Jul2025 22:22:43.531] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[14Jul2025 22:22:43.532] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[14Jul2025 22:22:43.533] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[14Jul2025 22:22:43.536] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[14Jul2025 22:22:43.693] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[14Jul2025 22:22:44.113] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: com/sun/jna/Platform
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 22 more
+[14Jul2025 22:22:52.706] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[14Jul2025 22:22:53.010] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[14Jul2025 22:22:53.539] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[14Jul2025 22:22:53.541] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[14Jul2025 22:22:53.545] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[14Jul2025 22:22:53.755] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[14Jul2025 22:22:53.758] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[14Jul2025 22:22:57.384] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[14Jul2025 22:22:57.387] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[14Jul2025 22:22:57.391] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[14Jul2025 22:22:57.535] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[14Jul2025 22:22:57.559] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[14Jul2025 22:22:57.610] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[14Jul2025 22:22:58.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[14Jul2025 22:22:58.237] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[14Jul2025 22:22:58.237] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[14Jul2025 22:22:58.238] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[14Jul2025 22:22:58.239] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[14Jul2025 22:22:58.304] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[14Jul2025 22:22:58.322] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[14Jul2025 22:22:58.327] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[14Jul2025 22:22:58.328] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[14Jul2025 22:22:58.329] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[14Jul2025 22:22:58.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.24 Target: 1.20.1-1.0.32
+[14Jul2025 22:22:58.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[14Jul2025 22:22:58.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[14Jul2025 22:22:58.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[14Jul2025 22:22:58.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[14Jul2025 22:22:58.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Jul2025 22:22:59.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[14Jul2025 22:23:00.961] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Jul2025 22:23:02.594] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
+[14Jul2025 22:23:02.595] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server2-ops/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
+[14Jul2025 22:23:03.787] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[14Jul2025 22:23:03.813] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[14Jul2025 22:23:04.401] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[14Jul2025 22:23:04.414] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[14Jul2025 22:23:04.414] [Worker-Main-1/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 14.211243 ms
+[14Jul2025 22:23:04.483] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[14Jul2025 22:23:04.636] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[14Jul2025 22:23:04.636] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[14Jul2025 22:23:04.649] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[14Jul2025 22:23:04.649] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[14Jul2025 22:23:04.664] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[14Jul2025 22:23:04.664] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[14Jul2025 22:23:04.680] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[14Jul2025 22:23:04.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[14Jul2025 22:23:04.688] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[14Jul2025 22:23:04.691] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[14Jul2025 22:23:04.694] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[14Jul2025 22:23:04.694] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[14Jul2025 22:23:04.713] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[14Jul2025 22:23:04.713] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[14Jul2025 22:23:04.714] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[14Jul2025 22:23:04.715] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[14Jul2025 22:23:04.730] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[14Jul2025 22:23:04.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[14Jul2025 22:23:04.753] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[14Jul2025 22:23:04.753] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
+[14Jul2025 22:23:04.761] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[14Jul2025 22:23:04.762] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[14Jul2025 22:23:04.762] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[14Jul2025 22:23:04.762] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[14Jul2025 22:23:04.774] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[14Jul2025 22:23:04.775] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[14Jul2025 22:23:04.780] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[14Jul2025 22:23:04.781] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[14Jul2025 22:23:04.782] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[14Jul2025 22:23:04.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[14Jul2025 22:23:04.806] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[14Jul2025 22:23:04.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[14Jul2025 22:23:04.810] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[14Jul2025 22:23:04.810] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[14Jul2025 22:23:04.818] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[14Jul2025 22:23:04.818] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[14Jul2025 22:23:04.824] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[14Jul2025 22:23:04.824] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[14Jul2025 22:23:04.824] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[14Jul2025 22:23:04.824] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
+[14Jul2025 22:23:04.834] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
+[14Jul2025 22:23:04.835] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[14Jul2025 22:23:04.875] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[14Jul2025 22:23:04.923] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[14Jul2025 22:23:04.940] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[14Jul2025 22:23:04.943] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[14Jul2025 22:23:04.977] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3375 advancements
+[14Jul2025 22:23:04.981] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 1.35699 ms
+[14Jul2025 22:23:05.034] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 152 dynamic modifiers and 4 modifier redirects in 52.70685 ms
+[14Jul2025 22:23:05.041] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 42 modifier tags for 140 modifiers in 6.870733 ms
+[14Jul2025 22:23:05.042] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.846068 ms
+[14Jul2025 22:23:05.045] [main/INFO] [tconstruct/]: Loaded 43 spilling fluids in 3.160575 ms
+[14Jul2025 22:23:05.074] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 52 materials in 4.866055 ms
+[14Jul2025 22:23:05.077] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 9 material tags for 39 materials in 2.140161 ms
+[14Jul2025 22:23:05.086] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 383 stats loaded for 65 materials in 8.998706 ms
+[14Jul2025 22:23:05.097] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 202 traits loaded for 65 materials in 11.178427 ms
+[14Jul2025 22:23:05.107] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 9.028989 ms
+[14Jul2025 22:23:05.112] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 4.55272 ms
+[14Jul2025 22:23:06.522] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.312848ms
+[14Jul2025 22:23:06.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[14Jul2025 22:23:06.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Jul2025 22:23:06.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Jul2025 22:23:06.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Jul2025 22:23:06.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Jul2025 22:23:06.772] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Jul2025 22:23:06.864] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14Jul2025 22:23:06.864] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[14Jul2025 22:23:06.865] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14Jul2025 22:23:06.865] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[14Jul2025 22:23:06.894] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[14Jul2025 22:23:06.896] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[14Jul2025 22:23:06.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Jul2025 22:23:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Jul2025 22:23:11.098] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2025 22:23:11.105] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2025 22:23:11.109] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2025 22:23:11.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2025 22:23:11.879] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2025 22:23:12.377] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2025 22:23:12.879] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2025 22:23:13.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[14Jul2025 22:23:13.906] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[14Jul2025 22:23:14.444] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[14Jul2025 22:23:15.002] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[14Jul2025 22:23:15.377] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[14Jul2025 22:23:15.732] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5856 ms
+[14Jul2025 22:23:15.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.854s)! For help, type "help"
+[14Jul2025 22:23:15.809] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Jul2025 22:31:36.171] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Jul2025 22:31:36.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:57833] logged in with entity id 114 at (272.2242077735336, 63.5, 355.91346186410834)
+[14Jul2025 22:31:36.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[14Jul2025 22:31:36.533] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
