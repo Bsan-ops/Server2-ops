@@ -536,3 +536,9 @@
 [14Jul2025 03:06:50.040] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
 [14Jul2025 03:06:50.040] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
 [14Jul2025 03:06:50.040] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[14Jul2025 03:18:21.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 0.4968841756153779
+[14Jul2025 03:18:21.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 0.8683606441363736
+[14Jul2025 03:18:21.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 1.2626602137315786
+[14Jul2025 03:18:21.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 1.6569597833267835
+[14Jul2025 03:18:21.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 1.9562783111659883
+[14Jul2025 03:18:21.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yarielle) moved wrongly! 0.2755115876543641
