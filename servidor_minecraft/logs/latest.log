@@ -451,3 +451,5 @@
 [14Jul2025 02:05:47.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yarielle[/127.91.164.43:48389] logged in with entity id 83748 at (-3755.1610869220112, 71.23152379758702, 3005.454029396289)
 [14Jul2025 02:05:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle joined the game
 [14Jul2025 02:05:47.037] [Server thread/INFO] [Jade/]: Syncing config to Yarielle (54fdfb0f-a2a4-348a-b9ce-42f07e334d5b)
+[14Jul2025 02:10:54.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yarielle moved too quickly! -10.272165356322148,0.0,-0.024215464645749307
+[14Jul2025 02:16:32.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yarielle has made the advancement [What Happens in Las Vegas...]

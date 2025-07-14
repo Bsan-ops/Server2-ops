@@ -37,6 +37,8 @@
       "minecraft:frozen_river": "2025-07-13 06:39:15 +0000",
       "minecraft:cherry_grove": "2025-07-13 05:13:11 +0000",
       "minecraft:birch_forest": "2025-07-13 05:16:06 +0000",
+      "minecraft:wooded_badlands": "2025-07-14 02:16:38 +0000",
+      "minecraft:badlands": "2025-07-14 02:13:45 +0000",
       "minecraft:beach": "2025-07-13 05:17:44 +0000",
       "minecraft:sparse_jungle": "2025-07-13 07:53:05 +0000",
       "minecraft:river": "2025-07-13 05:14:51 +0000",
@@ -54,6 +56,8 @@
       "minecraft:ocean": "2025-07-13 05:31:01 +0000",
       "minecraft:jungle": "2025-07-13 07:55:40 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-13 05:43:48 +0000",
+      "minecraft:warm_ocean": "2025-07-14 02:11:09 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-14 02:09:37 +0000",
       "minecraft:meadow": "2025-07-13 05:45:11 +0000",
       "minecraft:plains": "2025-07-13 05:13:25 +0000"
     },
@@ -1214,6 +1218,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-13 05:30:13 +0000",
+      "cooked_mutton": "2025-07-14 02:17:53 +0000",
       "sweet_berries": "2025-07-13 06:27:51 +0000",
       "apple": "2025-07-13 05:26:13 +0000",
       "rotten_flesh": "2025-07-13 06:25:30 +0000",
@@ -2408,6 +2413,66 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-07-14 01:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-07-14 02:16:32 +0000"
     },
     "done": true
   },
