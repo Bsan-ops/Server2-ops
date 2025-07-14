@@ -226,3 +226,52 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jul2025 22:56:00.817] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ancore:ancore] rejected their client side version number
 [14Jul2025 22:56:00.818] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [14Jul2025 22:56:00.823] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28874183[id=<null>,name=xXCaptainJhonaXx,properties={},legacy=false] (/127.204.29.74:60185) lost connection: Connection closed - mismatched mod channel list
+[14Jul2025 23:04:11.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXCaptainJhonaXx[/127.204.29.74:42809] logged in with entity id 5847 at (-125.5, 104.0, 82.5)
+[14Jul2025 23:04:11.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx joined the game
+[14Jul2025 23:04:11.246] [Server thread/INFO] [Jade/]: Syncing config to xXCaptainJhonaXx (78905ced-1f79-3636-a88f-6c15c22bac0d)
+[14Jul2025 23:04:33.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
+[14Jul2025 23:06:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx has made the advancement [Alex's Mobs]
+[14Jul2025 23:06:12.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXCaptainJhonaXx> wenas
+[14Jul2025 23:09:36.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 10.172707329818081,0.0,-0.15064957382303135
+[14Jul2025 23:09:36.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 10.551931392306187,0.0,-0.04812823927843812
+[14Jul2025 23:09:36.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 10.929720164364312,0.0,0.06052922105813252
+[14Jul2025 23:09:36.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 11.306107938382297,0.0,0.174950217018206
+[14Jul2025 23:09:36.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 11.681135304243071,0.0,0.2947743462553305
+[14Jul2025 23:09:36.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 12.054847323755212,0.0,0.4196558355603015
+[14Jul2025 23:09:36.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 12.427588312716125,0.0,0.5486296130613768
+[14Jul2025 23:09:36.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 12.79964220868851,0.0,0.6808700722820733
+[14Jul2025 23:09:36.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 13.171241644936572,0.0,0.8156743558449815
+[14Jul2025 23:09:36.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 13.542575852473192,0.0,0.9524471534120762
+[14Jul2025 23:09:36.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 13.913797507406457,0.0,1.090686877339012
+[14Jul2025 23:09:36.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 14.285030107996135,0.0,1.2299695550786574
+[14Jul2025 23:09:36.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 14.65637151828787,0.0,1.3699413424096845
+[14Jul2025 23:09:36.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 15.027898491037831,0.0,1.510308170879564
+[14Jul2025 23:09:36.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 15.399670581882674,0.0,1.6508263699675396
+[14Jul2025 23:09:36.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 15.77173222295471,0.0,1.7912977679199589
+[14Jul2025 23:09:36.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 16.144115874360068,0.0,1.931561668039274
+[14Jul2025 23:09:36.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 16.516844774828087,0.0,2.0714875872974625
+[14Jul2025 23:09:36.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 16.88993273136043,0.0,2.210975911829882
+[14Jul2025 23:09:36.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 17.263387834020705,0.0,2.349947656529499
+[14Jul2025 23:09:36.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 17.637211857886655,0.0,2.488346055749095
+[14Jul2025 23:09:36.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 18.011402284082465,0.0,2.6261307688013615
+[14Jul2025 23:09:36.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 18.385952814855955,0.0,2.763276268196161
+[14Jul2025 23:09:36.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 18.761077246532295,0.0,2.8991050894596997
+[14Jul2025 23:09:36.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 19.136931037194017,0.0,3.0330761251157865
+[14Jul2025 23:09:36.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 19.513621994559912,0.0,3.164768739838806
+[14Jul2025 23:09:36.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 19.891221362840042,0.0,3.2938607720540753
+[14Jul2025 23:09:36.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 20.269770936157215,0.0,3.4201157994604263
+[14Jul2025 23:09:36.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 20.64928905456884,0.0,3.5433714991868905
+[14Jul2025 23:09:36.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 21.02977737511901,0.0,3.6635215611659193
+[14Jul2025 23:09:36.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 21.411222972274004,0.0,3.780514182808388
+[14Jul2025 23:09:36.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 21.793603487942846,0.0,3.8943356994285905
+[14Jul2025 23:09:36.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 22.176888931550366,0.0,4.005006983725857
+[14Jul2025 23:09:36.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 22.56104396320393,0.0,4.112576417629185
+[14Jul2025 23:09:36.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 22.94603052596392,0.0,4.217109753191636
+[14Jul2025 23:09:36.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[14Jul2025 23:09:36.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 13.539786961883806,0.0,4.565344888754176
+[14Jul2025 23:09:36.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 13.926311484082134,0.0,4.664082797282738
+[14Jul2025 23:09:36.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! 14.313541724861466,0.0,4.760079916394281
+[14Jul2025 23:10:14.198] [Worker-Main-75/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[14Jul2025 23:10:53.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported xXCaptainJhonaXx to 1266.500000, 85.000000, -1013.500000]
+[14Jul2025 23:13:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx has made the advancement [Stone Age]
+[14Jul2025 23:13:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx has made the advancement [Sweet Dreams]
