@@ -40,6 +40,7 @@
       "minecraft:wooded_badlands": "2025-07-14 02:16:38 +0000",
       "minecraft:badlands": "2025-07-14 02:13:45 +0000",
       "minecraft:beach": "2025-07-13 05:17:44 +0000",
+      "minecraft:dark_forest": "2025-07-14 02:22:34 +0000",
       "minecraft:sparse_jungle": "2025-07-13 07:53:05 +0000",
       "minecraft:river": "2025-07-13 05:14:51 +0000",
       "minecraft:lukewarm_ocean": "2025-07-13 07:54:51 +0000",
@@ -56,8 +57,10 @@
       "minecraft:ocean": "2025-07-13 05:31:01 +0000",
       "minecraft:jungle": "2025-07-13 07:55:40 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-13 05:43:48 +0000",
+      "minecraft:windswept_savanna": "2025-07-14 02:24:17 +0000",
       "minecraft:warm_ocean": "2025-07-14 02:11:09 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-14 02:09:37 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-14 02:23:05 +0000",
       "minecraft:meadow": "2025-07-13 05:45:11 +0000",
       "minecraft:plains": "2025-07-13 05:13:25 +0000"
     },
@@ -1221,6 +1224,7 @@
       "cooked_mutton": "2025-07-14 02:17:53 +0000",
       "sweet_berries": "2025-07-13 06:27:51 +0000",
       "apple": "2025-07-13 05:26:13 +0000",
+      "bread": "2025-07-14 02:41:26 +0000",
       "rotten_flesh": "2025-07-13 06:25:30 +0000",
       "cooked_chicken": "2025-07-13 05:27:17 +0000"
     },
@@ -1336,6 +1340,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-14 02:30:53 +0000",
+      "minecraft:vindicator": "2025-07-14 02:40:29 +0000",
       "minecraft:creeper": "2025-07-13 06:23:12 +0000",
       "minecraft:husk": "2025-07-14 01:50:13 +0000",
       "minecraft:zombie": "2025-07-13 05:36:15 +0000"
@@ -2416,6 +2422,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-07-14 02:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-14 02:20:47 +0000"
@@ -2440,9 +2452,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-14 02:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-07-14 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-14 02:34:52 +0000"
     },
     "done": true
   },
@@ -2470,9 +2494,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-07-14 02:31:24 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-07-14 02:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-14 02:50:49 +0000"
     },
     "done": true
   },
