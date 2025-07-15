@@ -1808,6 +1808,7 @@
       "minecraft:creeper": "2025-07-15 01:36:29 +0000",
       "minecraft:slime": "2025-07-14 23:55:14 +0000",
       "minecraft:phantom": "2025-07-15 01:35:23 +0000",
+      "minecraft:witch": "2025-07-15 02:45:00 +0000",
       "minecraft:zombie": "2025-07-14 23:34:34 +0000",
       "minecraft:drowned": "2025-07-14 23:54:59 +0000",
       "minecraft:zombie_villager": "2025-07-15 01:36:38 +0000"
@@ -2652,6 +2653,66 @@
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-07-15 02:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-15 02:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-15 02:50:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-15 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-15 02:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-15 02:50:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-07-15 02:50:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-15 02:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-15 02:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-15 02:50:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-15 02:44:48 +0000"
     },
     "done": true
   },
