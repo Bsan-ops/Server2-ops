@@ -155,3 +155,22 @@
 [15Jul2025 01:19:54.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx was kicked for floating too long!
 [15Jul2025 01:19:54.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx lost connection: Flying is not enabled on this server
 [15Jul2025 01:19:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx left the game
+[15Jul2025 01:20:09.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXCaptainJhonaXx[/127.204.29.74:44475] logged in with entity id 160020 at (553.7327229326694, 87.4085816583852, -632.7221359496962)
+[15Jul2025 01:20:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx joined the game
+[15Jul2025 01:20:09.571] [Server thread/INFO] [Jade/]: Syncing config to xXCaptainJhonaXx (78905ced-1f79-3636-a88f-6c15c22bac0d)
+[15Jul2025 01:20:11.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[15Jul2025 01:20:17.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx moved too quickly! 0.0,-10.722248667987472,0.0
+[15Jul2025 01:20:39.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXCaptainJhonaXx> day
+[15Jul2025 01:20:43.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> day
+[15Jul2025 01:20:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 01:25:35.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:35303] logged in with entity id 166086 at (1321.0471073160463, 62.073264324665075, -6343.300684397565)
+[15Jul2025 01:25:35.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[15Jul2025 01:25:35.595] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[15Jul2025 01:26:39.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[15Jul2025 01:26:57.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
+[15Jul2025 01:27:16.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4368ms or 87 ticks behind
+[15Jul2025 01:27:39.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7816ms or 156 ticks behind
+[15Jul2025 01:28:00.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[15Jul2025 01:28:18.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2703ms or 54 ticks behind
+[15Jul2025 01:30:16.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXCaptainJhonaXx> day
+[15Jul2025 01:30:19.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
