@@ -736,3 +736,7 @@
 [15Jul2025 03:07:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
 [15Jul2025 03:19:14.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/272863, l='ServerLevel[world]', x=258.01, y=-256.00, z=359.49] died, message: 'Unemployed was killed'
 [15Jul2025 03:20:49.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/273474, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
+[15Jul2025 03:26:36.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky lost connection: Disconnected
+[15Jul2025 03:26:36.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky left the game
+[15Jul2025 03:27:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx has made the advancement [Enchanter]
+[15Jul2025 03:34:14.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/276861, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'

@@ -2668,6 +2668,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-07-15 03:31:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-07-15 03:14:22 +0000"
@@ -2767,6 +2773,12 @@
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-07-15 03:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-15 03:31:22 +0000"
     },
     "done": true
   },
@@ -2875,6 +2887,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-15 03:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-15 03:27:33 +0000"
     },
     "done": true
   },
@@ -3013,6 +3031,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-15 03:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-15 03:31:22 +0000"
     },
     "done": true
   },
