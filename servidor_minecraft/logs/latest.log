@@ -734,3 +734,5 @@
 [15Jul2025 03:00:38.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> aram
 [15Jul2025 03:07:34.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
 [15Jul2025 03:07:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[15Jul2025 03:19:14.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/272863, l='ServerLevel[world]', x=258.01, y=-256.00, z=359.49] died, message: 'Unemployed was killed'
+[15Jul2025 03:20:49.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/273474, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
