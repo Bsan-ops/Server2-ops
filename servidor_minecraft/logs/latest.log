@@ -703,3 +703,15 @@
 [15Jul2025 02:31:02.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.48615408746701405
 [15Jul2025 02:31:02.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.4688351722036259
 [15Jul2025 02:31:33.770] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/237156, l='ServerLevel[world]', x=469.50, y=45.00, z=-623.50]
+[15Jul2025 02:33:38.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[15Jul2025 02:33:55.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[15Jul2025 02:34:29.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to BozzNofps]
+[15Jul2025 02:34:32.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[15Jul2025 02:34:40.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx moved too quickly! 0.900177752014315,-11.176291245024714,-0.00822938955434438
+[15Jul2025 02:34:42.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx fell off a ladder
+[15Jul2025 02:35:09.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> xD
+[15Jul2025 02:39:38.343] [Worker-Main-57/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[15Jul2025 02:40:13.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Ol' Betsy]
+[15Jul2025 02:41:22.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Skeleton
+[15Jul2025 02:42:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to BozzNofps]
+[15Jul2025 02:43:29.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
