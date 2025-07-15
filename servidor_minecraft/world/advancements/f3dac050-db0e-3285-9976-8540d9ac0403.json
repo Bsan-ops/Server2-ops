@@ -22,15 +22,20 @@
       "minecraft:snowy_slopes": "2025-07-06 20:22:34 +0000",
       "minecraft:deep_ocean": "2025-07-07 02:09:29 +0000",
       "minecraft:cherry_grove": "2025-07-06 20:34:22 +0000",
+      "minecraft:sunflower_plains": "2025-07-15 01:57:43 +0000",
       "minecraft:birch_forest": "2025-07-08 03:17:05 +0000",
+      "minecraft:bamboo_jungle": "2025-07-15 01:52:03 +0000",
       "minecraft:beach": "2025-07-07 02:17:33 +0000",
       "minecraft:dark_forest": "2025-07-07 02:16:39 +0000",
       "minecraft:river": "2025-07-06 21:22:28 +0000",
       "minecraft:lukewarm_ocean": "2025-07-09 05:27:27 +0000",
       "minecraft:stony_shore": "2025-07-07 02:07:25 +0000",
+      "minecraft:grove": "2025-07-15 01:52:57 +0000",
       "minecraft:forest": "2025-07-06 20:23:10 +0000",
       "minecraft:lush_caves": "2025-07-08 03:38:01 +0000",
       "minecraft:ocean": "2025-07-07 02:08:51 +0000",
+      "minecraft:jungle": "2025-07-15 01:50:16 +0000",
+      "minecraft:flower_forest": "2025-07-15 01:57:30 +0000",
       "minecraft:frozen_peaks": "2025-07-06 20:25:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-07 02:15:01 +0000",
       "minecraft:deep_dark": "2025-07-08 03:41:01 +0000",
@@ -896,12 +901,6 @@
     },
     "done": true
   },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-07-06 20:39:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-06 20:41:55 +0000"
@@ -1176,6 +1175,7 @@
       "potato": "2025-07-07 02:04:48 +0000",
       "cooked_cod": "2025-07-07 03:24:51 +0000",
       "bread": "2025-07-07 01:37:54 +0000",
+      "cooked_chicken": "2025-07-15 02:21:33 +0000",
       "cooked_salmon": "2025-07-07 02:01:26 +0000"
     },
     "done": false
@@ -2905,6 +2905,7 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "zombie_head": "2025-07-08 04:02:52 +0000",
+      "skeleton_skull": "2025-07-15 02:29:08 +0000",
       "husk_head": "2025-07-08 04:20:22 +0000"
     },
     "done": false
@@ -3652,6 +3653,30 @@
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-07-09 05:47:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-07-15 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-15 02:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-15 02:31:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-15 02:14:28 +0000"
     },
     "done": true
   },

@@ -2516,7 +2516,37 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-15 01:25:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-07-15 01:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-15 01:25:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-07-15 01:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-15 01:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-15 01:25:56 +0000"
     },
@@ -2528,13 +2558,13 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
-      "has_item": "2025-07-15 01:25:56 +0000"
+      "has_raw_iron": "2025-07-15 01:26:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-15 01:26:34 +0000"
     },
@@ -2546,33 +2576,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-07-15 01:25:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-07-15 01:25:56 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-07-15 01:41:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-15 01:26:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-07-15 01:25:56 +0000"
     },
     "done": true
   },
@@ -2582,9 +2588,69 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/flint": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_item": "2025-07-15 01:25:53 +0000"
+      "has_wood_slab": "2025-07-15 02:04:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-15 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-15 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-15 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-07-15 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-15 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-15 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-15 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-15 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-15 02:06:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-07-15 02:06:05 +0000"
     },
     "done": true
   },

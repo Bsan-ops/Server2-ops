@@ -511,3 +511,195 @@
 [15Jul2025 01:42:04.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 1.7865712050811453,0.0,-11.02162150609729
 [15Jul2025 01:42:04.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 1.7493782549772732,0.0,-10.630632138896544
 [15Jul2025 01:42:04.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 1.724481461421874,0.0,-10.239672892194903
+[15Jul2025 01:42:21.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[15Jul2025 01:42:42.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5354ms or 107 ticks behind
+[15Jul2025 01:43:00.525] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/f3dac050-db0e-3285-9976-8540d9ac0403.json: Don't know what man:managgresive is
+[15Jul2025 01:43:00.535] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/f3dac050-db0e-3285-9976-8540d9ac0403.json - it doesn't exist anymore?
+[15Jul2025 01:43:00.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxx[/127.192.242.214:54731] logged in with entity id 189429 at (2036.707812141242, 99.5625, 1073.699999988079)
+[15Jul2025 01:43:00.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx joined the game
+[15Jul2025 01:43:00.594] [Server thread/INFO] [Jade/]: Syncing config to Maxx (f3dac050-db0e-3285-9976-8540d9ac0403)
+[15Jul2025 01:43:01.701] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [126, 63], discarding
+[15Jul2025 01:43:01.719] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [127, 63], discarding
+[15Jul2025 01:43:01.727] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [128, 63], discarding
+[15Jul2025 01:43:01.800] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [126, 64], discarding
+[15Jul2025 01:43:01.803] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [127, 64], discarding
+[15Jul2025 01:43:01.806] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [128, 64], discarding
+[15Jul2025 01:43:01.827] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [126, 65], discarding
+[15Jul2025 01:43:01.834] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: man:house
+[15Jul2025 01:43:01.834] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [127, 65], discarding
+[15Jul2025 01:43:01.835] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [128, 65], discarding
+[15Jul2025 01:43:02.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 10.256541111549268,0.0,-1.2126239275667103
+[15Jul2025 01:43:02.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 10.654577868963088,0.0,-1.245377986362655
+[15Jul2025 01:43:02.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.052741880819895,0.0,-1.2772061108698836
+[15Jul2025 01:43:02.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.451022876638717,0.0,-1.3081587817623586
+[15Jul2025 01:43:02.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 11.849411136149683,0.0,-1.3382890864186265
+[15Jul2025 01:43:02.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.247897877582773,0.0,-1.3676448018477458
+[15Jul2025 01:43:02.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 12.646474746584545,0.0,-1.396276583760482
+[15Jul2025 01:43:02.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 13.04513420561102,0.0,-1.424230021596486
+[15Jul2025 01:43:02.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 13.443869247355451,0.0,-1.4515499740509767
+[15Jul2025 01:43:02.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 13.842673550340578,0.0,-1.4782768132517958
+[15Jul2025 01:43:02.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
+[15Jul2025 01:43:23.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3093ms or 61 ticks behind
+[15Jul2025 01:43:40.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[15Jul2025 01:43:58.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3041ms or 60 ticks behind
+[15Jul2025 01:44:14.686] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/192078, l='ServerLevel[world]', x=470.50, y=42.00, z=-623.50]
+[15Jul2025 01:44:17.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to balda]
+[15Jul2025 01:44:22.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15Jul2025 01:44:33.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[15Jul2025 01:44:33.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[15Jul2025 01:45:20.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:46513] logged in with entity id 193390 at (1763.7357128841272, 64.0, -6509.418867729753)
+[15Jul2025 01:45:20.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[15Jul2025 01:45:20.154] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[15Jul2025 01:47:04.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXCaptainJhonaXx> day
+[15Jul2025 01:47:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> DAY
+[15Jul2025 01:47:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 01:47:50.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> 280 350
+[15Jul2025 01:47:53.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> GAY
+[15Jul2025 01:47:54.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> Xd
+[15Jul2025 01:48:20.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> pasa que como no dormimos tengo 20 mil panton arriba mio
+[15Jul2025 01:48:35.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron moved too quickly! 8.724055474661586,0.0,-5.6499985883046975
+[15Jul2025 01:48:35.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
+[15Jul2025 01:48:35.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! 3.868954081341826,0.0,-9.441214703904734
+[15Jul2025 01:48:36.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.857885476589217,0.0,15.49295196404637
+[15Jul2025 01:48:36.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.9627362433232065,0.0,15.7923810690354
+[15Jul2025 01:48:36.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.892611287784575,0.0,15.592120705394336
+[15Jul2025 01:48:36.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.829498829471731,0.0,15.41188638289168
+[15Jul2025 01:48:36.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.771102834174599,0.0,15.244936651073658
+[15Jul2025 01:48:36.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.717069348808309,0.0,15.089905056320276
+[15Jul2025 01:48:36.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.668439213266993,0.0,14.950376624738055
+[15Jul2025 01:48:36.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.624672092439141,0.0,14.824801039640988
+[15Jul2025 01:48:37.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.585281684737538,0.0,14.711783016047775
+[15Jul2025 01:48:37.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.540969010759227,0.0,14.571060679776565
+[15Jul2025 01:48:37.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.492799398702573,0.0,14.405278678329523
+[15Jul2025 01:48:37.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.441673229040816,0.0,14.216837497227061
+[15Jul2025 01:48:37.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.388349392796954,0.0,14.007914113668448
+[15Jul2025 01:48:37.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.333466573491705,0.0,13.780481184599012
+[15Jul2025 01:48:37.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.277558741264784,0.0,13.536325403753835
+[15Jul2025 01:48:37.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.2210691748819045,0.0,13.27706432474497
+[15Jul2025 01:48:37.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -4.164363141147078,0.0,13.004161736530477
+[15Jul2025 01:49:26.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx fell from a high place
+[15Jul2025 01:49:36.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[15Jul2025 01:51:37.885] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [84, 63], discarding
+[15Jul2025 01:51:37.887] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [85, 63], discarding
+[15Jul2025 01:51:37.888] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [86, 63], discarding
+[15Jul2025 01:51:37.896] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [84, 64], discarding
+[15Jul2025 01:51:37.900] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [85, 64], discarding
+[15Jul2025 01:51:37.972] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [86, 64], discarding
+[15Jul2025 01:51:37.978] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [84, 65], discarding
+[15Jul2025 01:51:37.980] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [85, 65], discarding
+[15Jul2025 01:51:37.981] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: man:house
+[15Jul2025 01:51:37.982] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [86, 65], discarding
+[15Jul2025 01:52:47.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6335ms or 126 ticks behind
+[15Jul2025 01:53:04.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[15Jul2025 01:53:22.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Guns and Roses]
+[15Jul2025 01:53:39.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[15Jul2025 01:53:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Guns and Roses]
+[15Jul2025 01:54:50.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9702ms or 194 ticks behind
+[15Jul2025 01:54:50.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron moved too quickly! 0.03010363519672854,0.0,10.015785106102499
+[15Jul2025 01:54:50.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps moved too quickly! -4.155912609760435,8.432578761812216,-4.3020706271609015
+[15Jul2025 01:54:50.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda moved too quickly! -8.48629843340018,-1.0,-5.280150762027006
+[15Jul2025 01:54:50.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx moved too quickly! -9.200044095522571,0.0,-4.385886542985645
+[15Jul2025 01:56:16.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.5657159687249305
+[15Jul2025 01:56:16.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.9361338885618125
+[15Jul2025 01:56:16.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 1.3066701545650403
+[15Jul2025 01:56:16.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 1.6773129321151146
+[15Jul2025 01:56:16.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 2.048051570054895
+[15Jul2025 01:56:16.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 2.41887648234308
+[15Jul2025 01:56:16.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 2.7897790415427153
+[15Jul2025 01:56:16.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 3.1607514829609045
+[15Jul2025 01:56:16.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 3.53178681837403
+[15Jul2025 01:56:16.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 3.9028787583812345
+[15Jul2025 01:56:16.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 4.274021642521575
+[15Jul2025 01:56:16.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 4.748578119790523
+[15Jul2025 01:57:25.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> no sos max?
+[15Jul2025 01:57:50.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXCaptainJhonaXx> day
+[15Jul2025 02:02:35.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> day
+[15Jul2025 02:02:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 02:03:32.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was blown up by Creeper
+[15Jul2025 02:03:51.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx lost connection: Timed out
+[15Jul2025 02:03:51.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx left the game
+[15Jul2025 02:04:37.396] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cf12ac0[id=<null>,name=Maxx,properties={},legacy=false] (/127.192.242.214:55185) lost connection: Disconnected
+[15Jul2025 02:04:48.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxx[/127.192.242.214:60473] logged in with entity id 214863 at (331.6913114289382, 60.0, 561.3079551052331)
+[15Jul2025 02:04:48.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx joined the game
+[15Jul2025 02:04:48.766] [Server thread/INFO] [Jade/]: Syncing config to Maxx (f3dac050-db0e-3285-9976-8540d9ac0403)
+[15Jul2025 02:08:24.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> x250 z350
+[15Jul2025 02:13:10.942] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/220749, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[15Jul2025 02:13:19.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 02:13:29.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx moved too quickly! 1.244633430634849,-13.336155395493435,0.878140745003634
+[15Jul2025 02:13:31.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx was kicked for floating too long!
+[15Jul2025 02:13:31.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx lost connection: Flying is not enabled on this server
+[15Jul2025 02:13:31.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx left the game
+[15Jul2025 02:14:08.987] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3473b9eb[id=<null>,name=xXCaptainJhonaXx,properties={},legacy=false] (/127.204.29.74:45547) lost connection: Disconnected
+[15Jul2025 02:14:28.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Take Aim, Chaps!]
+[15Jul2025 02:14:43.840] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4dcb1dc0[id=<null>,name=xXCaptainJhonaXx,properties={},legacy=false] (/127.204.29.74:36583) lost connection: Disconnected
+[15Jul2025 02:15:18.904] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@318fd45e[id=<null>,name=xXCaptainJhonaXx,properties={},legacy=false] (/127.204.29.74:49039) lost connection: Disconnected
+[15Jul2025 02:20:46.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXCaptainJhonaXx[/127.204.29.74:58547] logged in with entity id 225948 at (557.3432427625213, 73.38748221193508, -629.3854892964163)
+[15Jul2025 02:20:46.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx joined the game
+[15Jul2025 02:20:46.619] [Server thread/INFO] [Jade/]: Syncing config to xXCaptainJhonaXx (78905ced-1f79-3636-a88f-6c15c22bac0d)
+[15Jul2025 02:20:57.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx was kicked for floating too long!
+[15Jul2025 02:20:57.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx lost connection: Flying is not enabled on this server
+[15Jul2025 02:20:57.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx left the game
+[15Jul2025 02:21:10.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXCaptainJhonaXx[/127.204.29.74:42555] logged in with entity id 226305 at (557.3432427625213, 73.38748221193508, -629.3854892964163)
+[15Jul2025 02:21:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx joined the game
+[15Jul2025 02:21:10.879] [Server thread/INFO] [Jade/]: Syncing config to xXCaptainJhonaXx (78905ced-1f79-3636-a88f-6c15c22bac0d)
+[15Jul2025 02:21:20.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx moved too quickly! 0.0,-11.923195819866883,0.0
+[15Jul2025 02:21:54.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -1.9283377647764155,0.0,-10.200714064613521
+[15Jul2025 02:21:54.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -1.9921629135671992,0.0,-10.595425660112141
+[15Jul2025 02:21:54.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.055652996894537,0.0,-10.990206299251668
+[15Jul2025 02:21:54.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.118833938950047,0.0,-11.385050236231564
+[15Jul2025 02:21:54.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.1817328629197164,0.0,-11.779951718686448
+[15Jul2025 02:21:54.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.2443703882560158,0.0,-12.174906150632637
+[15Jul2025 02:21:54.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.306768863880052,0.0,-12.569908810814468
+[15Jul2025 02:21:54.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.3689484033545796,0.0,-12.964955453827201
+[15Jul2025 02:21:54.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.430927108885612,0.0,-13.36004225880663
+[15Jul2025 02:21:54.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.4927212729236317,0.0,-13.755165786975226
+[15Jul2025 02:21:54.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.5543455582081833,0.0,-14.150322943433139
+[15Jul2025 02:21:54.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.6158131612044144,0.0,-14.545510942770647
+[15Jul2025 02:21:54.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.677135958730787,0.0,-14.940727274393794
+[15Jul2025 02:21:54.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.7383284313376635,0.0,-15.335969105073332
+[15Jul2025 02:21:54.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.799399819640257,0.0,-15.731234458597669
+[15Jul2025 02:21:54.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.860362232071907,0.0,-16.126520982681768
+[15Jul2025 02:21:54.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.921222774808143,0.0,-16.52182713768923
+[15Jul2025 02:21:54.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -2.9819916348208153,0.0,-16.917150960527124
+[15Jul2025 02:21:54.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -3.042674188970409,0.0,-17.312491258106775
+[15Jul2025 02:21:54.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -3.1032790678451647,0.0,-17.707846382953676
+[15Jul2025 02:21:54.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -3.163814038974465,0.0,-18.10321485234067
+[15Jul2025 02:21:54.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -1.6014633164323868,0.0,-10.274144708899598
+[15Jul2025 02:21:54.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -1.6616819236675155,0.0,-10.669572714413789
+[15Jul2025 02:21:54.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -1.7218616665705895,0.0,-11.06500792378904
+[15Jul2025 02:21:54.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -1.7820064315758373,0.0,-11.460449616639039
+[15Jul2025 02:21:54.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -1.8421197164738032,0.0,-11.855897144616165
+[15Jul2025 02:21:54.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -1.9022046692759886,0.0,-12.251349924207602
+[15Jul2025 02:21:54.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved too quickly! -1.9622641231926536,0.0,-12.646807430251783
+[15Jul2025 02:22:35.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.28316259974167224
+[15Jul2025 02:22:35.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.2756848237847862
+[15Jul2025 02:22:35.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.3931554779005637
+[15Jul2025 02:23:06.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to BozzNofps]
+[15Jul2025 02:23:06.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Guns and Roses]
+[15Jul2025 02:24:09.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Skeleton
+[15Jul2025 02:24:22.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has reached the goal [Hired Help]
+[15Jul2025 02:24:51.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/230650, l='ServerLevel[world]', x=189.05, y=-256.00, z=405.95] died, message: 'Unemployed was killed'
+[15Jul2025 02:24:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Zombie
+[15Jul2025 02:25:16.915] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/231075, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[15Jul2025 02:25:23.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[15Jul2025 02:25:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[15Jul2025 02:25:32.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:45085] logged in with entity id 231389 at (1955.4607833303066, 63.0, -6637.949842541331)
+[15Jul2025 02:25:32.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[15Jul2025 02:25:32.109] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[15Jul2025 02:25:43.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx moved too quickly! -0.009392865457584776,1.2000000476837158,9.957295772342919
+[15Jul2025 02:25:48.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Skeleton
+[15Jul2025 02:26:08.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/232194, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[15Jul2025 02:26:19.402] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/232284, l='ServerLevel[world]', x=258.44, y=-256.00, z=359.74] died, message: 'Unemployed was killed'
+[15Jul2025 02:26:23.916] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/232297, l='ServerLevel[world]', x=189.63, y=-256.00, z=405.99] died, message: 'Unemployed was killed'
+[15Jul2025 02:26:25.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[15Jul2025 02:26:28.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to BozzNofps]
+[15Jul2025 02:26:44.293] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/232720, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
+[15Jul2025 02:28:43.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/234306, l='ServerLevel[world]', x=189.41, y=-256.00, z=405.87] died, message: 'Unemployed was killed'
+[15Jul2025 02:29:56.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> day
+[15Jul2025 02:30:04.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 02:31:01.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.2815855958824045
+[15Jul2025 02:31:02.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.36343195278777785
+[15Jul2025 02:31:02.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.40796578659677607
+[15Jul2025 02:31:02.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.48615408746701405
+[15Jul2025 02:31:02.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.4688351722036259
+[15Jul2025 02:31:33.770] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/237156, l='ServerLevel[world]', x=469.50, y=45.00, z=-623.50]
