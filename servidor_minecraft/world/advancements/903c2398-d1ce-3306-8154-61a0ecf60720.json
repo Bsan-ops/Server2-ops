@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-05 06:06:55 +0000",
+      "minecraft:taiga": "2025-07-15 00:22:27 +0000",
       "minecraft:deep_ocean": "2025-07-06 20:13:14 +0000",
       "minecraft:frozen_river": "2025-07-12 03:27:14 +0000",
       "minecraft:cherry_grove": "2025-07-07 02:29:23 +0000",
@@ -6618,6 +6619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-15 00:19:05 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed": "2025-07-14 23:29:32 +0000"
@@ -6633,6 +6640,12 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-07-14 23:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-15 00:19:05 +0000"
     },
     "done": true
   },
