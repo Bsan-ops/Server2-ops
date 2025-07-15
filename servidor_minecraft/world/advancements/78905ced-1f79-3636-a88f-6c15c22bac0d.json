@@ -1804,9 +1804,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-14 23:46:55 +0000",
+      "minecraft:creeper": "2025-07-15 01:36:29 +0000",
       "minecraft:slime": "2025-07-14 23:55:14 +0000",
+      "minecraft:phantom": "2025-07-15 01:35:23 +0000",
       "minecraft:zombie": "2025-07-14 23:34:34 +0000",
-      "minecraft:drowned": "2025-07-14 23:54:59 +0000"
+      "minecraft:drowned": "2025-07-14 23:54:59 +0000",
+      "minecraft:zombie_villager": "2025-07-15 01:36:38 +0000"
     },
     "done": false
   },
@@ -2519,9 +2522,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-15 01:26:34 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
     "criteria": {
       "has_item": "2025-07-15 01:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-15 01:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-15 01:41:22 +0000"
     },
     "done": true
   },
@@ -2537,9 +2558,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-07-15 01:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-15 01:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-15 01:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-15 01:41:22 +0000"
     },
     "done": true
   },
