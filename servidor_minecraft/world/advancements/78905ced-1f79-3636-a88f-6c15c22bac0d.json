@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_battle_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-07-14 23:55:10 +0000"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-07-14 23:08:06 +0000"
@@ -236,6 +248,12 @@
   "spartanweaponry:recipes/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2025-07-14 23:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
     },
     "done": true
   },
@@ -572,6 +590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-14 23:55:10 +0000"
@@ -614,6 +638,12 @@
       "earth": "2025-07-14 23:55:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
@@ -732,6 +762,12 @@
   "spartanweaponry:recipes/diamond_longbow": {
     "criteria": {
       "has_diamond": "2025-07-14 23:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
     },
     "done": true
   },
@@ -921,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-15 00:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-14 23:08:13 +0000"
@@ -978,6 +1020,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-14 23:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
     },
     "done": true
   },
@@ -1071,6 +1119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-07-14 23:24:53 +0000"
@@ -1104,6 +1158,12 @@
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-07-14 23:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
     },
     "done": true
   },
@@ -1188,6 +1248,18 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
     },
     "done": true
   },
@@ -1305,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-07-14 23:55:22 +0000"
@@ -1329,9 +1407,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-07-14 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-15 00:13:05 +0000"
     },
     "done": true
   },
@@ -1497,6 +1587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_tomahawk": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 23:22:32 +0000"
@@ -1554,6 +1650,12 @@
   "spartanweaponry:recipes/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-07-15 00:11:37 +0000"
     },
     "done": true
   },
@@ -1941,6 +2043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-07-14 23:12:17 +0000"
@@ -1971,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-07-14 23:13:11 +0000"
@@ -1986,6 +2100,12 @@
   "spartanweaponry:recipes/combat/pole_from_string": {
     "criteria": {
       "has_stick": "2025-07-14 23:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-15 00:13:05 +0000"
     },
     "done": true
   },
@@ -2040,6 +2160,7 @@
       "minecraft:birch_forest": "2025-07-14 23:50:37 +0000",
       "minecraft:beach": "2025-07-14 23:17:13 +0000",
       "minecraft:dark_forest": "2025-07-14 23:50:38 +0000",
+      "minecraft:sparse_jungle": "2025-07-15 00:00:43 +0000",
       "minecraft:lukewarm_ocean": "2025-07-14 23:52:15 +0000",
       "minecraft:river": "2025-07-14 23:09:29 +0000",
       "minecraft:stony_shore": "2025-07-14 23:07:41 +0000",
