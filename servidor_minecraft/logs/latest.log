@@ -140,3 +140,18 @@
 [15Jul2025 00:57:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Tip of the Spear]
 [15Jul2025 00:57:35.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Smash And Bash!]
 [15Jul2025 00:57:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Hammer Time!]
+[15Jul2025 00:59:19.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15Jul2025 00:59:39.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4880ms or 97 ticks behind
+[15Jul2025 01:01:09.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> day
+[15Jul2025 01:01:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 01:01:19.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Disconnected
+[15Jul2025 01:01:19.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[15Jul2025 01:03:07.217] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/147850, l='ServerLevel[world]', x=472.50, y=44.00, z=-628.50]
+[15Jul2025 01:04:05.869] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/148836, l='ServerLevel[world]', x=463.50, y=37.00, z=-621.50]
+[15Jul2025 01:10:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXCaptainJhonaXx> day
+[15Jul2025 01:10:49.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 01:11:26.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky moved too quickly! 5.563719702607841,1.2468000194787976,-8.247925371658425
+[15Jul2025 01:11:26.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9572ms or 191 ticks behind
+[15Jul2025 01:19:54.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx was kicked for floating too long!
+[15Jul2025 01:19:54.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXCaptainJhonaXx lost connection: Flying is not enabled on this server
+[15Jul2025 01:19:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx left the game

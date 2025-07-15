@@ -1383,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-15 00:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 23:22:32 +0000"
@@ -2442,7 +2448,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2025-07-14 23:24:41 +0000"
+      "baked_potato": "2025-07-14 23:24:41 +0000",
+      "apple": "2025-07-15 01:08:26 +0000"
     },
     "done": false
   },
