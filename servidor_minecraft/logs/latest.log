@@ -88,3 +88,55 @@
 [15Jul2025 00:25:54.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -8.464823872637908,0.0,-10.124779567778091
 [15Jul2025 00:25:54.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -8.205117943675077,0.0,-9.820636216723187
 [15Jul2025 00:25:54.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -7.94577636527265,0.0,-9.516179871841928
+[15Jul2025 00:29:07.919] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[15Jul2025 00:29:07.921] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[15Jul2025 00:29:07.922] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[15Jul2025 00:29:08.015] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[15Jul2025 00:29:08.016] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[15Jul2025 00:29:08.016] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[15Jul2025 00:29:08.016] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[15Jul2025 00:29:08.031] [Worker-Main-80/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[15Jul2025 00:29:08.031] [Worker-Main-80/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[15Jul2025 00:29:08.031] [Worker-Main-80/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[15Jul2025 00:29:08.031] [Worker-Main-80/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[15Jul2025 00:29:08.292] [Worker-Main-81/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[15Jul2025 00:29:15.562] [Worker-Main-79/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[15Jul2025 00:29:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <agustinnfes2> hace de dia gato
+[15Jul2025 00:29:49.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 00:29:49.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> day
+[15Jul2025 00:33:27.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> 2527 95 217
+[15Jul2025 00:33:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[15Jul2025 00:38:44.768] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/114248, l='ServerLevel[world]', x=470.50, y=43.00, z=-622.50]
+[15Jul2025 00:39:43.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> day
+[15Jul2025 00:39:51.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> gay
+[15Jul2025 00:39:57.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 00:40:53.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Flexible Schedule]
+[15Jul2025 00:43:18.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has reached the goal [Clay Island]
+[15Jul2025 00:45:56.475] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [126, 63], discarding
+[15Jul2025 00:45:56.500] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [127, 63], discarding
+[15Jul2025 00:45:56.502] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [128, 63], discarding
+[15Jul2025 00:45:56.661] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [126, 64], discarding
+[15Jul2025 00:45:56.698] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [127, 64], discarding
+[15Jul2025 00:45:56.702] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'man:house' in chunk [128, 64], discarding
+[15Jul2025 00:49:48.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> day
+[15Jul2025 00:50:25.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[15Jul2025 00:50:26.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> day
+[15Jul2025 00:50:57.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXCaptainJhonaXx has made the advancement [A Small Price to Pay...]
+[15Jul2025 00:52:13.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.6.39.159:45259] logged in with entity id 130688 at (1259.938205240846, 62.073264324665075, -6109.062645241449)
+[15Jul2025 00:52:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[15Jul2025 00:52:15.171] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[15Jul2025 00:53:13.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[15Jul2025 00:54:47.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.44696349167770677
+[15Jul2025 00:54:47.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.6112636103626983
+[15Jul2025 00:54:47.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.8785173045774854
+[15Jul2025 00:54:47.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.26394795383487235
+[15Jul2025 00:54:47.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xXCaptainJhonaXx) moved wrongly! 0.5347130831702316
+[15Jul2025 00:55:01.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15Jul2025 00:55:21.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15Jul2025 00:55:39.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[15Jul2025 00:55:39.709] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/136263, l='ServerLevel[world]', x=1072.50, y=51.00, z=667.50]
+[15Jul2025 00:55:57.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3030ms or 60 ticks behind
+[15Jul2025 00:57:16.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Pike Off!]
+[15Jul2025 00:57:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Tip of the Spear]
+[15Jul2025 00:57:35.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Smash And Bash!]
+[15Jul2025 00:57:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Hammer Time!]
